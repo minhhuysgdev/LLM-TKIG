@@ -1,0 +1,24 @@
+# Dataset Configuration
+dataset:
+  # Data paths
+  train_path: "data/train.json"
+  eval_path: "data/eval.json"
+  test_path: "data/test.json"
+  
+  # Preprocessing
+  max_length: 512
+  task_type: "all"  # 'all', 'topic', 'entity', 'ttp'
+  
+  # Data splits
+  train_ratio: 0.8
+  eval_ratio: 0.1
+  test_ratio: 0.1
+  
+  # Batch sizes
+  train_batch_size: 8
+  eval_batch_size: 8
+  
+  # Data loading
+  num_workers: 4
+  pin_memory: true
+  shuffle: true 

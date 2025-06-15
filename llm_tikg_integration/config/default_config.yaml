@@ -1,0 +1,24 @@
+# Model parameters
+model_name: "meta-llama/Llama-2-7b-hf"
+max_length: 512
+batch_size: 8
+gradient_accumulation_steps: 4
+
+# LoRA parameters
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+target_modules:
+  - "q_proj"
+  - "k_proj"
+  - "v_proj"
+  - "o_proj"
+
+# Training parameters
+learning_rate: 2e-4
+num_train_epochs: 3
+warmup_steps: 100
+weight_decay: 0.01
+
+# Task-specific parameters
+task_type: "all"  # Options: "all", "topic", "entity", "ttp" 
