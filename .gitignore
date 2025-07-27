@@ -57,7 +57,7 @@ neo4j/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+
 
 # Testing
 .coverage
