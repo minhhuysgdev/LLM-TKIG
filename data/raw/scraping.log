@@ -466,3 +466,366 @@
 2025-07-20 14:03:25,434 - INFO - Successfully scraped: https://symantec-enterprise-blogs.security.com/blogs/threat-research
 2025-07-20 14:03:33,761 - INFO - Attempting to fetch https://symantec-enterprise-blogs.security.com/blogs/threat-research (attempt 1/6)
 2025-07-20 14:03:33,927 - INFO - Successfully scraped: https://symantec-enterprise-blogs.security.com/blogs/threat-research
+2025-07-26 19:51:44,343 - INFO - Collection started at 2025-07-26 19:51:44.343660
+2025-07-26 19:51:44,351 - INFO - Attempting to fetch https://www.cisa.gov/news-events/cybersecurity-advisories (attempt 1/6)
+2025-07-26 19:51:44,627 - INFO - Successfully scraped: https://www.cisa.gov/news-events/cybersecurity-advisories
+2025-07-26 19:51:52,315 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research (attempt 1/6)
+2025-07-26 19:51:52,637 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research
+2025-07-26 19:54:12,783 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research (attempt 1/6)
+2025-07-26 19:54:12,895 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research
+2025-07-26 19:54:21,303 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/in-depth-analysis-of-an-obfuscated-web-shell-script (attempt 1/6)
+2025-07-26 19:54:21,475 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/in-depth-analysis-of-an-obfuscated-web-shell-script
+2025-07-26 19:54:29,024 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/inside-the-toolshell-campaign (attempt 1/6)
+2025-07-26 19:54:29,192 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/inside-the-toolshell-campaign
+2025-07-26 19:54:36,828 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/a-special-mission-to-nowhere (attempt 1/6)
+2025-07-26 19:54:37,056 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/a-special-mission-to-nowhere
+2025-07-26 19:54:45,276 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/nailaolocker-ransomware-cheese (attempt 1/6)
+2025-07-26 19:54:45,498 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/nailaolocker-ransomware-cheese
+2025-07-26 19:54:54,178 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/improving-cloud-intrusion-detection-and-triage-with-forticnapp (attempt 1/6)
+2025-07-26 19:54:54,342 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/improving-cloud-intrusion-detection-and-triage-with-forticnapp
+2025-07-26 19:55:02,667 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/old-miner-new-tricks (attempt 1/6)
+2025-07-26 19:55:02,855 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/old-miner-new-tricks
+2025-07-26 19:55:11,111 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortisandbox-detects-dark-101-ransomware-despite-evasion-techniques (attempt 1/6)
+2025-07-26 19:55:11,272 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortisandbox-detects-dark-101-ransomware-despite-evasion-techniques
+2025-07-26 19:55:19,776 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/catching-smarter-mice-with-even-smarter-cats (attempt 1/6)
+2025-07-26 19:55:19,939 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/catching-smarter-mice-with-even-smarter-cats
+2025-07-26 19:55:27,974 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/norddragonscan-quiet-data-harvester-on-windows (attempt 1/6)
+2025-07-26 19:55:28,142 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/norddragonscan-quiet-data-harvester-on-windows
+2025-07-26 19:55:35,930 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/rondobox-unveiled-breaking-down-a-botnet-threat (attempt 1/6)
+2025-07-26 19:55:36,103 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/rondobox-unveiled-breaking-down-a-botnet-threat
+2025-07-26 19:55:43,956 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/rolandskimmer-silent-credit-card-thief-uncovered (attempt 1/6)
+2025-07-26 19:55:44,304 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/rolandskimmer-silent-credit-card-thief-uncovered
+2025-07-26 19:55:51,843 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/how-a-malicious-excel-file-cve-2017-0199-delivers-the-formbook-payload (attempt 1/6)
+2025-07-26 19:55:52,353 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/how-a-malicious-excel-file-cve-2017-0199-delivers-the-formbook-payload
+2025-07-26 19:56:00,100 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/dcrat-impersonating-the-columbian-government (attempt 1/6)
+2025-07-26 19:56:00,951 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/dcrat-impersonating-the-columbian-government
+2025-07-26 19:56:07,945 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/dissecting-a-malicious-havoc-sample (attempt 1/6)
+2025-07-26 19:56:08,828 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/dissecting-a-malicious-havoc-sample
+2025-07-26 19:56:15,005 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/threat-group-targets-companies-in-taiwan (attempt 1/6)
+2025-07-26 19:56:15,971 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/threat-group-targets-companies-in-taiwan
+2025-07-26 19:56:23,186 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/deep-dive-into-a-dumped-malware-without-a-pe-header (attempt 1/6)
+2025-07-26 19:56:24,036 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/deep-dive-into-a-dumped-malware-without-a-pe-header
+2025-07-26 19:56:30,704 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign (attempt 1/6)
+2025-07-26 19:56:31,737 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign
+2025-07-26 19:56:38,338 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-vanhelsing (attempt 1/6)
+2025-07-26 19:56:39,274 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-vanhelsing
+2025-07-26 19:56:45,534 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat (attempt 1/6)
+2025-07-26 19:56:46,450 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat
+2025-07-26 19:56:54,324 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/multilayered-email-attack-how-a-pdf-invoice-and-geofencing-led-to-rat-malware (attempt 1/6)
+2025-07-26 19:56:55,176 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/multilayered-email-attack-how-a-pdf-invoice-and-geofencing-led-to-rat-malware
+2025-07-26 19:57:02,110 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-incident-response-team-detects-intrusion-into-middle-east-critical-national-infrastructure (attempt 1/6)
+2025-07-26 19:57:02,620 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-incident-response-team-detects-intrusion-into-middle-east-critical-national-infrastructure
+2025-07-26 19:57:09,177 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/key-takeaways-from-the-2025-global-threat-landscape-report (attempt 1/6)
+2025-07-26 19:57:09,677 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/key-takeaways-from-the-2025-global-threat-landscape-report
+2025-07-26 19:57:16,856 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ingressnightmare-understanding-cve-2025-1974-in-kubernetes-ingress-nginx (attempt 1/6)
+2025-07-26 19:57:17,701 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ingressnightmare-understanding-cve-2025-1974-in-kubernetes-ingress-nginx
+2025-07-26 19:57:24,102 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign-part-i (attempt 1/6)
+2025-07-26 19:57:24,953 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign-part-i
+2025-07-26 19:57:32,247 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/new-rust-botnet-rustobot-is-routed-via-routers (attempt 1/6)
+2025-07-26 19:57:33,097 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/new-rust-botnet-rustobot-is-routed-via-routers
+2025-07-26 19:57:39,958 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/malicious-npm-packages-targeting-paypal-users (attempt 1/6)
+2025-07-26 19:57:40,307 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/malicious-npm-packages-targeting-paypal-users
+2025-07-26 19:57:48,622 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/real-time-anti-phishing-essential-defense-against-evolving-cyber-threats (attempt 1/6)
+2025-07-26 19:57:48,970 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/real-time-anti-phishing-essential-defense-against-evolving-cyber-threats
+2025-07-26 19:57:56,787 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortinet-identifies-malicious-packages-in-the-wild-insights-and-trends (attempt 1/6)
+2025-07-26 19:57:57,714 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortinet-identifies-malicious-packages-in-the-wild-insights-and-trends
+2025-07-26 19:58:04,810 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/havoc-sharepoint-with-microsoft-graph-api-turns-into-fud-c2 (attempt 1/6)
+2025-07-26 19:58:05,668 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/havoc-sharepoint-with-microsoft-graph-api-turns-into-fud-c2
+2025-07-26 19:58:13,160 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/winos-spreads-via-impersonation-of-official-email-to-target-users-in-taiwan (attempt 1/6)
+2025-07-26 19:58:13,514 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/winos-spreads-via-impersonation-of-official-email-to-target-users-in-taiwan
+2025-07-26 19:58:22,160 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortisandbox-detects-evolving-snake-keylogger-variant (attempt 1/6)
+2025-07-26 19:58:23,019 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortisandbox-detects-evolving-snake-keylogger-variant
+2025-07-26 19:58:31,088 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-lynx (attempt 1/6)
+2025-07-26 19:58:31,943 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-lynx
+2025-07-26 19:58:39,393 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/analyzing-elf-sshdinjector-with-a-human-and-artificial-analyst (attempt 1/6)
+2025-07-26 19:58:40,029 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/analyzing-elf-sshdinjector-with-a-human-and-artificial-analyst
+2025-07-26 19:58:46,438 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/coyote-banking-trojan-a-stealthy-attack-via-lnk-files (attempt 1/6)
+2025-07-26 19:58:47,322 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/coyote-banking-trojan-a-stealthy-attack-via-lnk-files
+2025-07-26 19:58:54,146 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/deep-dive-into-a-linux-rootkit-malware (attempt 1/6)
+2025-07-26 19:58:54,500 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/deep-dive-into-a-linux-rootkit-malware
+2025-07-26 19:59:01,581 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/phish-free-paypal-phishing (attempt 1/6)
+2025-07-26 19:59:02,433 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/phish-free-paypal-phishing
+2025-07-26 19:59:09,532 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/catching-ec2-grouper-no-indicators-required (attempt 1/6)
+2025-07-26 19:59:10,375 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/catching-ec2-grouper-no-indicators-required
+2025-07-26 19:59:17,126 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/botnets-continue-to-target-aging-d-link-vulnerabilities (attempt 1/6)
+2025-07-26 19:59:18,060 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/botnets-continue-to-target-aging-d-link-vulnerabilities
+2025-07-26 19:59:25,946 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code (attempt 1/6)
+2025-07-26 19:59:26,861 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code
+2025-07-26 19:59:33,660 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortinet-contributes-to-major-cybercrime-operation-arrests (attempt 1/6)
+2025-07-26 19:59:34,005 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortinet-contributes-to-major-cybercrime-operation-arrests
+2025-07-26 19:59:41,128 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/sophisticated-attack-targets-taiwan-with-smokeloader (attempt 1/6)
+2025-07-26 19:59:42,022 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/sophisticated-attack-targets-taiwan-with-smokeloader
+2025-07-26 19:59:49,321 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-interlock (attempt 1/6)
+2025-07-26 19:59:49,633 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-interlock
+2025-07-26 19:59:57,156 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/advanced-cyberthreats-targeting-holiday-shoppers (attempt 1/6)
+2025-07-26 19:59:58,035 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/advanced-cyberthreats-targeting-holiday-shoppers
+2025-07-26 20:00:04,358 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/threat-predictions-for-2025-get-ready-for-bigger-bolder-attacks (attempt 1/6)
+2025-07-26 20:00:05,302 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/threat-predictions-for-2025-get-ready-for-bigger-bolder-attacks
+2025-07-26 20:00:12,052 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims (attempt 1/6)
+2025-07-26 20:00:13,003 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims
+2025-07-26 20:00:20,924 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/threat-campaign-spreads-winos4-through-game-application (attempt 1/6)
+2025-07-26 20:00:21,834 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/threat-campaign-spreads-winos4-through-game-application
+2025-07-26 20:00:28,490 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa (attempt 1/6)
+2025-07-26 20:00:28,744 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa
+2025-07-26 20:00:35,943 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/threat-actors-exploit-geoserver-vulnerability-cve-2024-36401 (attempt 1/6)
+2025-07-26 20:00:36,127 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/threat-actors-exploit-geoserver-vulnerability-cve-2024-36401
+2025-07-26 20:00:43,606 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/emansrepo-stealer-multi-vector-attack-chains (attempt 1/6)
+2025-07-26 20:00:44,533 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/emansrepo-stealer-multi-vector-attack-chains
+2025-07-26 20:00:51,650 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-underground (attempt 1/6)
+2025-07-26 20:00:51,967 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-underground
+2025-07-26 20:00:58,833 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/deep-analysis-of-snake-keylogger-new-variant (attempt 1/6)
+2025-07-26 20:00:59,050 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/deep-analysis-of-snake-keylogger-new-variant
+2025-07-26 20:01:07,041 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers (attempt 1/6)
+2025-07-26 20:01:07,271 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers
+2025-07-26 20:01:14,755 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/preparation-is-not-optional-10-incident-response-readiness-considerations (attempt 1/6)
+2025-07-26 20:01:15,597 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/preparation-is-not-optional-10-incident-response-readiness-considerations
+2025-07-26 20:01:22,180 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/purehvnc-deployed-via-python-multi-stage-loader (attempt 1/6)
+2025-07-26 20:01:23,030 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/purehvnc-deployed-via-python-multi-stage-loader
+2025-07-26 20:01:30,751 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/malicious-packages-hidden-in-pypl (attempt 1/6)
+2025-07-26 20:01:31,598 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/malicious-packages-hidden-in-pypl
+2025-07-26 20:01:38,677 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures (attempt 1/6)
+2025-07-26 20:01:39,552 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures
+2025-07-26 20:01:46,792 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/dark-web-shows-cybercriminals-ready-for-olympics (attempt 1/6)
+2025-07-26 20:01:47,636 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/dark-web-shows-cybercriminals-ready-for-olympics
+2025-07-26 20:01:55,377 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems (attempt 1/6)
+2025-07-26 20:01:55,625 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems
+2025-07-26 20:02:02,842 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services (attempt 1/6)
+2025-07-26 20:02:03,020 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services
+2025-07-26 20:02:10,758 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fickle-stealer-distributed-via-multiple-attack-chain (attempt 1/6)
+2025-07-26 20:02:11,669 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fickle-stealer-distributed-via-multiple-attack-chain
+2025-07-26 20:02:19,524 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-shinra-and-limpopo-ransomware (attempt 1/6)
+2025-07-26 20:02:20,554 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-shinra-and-limpopo-ransomware
+2025-07-26 20:02:26,934 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/new-agent-tesla-campaign-targeting-spanish-speaking-people (attempt 1/6)
+2025-07-26 20:02:27,785 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/new-agent-tesla-campaign-targeting-spanish-speaking-people
+2025-07-26 20:02:35,663 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/menace-unleashed-excel-file-deploys-cobalt-strike-at-ukraine (attempt 1/6)
+2025-07-26 20:02:36,135 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/menace-unleashed-excel-file-deploys-cobalt-strike-at-ukraine
+2025-07-26 20:02:43,757 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/zeus-stealer-distributed-via-crafted-minecraft-source-pack (attempt 1/6)
+2025-07-26 20:02:44,603 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/zeus-stealer-distributed-via-crafted-minecraft-source-pack
+2025-07-26 20:02:51,604 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/key-findings-2h-2023-fortiguard-labs-threat-report (attempt 1/6)
+2025-07-26 20:02:52,471 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/key-findings-2h-2023-fortiguard-labs-threat-report
+2025-07-26 20:02:59,903 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/new-goldoon-botnet-targeting-d-link-devices (attempt 1/6)
+2025-07-26 20:03:00,081 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/new-goldoon-botnet-targeting-d-link-devices
+2025-07-26 20:03:07,100 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-keganohitobito-and-donex (attempt 1/6)
+2025-07-26 20:03:07,672 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-keganohitobito-and-donex
+2025-07-26 20:03:14,200 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/unraveling-cyber-threats-insights-from-code-analysis (attempt 1/6)
+2025-07-26 20:03:15,276 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/unraveling-cyber-threats-insights-from-code-analysis
+2025-07-26 20:03:21,538 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread (attempt 1/6)
+2025-07-26 20:03:22,433 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread
+2025-07-26 20:03:29,131 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/scrubcrypt-deploys-venomrat-with-arsenal-of-plugins (attempt 1/6)
+2025-07-26 20:03:30,030 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/scrubcrypt-deploys-venomrat-with-arsenal-of-plugins
+2025-07-26 20:03:37,813 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/byakugan-malware-behind-a-phishing-attack (attempt 1/6)
+2025-07-26 20:03:38,801 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/byakugan-malware-behind-a-phishing-attack
+2025-07-26 20:03:44,891 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-ra-world (attempt 1/6)
+2025-07-26 20:03:45,456 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-ra-world
+2025-07-26 20:03:53,649 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/vcurms-a-simple-and-functional-weapon (attempt 1/6)
+2025-07-26 20:03:53,836 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/vcurms-a-simple-and-functional-weapon
+2025-07-26 20:04:01,688 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/banking-trojan-chavecloak-targets-brazil (attempt 1/6)
+2025-07-26 20:04:01,854 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/banking-trojan-chavecloak-targets-brazil
+2025-07-26 20:04:09,144 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-labs-outbreak-alerts-report-2023 (attempt 1/6)
+2025-07-26 20:04:09,981 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-labs-outbreak-alerts-report-2023
+2025-07-26 20:04:17,772 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker (attempt 1/6)
+2025-07-26 20:04:18,632 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker
+2025-07-26 20:04:26,638 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/android-spynote-moves-to-crypto-currencies (attempt 1/6)
+2025-07-26 20:04:27,485 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/android-spynote-moves-to-crypto-currencies
+2025-07-26 20:04:35,095 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/tictactoe-dropper (attempt 1/6)
+2025-07-26 20:04:35,940 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/tictactoe-dropper
+2025-07-26 20:04:43,716 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/python-info-stealer-malicious-excel-document (attempt 1/6)
+2025-07-26 20:04:44,556 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/python-info-stealer-malicious-excel-document
+2025-07-26 20:04:52,249 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-albabat (attempt 1/6)
+2025-07-26 20:04:53,093 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-albabat
+2025-07-26 20:05:00,535 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/phobos-ransomware-variant-launches-attack-faust (attempt 1/6)
+2025-07-26 20:05:01,375 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/phobos-ransomware-variant-launches-attack-faust
+2025-07-26 20:05:09,179 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/info-stealing-packages-hidden-in-pypi (attempt 1/6)
+2025-07-26 20:05:09,886 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/info-stealing-packages-hidden-in-pypi
+2025-07-26 20:05:16,638 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/lumma-variant-on-youtube (attempt 1/6)
+2025-07-26 20:05:17,530 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/lumma-variant-on-youtube
+2025-07-26 20:05:25,519 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/malicious-pypi-packages-deploy-coinminer-on-linux-devices (attempt 1/6)
+2025-07-26 20:05:26,007 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/malicious-pypi-packages-deploy-coinminer-on-linux-devices
+2025-07-26 20:05:33,340 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-8base (attempt 1/6)
+2025-07-26 20:05:34,730 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-8base
+2025-07-26 20:05:41,718 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/bandook-persistent-threat-that-keeps-evolving (attempt 1/6)
+2025-07-26 20:05:42,610 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/bandook-persistent-threat-that-keeps-evolving
+2025-07-26 20:05:49,478 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/teamcity-intrusion-saga-apt29-suspected-exploiting-cve-2023-42793 (attempt 1/6)
+2025-07-26 20:05:49,949 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/teamcity-intrusion-saga-apt29-suspected-exploiting-cve-2023-42793
+2025-07-26 20:05:56,601 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/mranon-stealer-spreads-via-email-with-fake-hotel-booking-pdf (attempt 1/6)
+2025-07-26 20:05:56,969 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/mranon-stealer-spreads-via-email-with-fake-hotel-booking-pdf
+2025-07-26 20:06:04,205 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/gotitan-botnet-exploitation-on-apache-activemq (attempt 1/6)
+2025-07-26 20:06:05,048 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/gotitan-botnet-exploitation-on-apache-activemq
+2025-07-26 20:06:12,431 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document (attempt 1/6)
+2025-07-26 20:06:13,284 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document
+2025-07-26 20:06:20,283 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/investigating-the-new-rhysida-ransomware (attempt 1/6)
+2025-07-26 20:06:21,254 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/investigating-the-new-rhysida-ransomware
+2025-07-26 20:06:28,203 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-noescape (attempt 1/6)
+2025-07-26 20:06:28,707 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-noescape
+2025-07-26 20:06:35,975 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/2024-threat-predictions-chained-ai-and-caas-operations (attempt 1/6)
+2025-07-26 20:06:36,955 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/2024-threat-predictions-chained-ai-and-caas-operations
+2025-07-26 20:06:43,361 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-knight (attempt 1/6)
+2025-07-26 20:06:43,706 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-knight
+2025-07-26 20:06:50,828 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/exelastealer-infostealer-enters-the-field (attempt 1/6)
+2025-07-26 20:06:51,677 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/exelastealer-infostealer-enters-the-field
+2025-07-26 20:06:58,810 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-akira (attempt 1/6)
+2025-07-26 20:06:59,663 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-akira
+2025-07-26 20:07:07,168 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits (attempt 1/6)
+2025-07-26 20:07:08,393 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits
+2025-07-26 20:07:14,549 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/malicious-packages-hiddin-in-npm (attempt 1/6)
+2025-07-26 20:07:14,893 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/malicious-packages-hiddin-in-npm
+2025-07-26 20:07:22,423 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/threat-Actors-exploit-the-tensions-between-azerbaijan-and-armenia (attempt 1/6)
+2025-07-26 20:07:23,274 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/threat-Actors-exploit-the-tensions-between-azerbaijan-and-armenia
+2025-07-26 20:07:29,679 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-retch-and-sho (attempt 1/6)
+2025-07-26 20:07:30,534 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-retch-and-sho
+2025-07-26 20:07:36,847 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/new-midgedropper-variant (attempt 1/6)
+2025-07-26 20:07:37,198 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/new-midgedropper-variant
+2025-07-26 20:07:44,818 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/originbotnet-spreads-via-malicious-word-document (attempt 1/6)
+2025-07-26 20:07:45,676 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/originbotnet-spreads-via-malicious-word-document
+2025-07-26 20:07:51,884 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document (attempt 1/6)
+2025-07-26 20:07:52,753 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document
+2025-07-26 20:08:00,677 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-rhysida (attempt 1/6)
+2025-07-26 20:08:01,530 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-rhysida
+2025-07-26 20:08:09,111 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/multiple-threats-target-adobe-coldfusion-vulnerabilities (attempt 1/6)
+2025-07-26 20:08:09,986 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/multiple-threats-target-adobe-coldfusion-vulnerabilities
+2025-07-26 20:08:17,376 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-trash-panda-and-nocry-variant (attempt 1/6)
+2025-07-26 20:08:18,216 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-trash-panda-and-nocry-variant
+2025-07-26 20:08:25,056 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-ai-detects-malicious-packages-in-pypi (attempt 1/6)
+2025-07-26 20:08:25,901 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-ai-detects-malicious-packages-in-pypi
+2025-07-26 20:08:33,468 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/malware-distributed-via-freezers-and-syk-crypter (attempt 1/6)
+2025-07-26 20:08:33,875 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/malware-distributed-via-freezers-and-syk-crypter
+2025-07-26 20:08:40,822 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-1h-2023 (attempt 1/6)
+2025-07-26 20:08:41,333 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-1h-2023
+2025-07-26 20:08:48,310 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-dodo-and-proton (attempt 1/6)
+2025-07-26 20:08:49,159 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-dodo-and-proton
+2025-07-26 20:08:55,814 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/microsoft-message-queuing-service-vulnerabilities (attempt 1/6)
+2025-07-26 20:08:56,658 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/microsoft-message-queuing-service-vulnerabilities
+2025-07-26 20:09:03,523 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-cl0p (attempt 1/6)
+2025-07-26 20:09:04,528 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-cl0p
+2025-07-26 20:09:12,468 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ddos-botnets-target-zyxel-vulnerability-cve-2023-28771 (attempt 1/6)
+2025-07-26 20:09:13,315 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ddos-botnets-target-zyxel-vulnerability-cve-2023-28771
+2025-07-26 20:09:20,784 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/adobe-indesign-zero-day-vulnerabilities (attempt 1/6)
+2025-07-26 20:09:21,704 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/adobe-indesign-zero-day-vulnerabilities
+2025-07-26 20:09:28,200 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/lokibot-targets-microsoft-office-document-using-vulnerabilities-and-macros (attempt 1/6)
+2025-07-26 20:09:29,056 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/lokibot-targets-microsoft-office-document-using-vulnerabilities-and-macros
+2025-07-26 20:09:36,836 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/lockbit-most-prevalent-ransomware (attempt 1/6)
+2025-07-26 20:09:37,934 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/lockbit-most-prevalent-ransomware
+2025-07-26 20:09:44,866 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-rancoz (attempt 1/6)
+2025-07-26 20:09:45,876 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-rancoz
+2025-07-26 20:09:53,474 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/new-fast-developing-thirdeye-infostealer-pries-open-system-information (attempt 1/6)
+2025-07-26 20:09:54,383 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/new-fast-developing-thirdeye-infostealer-pries-open-system-information
+2025-07-26 20:10:01,065 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-black-basta (attempt 1/6)
+2025-07-26 20:10:02,176 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-black-basta
+2025-07-26 20:10:08,597 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortinet-reverses-flutter-based-android-malware-fluhorse (attempt 1/6)
+2025-07-26 20:10:09,112 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortinet-reverses-flutter-based-android-malware-fluhorse
+2025-07-26 20:10:17,177 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/condi-ddos-botnet-spreads-via-tp-links-cve-2023-1389 (attempt 1/6)
+2025-07-26 20:10:18,059 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/condi-ddos-botnet-spreads-via-tp-links-cve-2023-1389
+2025-07-26 20:10:25,790 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup-big-head (attempt 1/6)
+2025-07-26 20:10:26,635 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup-big-head
+2025-07-26 20:10:34,156 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/moveit-transfer-critical-vulnerability-cve-2023-34362-exploited-as-a-0-day (attempt 1/6)
+2025-07-26 20:10:34,515 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/moveit-transfer-critical-vulnerability-cve-2023-34362-exploited-as-a-0-day
+2025-07-26 20:10:41,700 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/youtube-pirated-software-videos-deliver-triple-threat-vidar-stealer-laplas-clipper-xmrig-miner (attempt 1/6)
+2025-07-26 20:10:42,575 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/youtube-pirated-software-videos-deliver-triple-threat-vidar-stealer-laplas-clipper-xmrig-miner
+2025-07-26 20:10:49,413 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/wintapix-kernal-driver-middle-east-countries (attempt 1/6)
+2025-07-26 20:10:49,805 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/wintapix-kernal-driver-middle-east-countries
+2025-07-26 20:10:57,723 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-malicious-python-packages (attempt 1/6)
+2025-07-26 20:10:58,296 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-malicious-python-packages
+2025-07-26 20:11:06,527 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-maori (attempt 1/6)
+2025-07-26 20:11:07,467 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-maori
+2025-07-26 20:11:13,872 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/rapperbot-ddos-botnet-expands-into-cryptojacking (attempt 1/6)
+2025-07-26 20:11:14,364 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/rapperbot-ddos-botnet-expands-into-cryptojacking
+2025-07-26 20:11:22,535 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/andoryubot-new-botnet-campaign-targets-ruckus-wireless-admin-remote-code-execution-vulnerability-cve-2023-25717 (attempt 1/6)
+2025-07-26 20:11:22,876 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/andoryubot-new-botnet-campaign-targets-ruckus-wireless-admin-remote-code-execution-vulnerability-cve-2023-25717
+2025-07-26 20:11:29,552 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/clean-rooms-nuclear-missiles-and-sidecopy (attempt 1/6)
+2025-07-26 20:11:30,091 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/clean-rooms-nuclear-missiles-and-sidecopy
+2025-07-26 20:11:37,511 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-uniza-coverage (attempt 1/6)
+2025-07-26 20:11:38,533 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-uniza-coverage
+2025-07-26 20:11:46,033 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/evil-extractor-all-in-one-stealer (attempt 1/6)
+2025-07-26 20:11:46,930 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/evil-extractor-all-in-one-stealer
+2025-07-26 20:11:53,978 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-kadavro-vector-ransomware (attempt 1/6)
+2025-07-26 20:11:55,519 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-kadavro-vector-ransomware
+2025-07-26 20:12:01,574 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/tax-scammers-at-large (attempt 1/6)
+2025-07-26 20:12:02,732 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/tax-scammers-at-large
+2025-07-26 20:12:09,808 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/exploring-recent-microsoft-outlook-vulnerability-cve-2023-23397 (attempt 1/6)
+2025-07-26 20:12:10,705 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/exploring-recent-microsoft-outlook-vulnerability-cve-2023-23397
+2025-07-26 20:12:17,733 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/are-internet-macros-dead-or-alive (attempt 1/6)
+2025-07-26 20:12:18,640 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/are-internet-macros-dead-or-alive
+2025-07-26 20:12:26,434 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/malware-disguised-as-document-ukraine-energoatom-delivers-havoc-demon-backdoor (attempt 1/6)
+2025-07-26 20:12:27,455 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/malware-disguised-as-document-ukraine-energoatom-delivers-havoc-demon-backdoor
+2025-07-26 20:12:34,659 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/3cx-desktop-app-compromised (attempt 1/6)
+2025-07-26 20:12:35,503 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/3cx-desktop-app-compromised
+2025-07-26 20:12:43,611 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/dark-power-and-payme100usd-ransomware (attempt 1/6)
+2025-07-26 20:12:44,455 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/dark-power-and-payme100usd-ransomware
+2025-07-26 20:12:51,581 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/moobot-strikes-again-targeting-cacti-and-realtek-vulnerabilities (attempt 1/6)
+2025-07-26 20:12:52,469 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/moobot-strikes-again-targeting-cacti-and-realtek-vulnerabilities
+2025-07-26 20:12:58,699 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages (attempt 1/6)
+2025-07-26 20:12:59,139 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages
+2025-07-26 20:13:06,634 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/intel-on-wiper-malware (attempt 1/6)
+2025-07-26 20:13:07,608 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/intel-on-wiper-malware
+2025-07-26 20:13:15,206 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup (attempt 1/6)
+2025-07-26 20:13:16,270 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup
+2025-07-26 20:13:23,619 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/microsoft-onenote-file-being-leveraged-by-phishing-campaigns-to-spread-malware (attempt 1/6)
+2025-07-26 20:13:24,474 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/microsoft-onenote-file-being-leveraged-by-phishing-campaigns-to-spread-malware
+2025-07-26 20:13:31,844 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/bad-actors-resurrecting-old-tactics (attempt 1/6)
+2025-07-26 20:13:32,302 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/bad-actors-resurrecting-old-tactics
+2025-07-26 20:13:40,079 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/old-cyber-gang-uses-new-crypter-scrubcrypt (attempt 1/6)
+2025-07-26 20:13:40,927 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/old-cyber-gang-uses-new-crypter-scrubcrypt
+2025-07-26 20:13:47,913 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-sirattacker-acl (attempt 1/6)
+2025-07-26 20:13:49,078 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-sirattacker-acl
+2025-07-26 20:13:55,156 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/just-because-its-old-doesnt-mean-you-throw-it-away-including-malware (attempt 1/6)
+2025-07-26 20:13:56,010 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/just-because-its-old-doesnt-mean-you-throw-it-away-including-malware
+2025-07-26 20:14:03,824 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/emerging-lockbit-campaign (attempt 1/6)
+2025-07-26 20:14:04,676 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/emerging-lockbit-campaign
+2025-07-26 20:14:11,444 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-2h-2022 (attempt 1/6)
+2025-07-26 20:14:12,308 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-2h-2022
+2025-07-26 20:14:19,734 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/royal-ransomware-targets-linux-esxi-servers (attempt 1/6)
+2025-07-26 20:14:20,802 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/royal-ransomware-targets-linux-esxi-servers
+2025-07-26 20:14:28,617 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-new-malicious-python-packages-in-pypi (attempt 1/6)
+2025-07-26 20:14:29,631 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-new-malicious-python-packages-in-pypi
+2025-07-26 20:14:36,473 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-catb-ransomware (attempt 1/6)
+2025-07-26 20:14:37,566 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-catb-ransomware
+2025-07-26 20:14:44,929 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages-by-malware-author-core1337 (attempt 1/6)
+2025-07-26 20:14:45,441 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages-by-malware-author-core1337
+2025-07-26 20:14:53,394 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/supply-chain-attack-by-new-malicious-python-package-web3-essential (attempt 1/6)
+2025-07-26 20:14:54,247 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/supply-chain-attack-by-new-malicious-python-package-web3-essential
+2025-07-26 20:15:01,170 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-trigona-ransomware (attempt 1/6)
+2025-07-26 20:15:01,661 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-trigona-ransomware
+2025-07-26 20:15:09,417 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/malicious-code-cryptojacks-device-to-mine-for-monero-crypto (attempt 1/6)
+2025-07-26 20:15:10,365 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/malicious-code-cryptojacks-device-to-mine-for-monero-crypto
+2025-07-26 20:15:16,798 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/fortiguard-outbreak-alerts-2022-annual-report (attempt 1/6)
+2025-07-26 20:15:17,792 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/fortiguard-outbreak-alerts-2022-annual-report
+2025-07-26 20:15:25,731 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/the-year-of-the-wiper (attempt 1/6)
+2025-07-26 20:15:26,578 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/the-year-of-the-wiper
+2025-07-26 20:15:34,354 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/qr-code-phishing-attempts-to-steal-credentials-from-chinese-language-users (attempt 1/6)
+2025-07-26 20:15:35,194 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/qr-code-phishing-attempts-to-steal-credentials-from-chinese-language-users
+2025-07-26 20:15:43,351 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-playing-whack-a-mole-with-new-crysis-dharma-variants (attempt 1/6)
+2025-07-26 20:15:44,357 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-playing-whack-a-mole-with-new-crysis-dharma-variants
+2025-07-26 20:15:50,852 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps (attempt 1/6)
+2025-07-26 20:15:51,689 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps
+2025-07-26 20:15:59,128 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/2022-iot-threat-review (attempt 1/6)
+2025-07-26 20:16:00,191 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/2022-iot-threat-review
+2025-07-26 20:16:06,269 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-monti-blackhunt-and-more (attempt 1/6)
+2025-07-26 20:16:07,112 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-monti-blackhunt-and-more
+2025-07-26 20:16:13,797 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/trying-to-steal-christmas-again (attempt 1/6)
+2025-07-26 20:16:14,302 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/trying-to-steal-christmas-again
+2025-07-26 20:16:21,115 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/ransomware-roundup-play-ransomware (attempt 1/6)
+2025-07-26 20:16:21,974 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/ransomware-roundup-play-ransomware
+2025-07-26 20:16:28,774 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/the-taxman-never-sleeps (attempt 1/6)
+2025-07-26 20:16:29,631 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/the-taxman-never-sleeps
+2025-07-26 20:16:36,975 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/new-supply-chain-attack-uses-python-package-index-aioconsol (attempt 1/6)
+2025-07-26 20:16:37,787 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/new-supply-chain-attack-uses-python-package-index-aioconsol
+2025-07-26 20:16:45,320 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-package-shaderz-part-2 (attempt 1/6)
+2025-07-26 20:16:46,320 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-package-shaderz-part-2
+2025-07-26 20:16:53,772 - INFO - Attempting to fetch https://www.fortinet.com/blog/threat-research/want-to-know-whats-in-that-online-mystery-box-nothing-at-all (attempt 1/6)
+2025-07-26 20:16:54,627 - INFO - Successfully scraped: https://www.fortinet.com/blog/threat-research/want-to-know-whats-in-that-online-mystery-box-nothing-at-all
+2025-07-26 20:31:20,913 - INFO - Collection started at 2025-07-26 20:31:20.913718
+2025-07-26 20:31:20,922 - INFO - Attempting to fetch https://www.security.com/threat-intelligence (attempt 1/6)
+2025-07-26 20:31:21,718 - INFO - Successfully scraped: https://www.security.com/threat-intelligence
+2025-07-26 20:32:16,711 - INFO - Collection started at 2025-07-26 20:32:16.711647
+2025-07-26 20:32:16,718 - INFO - Attempting to fetch https://www.security.com/threat-intelligence (attempt 1/6)
+2025-07-26 20:32:17,334 - INFO - Successfully scraped: https://www.security.com/threat-intelligence
+2025-07-26 20:38:43,833 - INFO - Collection started at 2025-07-26 20:38:43.833594
+2025-07-26 20:41:15,795 - INFO - Collection started at 2025-07-26 20:41:15.795001
+2025-07-26 20:41:42,040 - INFO - Collection started at 2025-07-26 20:41:42.040751
+2025-07-26 21:34:06,453 - INFO - Collection started at 2025-07-26 21:34:06.453447
+2025-07-26 21:45:53,244 - INFO - Collection started at 2025-07-26 21:45:53.244333
+2025-07-26 22:34:31,102 - INFO - Collection started at 2025-07-26 22:34:31.102152
+2025-07-26 22:34:31,110 - ERROR - Symantec HTML file reading failed: [Errno 2] No such file or directory: 'data/Threat Intelligence _ Symantec Enterprise Blogs.html'
+2025-07-26 22:34:37,636 - INFO - Collection started at 2025-07-26 22:34:37.635209
+2025-07-26 22:34:37,638 - ERROR - Symantec HTML file reading failed: [Errno 2] No such file or directory: 'data/Threat Intelligence _ Symantec Enterprise Blogs.html'
+2025-07-26 22:35:20,893 - INFO - Collection started at 2025-07-26 22:35:20.893993
