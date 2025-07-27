@@ -44,8 +44,7 @@ logs/
 *.log
 checkpoints/
 models/
-data/raw/
-data/processed/
+
 *.pt
 *.pth
 *.ckpt
