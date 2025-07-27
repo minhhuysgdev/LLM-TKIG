@@ -1,0 +1,225 @@
+{
+  "entity_types": {
+    "TechnicalIndicator": {
+      "description": "Technical cybersecurity indicators extracted from threat intelligence",
+      "subtypes": {
+        "IPAddress": {
+          "description": "IPv4 and IPv6 addresses",
+          "pattern": "\\b(?:[0-9]{1,3}\\.){3}[0-9]{1,3}\\b",
+          "attributes": ["value", "reputation", "geolocation"]
+        },
+        "Domain": {
+          "description": "Domain names and hostnames",
+          "pattern": "\\b[a-zA-Z0-9]([a-zA-Z0-9\\-]{0,61}[a-zA-Z0-9])?\\.[a-zA-Z]{2,}\\b",
+          "attributes": ["value", "registrar", "creation_date", "reputation"]
+        },
+        "Hash": {
+          "description": "File hashes (MD5, SHA1, SHA256)",
+          "subtypes": {
+            "MD5": {"pattern": "\\b[a-fA-F0-9]{32}\\b"},
+            "SHA1": {"pattern": "\\b[a-fA-F0-9]{40}\\b"},
+            "SHA256": {"pattern": "\\b[a-fA-F0-9]{64}\\b"}
+          },
+          "attributes": ["value", "file_type", "file_size", "detection_ratio"]
+        },
+        "CVE": {
+          "description": "Common Vulnerabilities and Exposures identifiers",
+          "pattern": "CVE-\\d{4}-\\d{4,7}",
+          "attributes": ["id", "severity", "cvss_score", "affected_products"]
+        },
+        "URL": {
+          "description": "Malicious or suspicious URLs",
+          "pattern": "https?://(?:[-\\w.])+(?:[:\\d]+)?(?:/(?:[\\w/_.])*(?:\\?(?:[\\w&=%.])*)?(?:#(?:\\w)*)?)?",
+          "attributes": ["value", "status", "reputation"]
+        },
+        "Email": {
+          "description": "Email addresses associated with threats",
+          "pattern": "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b",
+          "attributes": ["value", "domain", "reputation"]
+        }
+      }
+    },
+    "ThreatActor": {
+      "description": "Individuals or groups responsible for cyber threats",
+      "attributes": ["name", "aliases", "attribution", "motivation", "sophistication"],
+      "relationships": ["uses", "targets", "affiliatedWith"]
+    },
+    "Malware": {
+      "description": "Malicious software and malware families",
+      "attributes": ["name", "family", "type", "platform", "capabilities"],
+      "relationships": ["dropper", "payload", "variant"]
+    },
+    "AttackPattern": {
+      "description": "Tactics, techniques, and procedures (TTPs)",
+      "attributes": ["name", "mitre_id", "tactic", "technique", "description"],
+      "relationships": ["uses", "mitigatedBy", "detectedBy"]
+    },
+    "Vulnerability": {
+      "description": "Security weaknesses in systems or software",
+      "attributes": ["cve_id", "severity", "cvss_score", "description", "affected_products"],
+      "relationships": ["exploitedBy", "affects", "mitigatedBy"]
+    },
+    "Campaign": {
+      "description": "Coordinated threat activities",
+      "attributes": ["name", "description", "start_date", "end_date", "objectives"],
+      "relationships": ["uses", "targets", "attributedTo"]
+    },
+    "Organization": {
+      "description": "Target organizations or entities",
+      "attributes": ["name", "sector", "country", "size"],
+      "relationships": ["targetedBy", "affiliatedWith"]
+    },
+    "GeographicLocation": {
+      "description": "Countries, regions, or cities relevant to threats",
+      "attributes": ["name", "type", "coordinates"],
+      "relationships": ["originatesFrom", "targets"]
+    }
+  },
+  "relationship_types": {
+    "mentions": {
+      "description": "Document mentions an entity",
+      "source": "Document",
+      "target": "Any",
+      "attributes": ["frequency", "context", "confidence"]
+    },
+    "uses": {
+      "description": "One entity uses another",
+      "source": ["ThreatActor", "Malware", "Campaign"],
+      "target": ["Malware", "AttackPattern", "TechnicalIndicator"],
+      "attributes": ["frequency", "effectiveness", "confidence"]
+    },
+    "targets": {
+      "description": "One entity targets another",
+      "source": ["ThreatActor", "Malware", "Campaign"],
+      "target": ["Organization", "GeographicLocation", "Vulnerability"],
+      "attributes": ["success_rate", "impact", "confidence"]
+    },
+    "attributedTo": {
+      "description": "Activity attributed to a threat actor",
+      "source": ["Campaign", "Malware", "AttackPattern"],
+      "target": "ThreatActor",
+      "attributes": ["confidence", "evidence_strength"]
+    },
+    "exploits": {
+      "description": "Exploitation of a vulnerability",
+      "source": ["Malware", "AttackPattern", "ThreatActor"],
+      "target": "Vulnerability",
+      "attributes": ["exploit_type", "effectiveness", "first_seen"]
+    },
+    "mitigates": {
+      "description": "Mitigation relationship",
+      "source": "Mitigation",
+      "target": ["Vulnerability", "AttackPattern", "Malware"],
+      "attributes": ["effectiveness", "implementation_difficulty"]
+    },
+    "indicates": {
+      "description": "Technical indicator indicates presence of threat",
+      "source": "TechnicalIndicator",
+      "target": ["Malware", "ThreatActor", "Campaign"],
+      "attributes": ["reliability", "confidence", "detection_rate"]
+    },
+    "communicatesWith": {
+      "description": "Communication between entities",
+      "source": ["IPAddress", "Domain", "Malware"],
+      "target": ["IPAddress", "Domain"],
+      "attributes": ["protocol", "frequency", "purpose"]
+    },
+    "variantOf": {
+      "description": "One malware is a variant of another",
+      "source": "Malware",
+      "target": "Malware",
+      "attributes": ["similarity", "shared_capabilities"]
+    },
+    "affiliatedWith": {
+      "description": "Affiliation between entities",
+      "source": ["ThreatActor", "Organization"],
+      "target": ["ThreatActor", "Organization"],
+      "attributes": ["relationship_type", "strength", "duration"]
+    }
+  },
+  "confidence_levels": {
+    "high": {"score": 0.8, "description": "Strong evidence supporting the relationship"},
+    "medium": {"score": 0.6, "description": "Moderate evidence supporting the relationship"},
+    "low": {"score": 0.4, "description": "Limited evidence supporting the relationship"},
+    "unknown": {"score": 0.2, "description": "Insufficient evidence to determine confidence"}
+  },
+  "data_sources": {
+    "CISA": {
+      "name": "Cybersecurity and Infrastructure Security Agency",
+      "url": "https://www.cisa.gov/",
+      "reliability": "high",
+      "focus": ["vulnerabilities", "advisories", "indicators"]
+    },
+    "Symantec": {
+      "name": "Symantec Security Center",
+      "url": "https://www.broadcom.com/support/security-center/",
+      "reliability": "high",
+      "focus": ["malware", "threat_actors", "campaigns"]
+    },
+    "Fortinet": {
+      "name": "Fortinet Threat Intelligence",
+      "url": "https://www.fortinet.com/",
+      "reliability": "high",
+      "focus": ["advisories", "vulnerabilities", "indicators"]
+    },
+    "TrendMicro": {
+      "name": "TrendMicro Security Blog",
+      "url": "https://www.trendmicro.com/",
+      "reliability": "high",
+      "focus": ["research", "threat_analysis", "campaigns"]
+    }
+  },
+  "extraction_rules": {
+    "entity_extraction": {
+      "technical_indicators": {
+        "method": "regex_pattern_matching",
+        "validation": "format_verification",
+        "confidence": "pattern_specificity"
+      },
+      "named_entities": {
+        "method": "nlp_ner",
+        "models": ["spacy", "nltk"],
+        "confidence": "model_score"
+      },
+      "threat_actors": {
+        "method": "keyword_matching",
+        "patterns": ["apt", "group", "team", "actor"],
+        "confidence": "context_analysis"
+      }
+    },
+    "relationship_extraction": {
+      "co_occurrence": {
+        "method": "statistical_analysis",
+        "window_size": 5,
+        "confidence": "frequency_score"
+      },
+      "dependency_parsing": {
+        "method": "syntactic_analysis",
+        "patterns": ["subject-verb-object", "noun-preposition-noun"],
+        "confidence": "parse_score"
+      },
+      "semantic_similarity": {
+        "method": "embedding_similarity",
+        "models": ["word2vec", "bert"],
+        "confidence": "cosine_similarity"
+      }
+    }
+  },
+  "quality_metrics": {
+    "entity_quality": {
+      "completeness": "percentage of required attributes present",
+      "accuracy": "manual validation score",
+      "consistency": "cross-reference validation score"
+    },
+    "relationship_quality": {
+      "relevance": "semantic relevance score",
+      "confidence": "statistical confidence level",
+      "support": "number of supporting documents"
+    },
+    "graph_quality": {
+      "coverage": "percentage of entities with relationships",
+      "connectivity": "average node degree",
+      "coherence": "community detection score"
+    }
+  }
+} 
