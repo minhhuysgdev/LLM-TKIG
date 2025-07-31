@@ -1,0 +1,302 @@
+[
+  {
+    "title": "FortiGuard Labs Threat Research",
+    "link": "https://www.fortinet.com/blog/threat-research",
+    "is_threat_report": true,
+    "main_object": "Actor: Threat actor"
+  },
+  {
+    "title": "NailaoLocker Ransomware’s “Cheese”",
+    "link": "https://www.fortinet.com/blog/threat-research/nailaolocker-ransomware-cheese",
+    "is_threat_report": true,
+    "main_object": "Malware: NailaoLocker"
+  },
+  {
+    "title": "Improving Cloud Intrusion Detection and Triage with FortiCNAPP Composite Alerts",
+    "link": "https://www.fortinet.com/blog/threat-research/improving-cloud-intrusion-detection-and-triage-with-forticnapp",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiCNAPP"
+  },
+  {
+    "title": "Old Miner, New Tricks",
+    "link": "https://www.fortinet.com/blog/threat-research/old-miner-new-tricks",
+    "is_threat_report": true,
+    "main_object": "Tool: Cobalt Strike"
+  },
+  {
+    "title": "How FortiSandbox 5.0 Detects Dark 101 Ransomware Despite Evasion Techniques",
+    "link": "https://www.fortinet.com/blog/threat-research/fortisandbox-detects-dark-101-ransomware-despite-evasion-techniques",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiSandbox"
+  },
+  {
+    "title": "Catching Smarter Mice with Even Smarter Cats",
+    "link": "https://www.fortinet.com/blog/threat-research/catching-smarter-mice-with-even-smarter-cats",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "NordDragonScan: Quiet Data-Harvester on Windows",
+    "link": "https://www.fortinet.com/blog/threat-research/norddragonscan-quiet-data-harvester-on-windows",
+    "is_threat_report": true,
+    "main_object": "Tool: mshta.exe"
+  },
+  {
+    "title": "RondoDox Unveiled: Breaking Down a New Botnet Threat",
+    "link": "https://www.fortinet.com/blog/threat-research/rondobox-unveiled-breaking-down-a-botnet-threat",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2024-3721"
+  },
+  {
+    "title": "DCRAT Impersonating the Colombian Government",
+    "link": "https://www.fortinet.com/blog/threat-research/dcrat-impersonating-the-columbian-government",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Dissecting a Malicious Havoc Sample",
+    "link": "https://www.fortinet.com/blog/threat-research/dissecting-a-malicious-havoc-sample",
+    "is_threat_report": true,
+    "main_object": "Tool: Conhost.exe"
+  },
+  {
+    "title": "Threat Group Targets Companies in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-group-targets-companies-in-taiwan",
+    "is_threat_report": true,
+    "main_object": "Actor: HoldingHands RAT (Remote Access Trojan) Yes, the input describes a threat intelligence related to malware. Specifically, it mentions \"winos 4.0\" which is described as a new sample of malware spread through an email campaign targeting users in Taiwan. Therefore, the answer is:"
+  },
+  {
+    "title": "RolandSkimmer: Silent Credit Card Thief Uncovered",
+    "link": "https://www.fortinet.com/blog/threat-research/rolandskimmer-silent-credit-card-thief-uncovered",
+    "is_threat_report": true,
+    "main_object": "Tool: VBS Script"
+  },
+  {
+    "title": "How a Malicious Excel File (CVE-2017-0199) Delivers the FormBook Payload",
+    "link": "https://www.fortinet.com/blog/threat-research/how-a-malicious-excel-file-cve-2017-0199-delivers-the-formbook-payload",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-0199"
+  },
+  {
+    "title": "Deep Dive into a Dumped Malware without a PE Header",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-dive-into-a-dumped-malware-without-a-pe-header",
+    "is_threat_report": true,
+    "main_object": "Tool: Debugger"
+  },
+  {
+    "title": "Infostealer Malware FormBook Spread via Phishing Campaign – Part II",
+    "link": "https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign",
+    "is_threat_report": true,
+    "main_object": "Technique: Multiple Anti-Analysis Techniques"
+  },
+  {
+    "title": "Ransomware Roundup – VanHelsing",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-vanhelsing",
+    "is_threat_report": true,
+    "main_object": "Malware: VanHelsing"
+  },
+  {
+    "title": "Horabot Unleashed: A Stealthy Phishing Threat",
+    "link": "https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "Multilayered Email Attack: How a PDF Invoice and Geo-Fencing Led to RAT Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/multilayered-email-attack-how-a-pdf-invoice-and-geofencing-led-to-rat-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: serviciodecorreo.es"
+  },
+  {
+    "title": "FortiGuard Incident Response Team Detects Intrusion into Middle East Critical National Infrastructure",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-incident-response-team-detects-intrusion-into-middle-east-critical-national-infrastructure",
+    "is_threat_report": true,
+    "main_object": "Actor: Iran-based state-sponsored threat group"
+  },
+  {
+    "title": "Key Takeaways from the 2025 Global Threat Landscape Report",
+    "link": "https://www.fortinet.com/blog/threat-research/key-takeaways-from-the-2025-global-threat-landscape-report",
+    "is_threat_report": true,
+    "main_object": "Actor: Cybercriminals"
+  },
+  {
+    "title": "IngressNightmare: Understanding CVE‑2025‑1974 in Kubernetes Ingress-NGINX",
+    "link": "https://www.fortinet.com/blog/threat-research/ingressnightmare-understanding-cve-2025-1974-in-kubernetes-ingress-nginx",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2025-1974"
+  },
+  {
+    "title": "Infostealer Malware FormBook Spread via Phishing Campaign – Part I",
+    "link": "https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign-part-i",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiMail"
+  },
+  {
+    "title": "New Rust Botnet \"RustoBot\" is Routed via Routers",
+    "link": "https://www.fortinet.com/blog/threat-research/new-rust-botnet-rustobot-is-routed-via-routers",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2022-26210"
+  },
+  {
+    "title": "Malicious NPM Packages Targeting PayPal Users",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-npm-packages-targeting-paypal-users",
+    "is_threat_report": true,
+    "main_object": "Tool: NPM"
+  },
+  {
+    "title": "Real-Time Anti-Phishing: Essential Defense Against Evolving Cyber Threats",
+    "link": "https://www.fortinet.com/blog/threat-research/real-time-anti-phishing-essential-defense-against-evolving-cyber-threats",
+    "is_threat_report": true,
+    "main_object": "Actor: Cybercriminals"
+  },
+  {
+    "title": "Fortinet Identifies Malicious Packages in the Wild: Insights and Trends from November 2024 Onward",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-identifies-malicious-packages-in-the-wild-insights-and-trends",
+    "is_threat_report": true,
+    "main_object": "Technique: Low-file-count package design"
+  },
+  {
+    "title": "Havoc: SharePoint with Microsoft Graph API turns into FUD C2",
+    "link": "https://www.fortinet.com/blog/threat-research/havoc-sharepoint-with-microsoft-graph-api-turns-into-fud-c2",
+    "is_threat_report": true,
+    "main_object": "Tool: Havoc"
+  },
+  {
+    "title": "Winos 4.0 Spreads via Impersonation of Official Email to Target Users in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/winos-spreads-via-impersonation-of-official-email-to-target-users-in-taiwan",
+    "is_threat_report": true,
+    "main_object": "Tool: Winos4.0"
+  },
+  {
+    "title": "FortiSandbox 5.0 Detects Evolving Snake Keylogger Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/fortisandbox-detects-evolving-snake-keylogger-variant",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiSandbox v5.0 (FSAv5)"
+  },
+  {
+    "title": "Ransomware Roundup – Lynx",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-lynx",
+    "is_threat_report": true,
+    "main_object": "Technique: Encrypting ransomware"
+  },
+  {
+    "title": "Analyzing ELF/Sshdinjector. A!tr with a Human and Artificial Analyst",
+    "link": "https://www.fortinet.com/blog/threat-research/analyzing-elf-sshdinjector-with-a-human-and-artificial-analyst",
+    "is_threat_report": true,
+    "main_object": "Tool: libsshd.so"
+  },
+  {
+    "title": "Coyote Banking Trojan: A Stealthy Attack via LNK Files",
+    "link": "https://www.fortinet.com/blog/threat-research/coyote-banking-trojan-a-stealthy-attack-via-lnk-files",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "Deep Dive Into a Linux Rootkit Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-dive-into-a-linux-rootkit-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: Install.sh"
+  },
+  {
+    "title": "Phish-free PayPal Phishing",
+    "link": "https://www.fortinet.com/blog/threat-research/phish-free-paypal-phishing",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "Catching \"EC2 Grouper\"- no indicators required!",
+    "link": "https://www.fortinet.com/blog/threat-research/catching-ec2-grouper-no-indicators-required",
+    "is_threat_report": true,
+    "main_object": "Actor: EC2 Grouper"
+  },
+  {
+    "title": "Botnets Continue to Target Aging D-Link Vulnerabilities",
+    "link": "https://www.fortinet.com/blog/threat-research/botnets-continue-to-target-aging-d-link-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "Actor: Mirai/Kaiten"
+  },
+  {
+    "title": "Analyzing Malicious Intent in Python Code: A Case Study",
+    "link": "https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code",
+    "is_threat_report": true,
+    "main_object": "Tool: pynput"
+  },
+  {
+    "title": "Fortinet Contributes to Major Cybercrime Operation Arrests",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-contributes-to-major-cybercrime-operation-arrests",
+    "is_threat_report": true,
+    "main_object": "Actor: None specified, but likely refers to the entities mentioned in the text such as INTERPOL, AFRIPOL, Fortinet, and others involved in the operations described. No specific entity type can be definitively determined without more context about the exact nature of the threats or vulnerabilities discussed. However, given the broad scope of the statement, it could potentially cover multiple types of entities depending on how they are interpreted within the context of the broader discussion."
+  },
+  {
+    "title": "SmokeLoader Attack Targets Companies in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/sophisticated-attack-targets-taiwan-with-smokeloader",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-0199"
+  },
+  {
+    "title": "Ransomware Roundup - Interlock",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-interlock",
+    "is_threat_report": true,
+    "main_object": "Malware: Interlock"
+  },
+  {
+    "title": "Advanced Cyberthreats Targeting Holiday Shoppers",
+    "link": "https://www.fortinet.com/blog/threat-research/advanced-cyberthreats-targeting-holiday-shoppers",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Threat Predictions for 2025: Get Ready for Bigger, Bolder Attacks",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-predictions-for-2025-get-ready-for-bigger-bolder-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: FortiGuard Labs"
+  },
+  {
+    "title": "New Campaign Uses Remcos RAT to Exploit Victims",
+    "link": "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-0199"
+  },
+  {
+    "title": "Threat Campaign Spreads Winos4.0 Through Game Application",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-campaign-spreads-winos4-through-game-application",
+    "is_threat_report": true,
+    "main_object": "Tool: Winos4.0"
+  },
+  {
+    "title": "Burning Zero Days: Suspected Nation-State Adversary Targets Ivanti CSA",
+    "link": "https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2024-8190"
+  },
+  {
+    "title": "Threat Actors Exploit GeoServer Vulnerability CVE-2024-36401",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-actors-exploit-geoserver-vulnerability-cve-2024-36401",
+    "is_threat_report": true,
+    "main_object": "Malware: GO"
+  },
+  {
+    "title": "Emansrepo Stealer: Multi-Vector Attack Chains",
+    "link": "https://www.fortinet.com/blog/threat-research/emansrepo-stealer-multi-vector-attack-chains",
+    "is_threat_report": true,
+    "main_object": "Technique: Click(), Redirect()"
+  },
+  {
+    "title": "Ransomware Roundup - Underground",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-underground",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2023-36884"
+  },
+  {
+    "title": "Deep Analysis of Snake Keylogger’s New Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-analysis-of-snake-keylogger-new-variant",
+    "is_threat_report": true,
+    "main_object": "Tool: Excel"
+  },
+  {
+    "title": "A Deep Dive into a New ValleyRAT Campaign Targeting Chinese Speakers",
+    "link": "https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers",
+    "is_threat_report": true,
+    "main_object": "Tool: Shellcode"
+  }
+]
