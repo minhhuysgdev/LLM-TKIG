@@ -1,0 +1,2564 @@
+[
+  {
+    "title": "FortiGuard Labs Threat Research",
+    "link": "https://www.fortinet.com/blog/threat-research",
+    "is_threat_report": true,
+    "main_object": "Actor: Threat actor"
+  },
+  {
+    "title": "NailaoLocker Ransomware’s “Cheese”",
+    "link": "https://www.fortinet.com/blog/threat-research/nailaolocker-ransomware-cheese",
+    "is_threat_report": true,
+    "main_object": "Malware: NailaoLocker"
+  },
+  {
+    "title": "Improving Cloud Intrusion Detection and Triage with FortiCNAPP Composite Alerts",
+    "link": "https://www.fortinet.com/blog/threat-research/improving-cloud-intrusion-detection-and-triage-with-forticnapp",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiCNAPP"
+  },
+  {
+    "title": "Old Miner, New Tricks",
+    "link": "https://www.fortinet.com/blog/threat-research/old-miner-new-tricks",
+    "is_threat_report": true,
+    "main_object": "Tool: Cobalt Strike"
+  },
+  {
+    "title": "How FortiSandbox 5.0 Detects Dark 101 Ransomware Despite Evasion Techniques",
+    "link": "https://www.fortinet.com/blog/threat-research/fortisandbox-detects-dark-101-ransomware-despite-evasion-techniques",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiSandbox"
+  },
+  {
+    "title": "Catching Smarter Mice with Even Smarter Cats",
+    "link": "https://www.fortinet.com/blog/threat-research/catching-smarter-mice-with-even-smarter-cats",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "NordDragonScan: Quiet Data-Harvester on Windows",
+    "link": "https://www.fortinet.com/blog/threat-research/norddragonscan-quiet-data-harvester-on-windows",
+    "is_threat_report": true,
+    "main_object": "Tool: mshta.exe"
+  },
+  {
+    "title": "RondoDox Unveiled: Breaking Down a New Botnet Threat",
+    "link": "https://www.fortinet.com/blog/threat-research/rondobox-unveiled-breaking-down-a-botnet-threat",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2024-3721"
+  },
+  {
+    "title": "DCRAT Impersonating the Colombian Government",
+    "link": "https://www.fortinet.com/blog/threat-research/dcrat-impersonating-the-columbian-government",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Dissecting a Malicious Havoc Sample",
+    "link": "https://www.fortinet.com/blog/threat-research/dissecting-a-malicious-havoc-sample",
+    "is_threat_report": true,
+    "main_object": "Tool: Conhost.exe"
+  },
+  {
+    "title": "Threat Group Targets Companies in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-group-targets-companies-in-taiwan",
+    "is_threat_report": true,
+    "main_object": "Actor: HoldingHands RAT (Remote Access Trojan) Yes, the input describes a threat intelligence related to malware. Specifically, it mentions \"winos 4.0\" which is described as a type of malware. Therefore, the answer is:"
+  },
+  {
+    "title": "RolandSkimmer: Silent Credit Card Thief Uncovered",
+    "link": "https://www.fortinet.com/blog/threat-research/rolandskimmer-silent-credit-card-thief-uncovered",
+    "is_threat_report": true,
+    "main_object": "Tool: VBS Script"
+  },
+  {
+    "title": "How a Malicious Excel File (CVE-2017-0199) Delivers the FormBook Payload",
+    "link": "https://www.fortinet.com/blog/threat-research/how-a-malicious-excel-file-cve-2017-0199-delivers-the-formbook-payload",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-0199"
+  },
+  {
+    "title": "Deep Dive into a Dumped Malware without a PE Header",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-dive-into-a-dumped-malware-without-a-pe-header",
+    "is_threat_report": true,
+    "main_object": "Tool: Debugger"
+  },
+  {
+    "title": "Infostealer Malware FormBook Spread via Phishing Campaign – Part II",
+    "link": "https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign",
+    "is_threat_report": true,
+    "main_object": "Technique: Multiple Anti-Analysis Techniques"
+  },
+  {
+    "title": "Ransomware Roundup – VanHelsing",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-vanhelsing",
+    "is_threat_report": true,
+    "main_object": "Malware: VanHelsing"
+  },
+  {
+    "title": "Horabot Unleashed: A Stealthy Phishing Threat",
+    "link": "https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "Multilayered Email Attack: How a PDF Invoice and Geo-Fencing Led to RAT Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/multilayered-email-attack-how-a-pdf-invoice-and-geofencing-led-to-rat-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: serviciodecorreo.es"
+  },
+  {
+    "title": "FortiGuard Incident Response Team Detects Intrusion into Middle East Critical National Infrastructure",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-incident-response-team-detects-intrusion-into-middle-east-critical-national-infrastructure",
+    "is_threat_report": true,
+    "main_object": "Actor: Iran-based state-sponsored threat group"
+  },
+  {
+    "title": "Key Takeaways from the 2025 Global Threat Landscape Report",
+    "link": "https://www.fortinet.com/blog/threat-research/key-takeaways-from-the-2025-global-threat-landscape-report",
+    "is_threat_report": true,
+    "main_object": "Actor: Cybercriminals"
+  },
+  {
+    "title": "IngressNightmare: Understanding CVE‑2025‑1974 in Kubernetes Ingress-NGINX",
+    "link": "https://www.fortinet.com/blog/threat-research/ingressnightmare-understanding-cve-2025-1974-in-kubernetes-ingress-nginx",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2025-1974"
+  },
+  {
+    "title": "Infostealer Malware FormBook Spread via Phishing Campaign – Part I",
+    "link": "https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign-part-i",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiMail"
+  },
+  {
+    "title": "New Rust Botnet \"RustoBot\" is Routed via Routers",
+    "link": "https://www.fortinet.com/blog/threat-research/new-rust-botnet-rustobot-is-routed-via-routers",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2022-26210"
+  },
+  {
+    "title": "Malicious NPM Packages Targeting PayPal Users",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-npm-packages-targeting-paypal-users",
+    "is_threat_report": true,
+    "main_object": "Tool: NPM"
+  },
+  {
+    "title": "Real-Time Anti-Phishing: Essential Defense Against Evolving Cyber Threats",
+    "link": "https://www.fortinet.com/blog/threat-research/real-time-anti-phishing-essential-defense-against-evolving-cyber-threats",
+    "is_threat_report": true,
+    "main_object": "Actor: Cybercriminals"
+  },
+  {
+    "title": "Fortinet Identifies Malicious Packages in the Wild: Insights and Trends from November 2024 Onward",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-identifies-malicious-packages-in-the-wild-insights-and-trends",
+    "is_threat_report": true,
+    "main_object": "Technique: Low-file-count package design"
+  },
+  {
+    "title": "Havoc: SharePoint with Microsoft Graph API turns into FUD C2",
+    "link": "https://www.fortinet.com/blog/threat-research/havoc-sharepoint-with-microsoft-graph-api-turns-into-fud-c2",
+    "is_threat_report": true,
+    "main_object": "Tool: Havoc"
+  },
+  {
+    "title": "Winos 4.0 Spreads via Impersonation of Official Email to Target Users in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/winos-spreads-via-impersonation-of-official-email-to-target-users-in-taiwan",
+    "is_threat_report": true,
+    "main_object": "Tool: Winos4.0"
+  },
+  {
+    "title": "FortiSandbox 5.0 Detects Evolving Snake Keylogger Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/fortisandbox-detects-evolving-snake-keylogger-variant",
+    "is_threat_report": true,
+    "main_object": "Tool: FortiSandbox v5.0 (FSAv5)"
+  },
+  {
+    "title": "Ransomware Roundup – Lynx",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-lynx",
+    "is_threat_report": true,
+    "main_object": "Technique: Encrypting ransomware"
+  },
+  {
+    "title": "Analyzing ELF/Sshdinjector. A!tr with a Human and Artificial Analyst",
+    "link": "https://www.fortinet.com/blog/threat-research/analyzing-elf-sshdinjector-with-a-human-and-artificial-analyst",
+    "is_threat_report": true,
+    "main_object": "Tool: libsshd.so"
+  },
+  {
+    "title": "Coyote Banking Trojan: A Stealthy Attack via LNK Files",
+    "link": "https://www.fortinet.com/blog/threat-research/coyote-banking-trojan-a-stealthy-attack-via-lnk-files",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "Deep Dive Into a Linux Rootkit Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-dive-into-a-linux-rootkit-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: Install.sh"
+  },
+  {
+    "title": "Phish-free PayPal Phishing",
+    "link": "https://www.fortinet.com/blog/threat-research/phish-free-paypal-phishing",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "Catching \"EC2 Grouper\"- no indicators required!",
+    "link": "https://www.fortinet.com/blog/threat-research/catching-ec2-grouper-no-indicators-required",
+    "is_threat_report": true,
+    "main_object": "Actor: EC2 Grouper"
+  },
+  {
+    "title": "Botnets Continue to Target Aging D-Link Vulnerabilities",
+    "link": "https://www.fortinet.com/blog/threat-research/botnets-continue-to-target-aging-d-link-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "Actor: Mirai/Kaiten"
+  },
+  {
+    "title": "Analyzing Malicious Intent in Python Code: A Case Study",
+    "link": "https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code",
+    "is_threat_report": true,
+    "main_object": "Tool: pynput"
+  },
+  {
+    "title": "Fortinet Contributes to Major Cybercrime Operation Arrests",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-contributes-to-major-cybercrime-operation-arrests",
+    "is_threat_report": true,
+    "main_object": "Actor: None specified, but likely refers to the entities mentioned in the text such as INTERPOL, AFRIPOL, Fortinet, and others involved in the operations described. No specific entity type can be definitively determined without more context about the exact nature of the threats or vulnerabilities discussed. However, given the broad scope of the statement, it could potentially cover multiple types of entities depending on how they are interpreted within the context of the broader discussion."
+  },
+  {
+    "title": "SmokeLoader Attack Targets Companies in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/sophisticated-attack-targets-taiwan-with-smokeloader",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-0199"
+  },
+  {
+    "title": "Ransomware Roundup - Interlock",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-interlock",
+    "is_threat_report": true,
+    "main_object": "Malware: Interlock"
+  },
+  {
+    "title": "Advanced Cyberthreats Targeting Holiday Shoppers",
+    "link": "https://www.fortinet.com/blog/threat-research/advanced-cyberthreats-targeting-holiday-shoppers",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Threat Predictions for 2025: Get Ready for Bigger, Bolder Attacks",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-predictions-for-2025-get-ready-for-bigger-bolder-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: FortiGuard Labs"
+  },
+  {
+    "title": "New Campaign Uses Remcos RAT to Exploit Victims",
+    "link": "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims",
+    "is_threat_report": true,
+    "main_object": "Tool: MS Excel"
+  },
+  {
+    "title": "Threat Campaign Spreads Winos4.0 Through Game Application",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-campaign-spreads-winos4-through-game-application",
+    "is_threat_report": true,
+    "main_object": "Tool: Winos4.0"
+  },
+  {
+    "title": "Burning Zero Days: Suspected Nation-State Adversary Targets Ivanti CSA",
+    "link": "https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2024-8190"
+  },
+  {
+    "title": "Threat Actors Exploit GeoServer Vulnerability CVE-2024-36401",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-actors-exploit-geoserver-vulnerability-cve-2024-36401",
+    "is_threat_report": true,
+    "main_object": "Malware: GO"
+  },
+  {
+    "title": "Emansrepo Stealer: Multi-Vector Attack Chains",
+    "link": "https://www.fortinet.com/blog/threat-research/emansrepo-stealer-multi-vector-attack-chains",
+    "is_threat_report": true,
+    "main_object": "Technique: Click(), Redirect()"
+  },
+  {
+    "title": "Ransomware Roundup - Underground",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-underground",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2023-36884"
+  },
+  {
+    "title": "Deep Analysis of Snake Keylogger’s New Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-analysis-of-snake-keylogger-new-variant",
+    "is_threat_report": true,
+    "main_object": "Tool: Excel"
+  },
+  {
+    "title": "A Deep Dive into a New ValleyRAT Campaign Targeting Chinese Speakers",
+    "link": "https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers",
+    "is_threat_report": true,
+    "main_object": "Tool: Shellcode"
+  },
+  {
+    "title": "Preparation Is Not Optional: 10 Incident Response Readiness Considerations for Any Organization",
+    "link": "https://www.fortinet.com/blog/threat-research/preparation-is-not-optional-10-incident-response-readiness-considerations",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "PureHVNC Deployed via Python Multi-stage Loader",
+    "link": "https://www.fortinet.com/blog/threat-research/purehvnc-deployed-via-python-multi-stage-loader",
+    "is_threat_report": true,
+    "main_object": "Tool: PureHVNC"
+  },
+  {
+    "title": "Malicious Packages Hidden in PyPI",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-packages-hidden-in-pypl",
+    "is_threat_report": true,
+    "main_object": "Tool: PyInstaller"
+  },
+  {
+    "title": "Phishing Campaign Targeting Mobile Users in India Using India Post Lures",
+    "link": "https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures",
+    "is_threat_report": true,
+    "main_object": "Actor: Smishing Triad"
+  },
+  {
+    "title": "Dark Web Shows Cybercriminals Ready for Olympics. Are You?",
+    "link": "https://www.fortinet.com/blog/threat-research/dark-web-shows-cybercriminals-ready-for-olympics",
+    "is_threat_report": true,
+    "main_object": "Actor: FortiGuard Labs"
+  },
+  {
+    "title": "MerkSpy: Exploiting CVE-2021-40444 to Infiltrate Systems",
+    "link": "https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems",
+    "is_threat_report": true,
+    "main_object": "Tool: Microsoft Word"
+  },
+  {
+    "title": "The Growing Threat of Malware Concealed Behind Cloud Services",
+    "link": "https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services",
+    "is_threat_report": true,
+    "main_object": "Actor: Threat Actor"
+  },
+  {
+    "title": "Fickle Stealer Distributed via Multiple Attack Chain",
+    "link": "https://www.fortinet.com/blog/threat-research/fickle-stealer-distributed-via-multiple-attack-chain",
+    "is_threat_report": true,
+    "main_object": "Tool: VBA"
+  },
+  {
+    "title": "Ransomware Roundup – Shinra and Limpopo Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-shinra-and-limpopo-ransomware",
+    "is_threat_report": true,
+    "main_object": "Malware: Shinra ransomware"
+  },
+  {
+    "title": "New Agent Tesla Campaign Targeting Spanish-Speaking People",
+    "link": "https://www.fortinet.com/blog/threat-research/new-agent-tesla-campaign-targeting-spanish-speaking-people",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "Menace Unleashed: Excel File Deploys Cobalt Strike at Ukraine",
+    "link": "https://www.fortinet.com/blog/threat-research/menace-unleashed-excel-file-deploys-cobalt-strike-at-ukraine",
+    "is_threat_report": true,
+    "main_object": "Malware: Cobalt Strike"
+  },
+  {
+    "title": "zEus Stealer Distributed via Crafted Minecraft Source Pack",
+    "link": "https://www.fortinet.com/blog/threat-research/zeus-stealer-distributed-via-crafted-minecraft-source-pack",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: zEus Stealer"
+  },
+  {
+    "title": "Key Findings from the 2H 2023 FortiGuard Labs Threat Report",
+    "link": "https://www.fortinet.com/blog/threat-research/key-findings-2h-2023-fortiguard-labs-threat-report",
+    "is_threat_report": true,
+    "main_object": "Actor: APT (Not specified) - Ransomware, Botnet, Malware, Vulnerability, Tool, IoT exploit"
+  },
+  {
+    "title": "New “Goldoon” Botnet Targeting D-Link Devices",
+    "link": "https://www.fortinet.com/blog/threat-research/new-goldoon-botnet-targeting-d-link-devices",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2015-2051"
+  },
+  {
+    "title": "Ransomware Roundup - KageNoHitobito and DoNex",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-keganohitobito-and-donex",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: KageNoHitobito"
+  },
+  {
+    "title": "Unraveling Cyber Threats: Insights from Code Analysis",
+    "link": "https://www.fortinet.com/blog/threat-research/unraveling-cyber-threats-insights-from-code-analysis",
+    "is_threat_report": true,
+    "main_object": "Tool: Discord.py"
+  },
+  {
+    "title": "Botnets Continue Exploiting CVE-2023-1389 for Wide-Scale Spread",
+    "link": "https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins",
+    "link": "https://www.fortinet.com/blog/threat-research/scrubcrypt-deploys-venomrat-with-arsenal-of-plugins",
+    "is_threat_report": true,
+    "main_object": "Tool: BatCloak"
+  },
+  {
+    "title": "Byakugan – The Malware Behind a Phishing Attack",
+    "link": "https://www.fortinet.com/blog/threat-research/byakugan-malware-behind-a-phishing-attack",
+    "is_threat_report": true,
+    "main_object": "Malware: Byakugan"
+  },
+  {
+    "title": "Ransomware Roundup – RA World",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-ra-world",
+    "is_threat_report": true,
+    "main_object": "Malware: RA World"
+  },
+  {
+    "title": "VCURMS: A Simple and Functional Weapon",
+    "link": "https://www.fortinet.com/blog/threat-research/vcurms-a-simple-and-functional-weapon",
+    "is_threat_report": true,
+    "main_object": "Tool: JAR decompiler"
+  },
+  {
+    "title": "New Banking Trojan “CHAVECLOAK” Targets Brazil",
+    "link": "https://www.fortinet.com/blog/threat-research/banking-trojan-chavecloak-targets-brazil",
+    "is_threat_report": true,
+    "main_object": "Malware: CHAVECLOAK"
+  },
+  {
+    "title": "FortiGuard Labs Outbreak Alerts Annual Report 2023: A Glimpse into the Evolving Threat Landscape",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-outbreak-alerts-report-2023",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – Abyss Locker",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker",
+    "is_threat_report": true,
+    "main_object": "Malware: AbyssLocker"
+  },
+  {
+    "title": "Android/SpyNote Moves to Crypto Currencies",
+    "link": "https://www.fortinet.com/blog/threat-research/android-spynote-moves-to-crypto-currencies",
+    "is_threat_report": true,
+    "main_object": "Tool: SpyNote"
+  },
+  {
+    "title": "TicTacToe Dropper",
+    "link": "https://www.fortinet.com/blog/threat-research/tictactoe-dropper",
+    "is_threat_report": true,
+    "main_object": "Tool: ISO File"
+  },
+  {
+    "title": "Python Info-stealer Distributed by Malicious Excel Document",
+    "link": "https://www.fortinet.com/blog/threat-research/python-info-stealer-malicious-excel-document",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "Ransomware Roundup - Albabat",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-albabat",
+    "is_threat_report": true,
+    "main_object": "Malware: Albabat"
+  },
+  {
+    "title": "Another Phobos Ransomware Variant Launches Attack – FAUST",
+    "link": "https://www.fortinet.com/blog/threat-research/phobos-ransomware-variant-launches-attack-faust",
+    "is_threat_report": true,
+    "main_object": "Malware: AVG update.exe"
+  },
+  {
+    "title": "Info Stealing Packages Hidden in PyPI",
+    "link": "https://www.fortinet.com/blog/threat-research/info-stealing-packages-hidden-in-pypi",
+    "is_threat_report": true,
+    "main_object": "Actor: WS"
+  },
+  {
+    "title": "Deceptive Cracked Software Spreads Lumma Variant on YouTube",
+    "link": "https://www.fortinet.com/blog/threat-research/lumma-variant-on-youtube",
+    "is_threat_report": true,
+    "main_object": "Actor: Unknown Actor"
+  },
+  {
+    "title": "Three New Malicious PyPI Packages Deploy CoinMiner on Linux Devices",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-pypi-packages-deploy-coinminer-on-linux-devices",
+    "is_threat_report": true,
+    "main_object": "Tool: Python"
+  },
+  {
+    "title": "Ransomware Roundup - 8base",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-8base",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: 8base"
+  },
+  {
+    "title": "Bandook - A Persistent Threat That Keeps Evolving",
+    "link": "https://www.fortinet.com/blog/threat-research/bandook-persistent-threat-that-keeps-evolving",
+    "is_threat_report": true,
+    "main_object": "Technique: Bandook"
+  },
+  {
+    "title": "MrAnon Stealer Spreads via Email with Fake Hotel Booking PDF",
+    "link": "https://www.fortinet.com/blog/threat-research/mranon-stealer-spreads-via-email-with-fake-hotel-booking-pdf",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "GoTitan Botnet - Ongoing Exploitation on Apache ActiveMQ",
+    "link": "https://www.fortinet.com/blog/threat-research/gotitan-botnet-exploitation-on-apache-activemq",
+    "is_threat_report": true,
+    "main_object": "Tool: Apache Active MQ"
+  },
+  {
+    "title": "Konni Campaign Distributed Via Malicious Document",
+    "link": "https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document",
+    "is_threat_report": true,
+    "main_object": "Tool: netpp.bat"
+  },
+  {
+    "title": "Investigating the New Rhysida Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/investigating-the-new-rhysida-ransomware",
+    "is_threat_report": true,
+    "main_object": "Actor: Rhysida"
+  },
+  {
+    "title": "Ransomware Roundup – NoEscape",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-noescape",
+    "is_threat_report": true,
+    "main_object": "Actor: NoEscape"
+  },
+  {
+    "title": "Threat Predictions for 2024: Chained AI and CaaS Operations Give Attackers More “Easy” Buttons Than Ever",
+    "link": "https://www.fortinet.com/blog/threat-research/2024-threat-predictions-chained-ai-and-caas-operations",
+    "is_threat_report": true,
+    "main_object": "Actor: Unknown"
+  },
+  {
+    "title": "Ransomware Roundup - Knight",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-knight",
+    "is_threat_report": true,
+    "main_object": "Actor: Knight (Ransomware)"
+  },
+  {
+    "title": "Another InfoStealer Enters the Field, ExelaStealer",
+    "link": "https://www.fortinet.com/blog/threat-research/exelastealer-infostealer-enters-the-field",
+    "is_threat_report": true,
+    "main_object": "Malware: ExelaStealer"
+  },
+  {
+    "title": "Ransomware Roundup - Akira",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-akira",
+    "is_threat_report": true,
+    "main_object": "Actor: Akira Ransomware"
+  },
+  {
+    "title": "IZ1H9 Campaign Enhances Its Arsenal with Scores of Exploits",
+    "link": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2021-36380"
+  },
+  {
+    "title": "Malicious Packages Hidden in NPM",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-packages-hiddin-in-npm",
+    "is_threat_report": true,
+    "main_object": "Tool: Node Package Manager (NPM)"
+  },
+  {
+    "title": "Threat Actors Exploit the Tensions Between Azerbaijan and Armenia",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-Actors-exploit-the-tensions-between-azerbaijan-and-armenia",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Retch and S. H. O.",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-retch-and-sho",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "New MidgeDropper Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/new-midgedropper-variant",
+    "is_threat_report": true,
+    "main_object": "Malware: MidgeDropper"
+  },
+  {
+    "title": "OriginBotnet Spreads via Malicious Word Document",
+    "link": "https://www.fortinet.com/blog/threat-research/originbotnet-spreads-via-malicious-word-document",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "New Agent Tesla Variant Being Spread by Crafted Excel Document",
+    "link": "https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-11882"
+  },
+  {
+    "title": "Ransomware Roundup - Rhysida",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-rhysida",
+    "is_threat_report": true,
+    "main_object": "Actor: Rhysida"
+  },
+  {
+    "title": "Multiple Threats Target Adobe ColdFusion Vulnerabilities",
+    "link": "https://www.fortinet.com/blog/threat-research/multiple-threats-target-adobe-coldfusion-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "Ransomware Roundup – Trash Panda and A New Minor Variant of NoCry",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-trash-panda-and-nocry-variant",
+    "is_threat_report": true,
+    "main_object": "Malware: Trash Panda"
+  },
+  {
+    "title": "FortiGuard AI Detects Malicious Packages Hidden in the Python Package Index",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-ai-detects-malicious-packages-in-pypi",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "Attackers Distribute Malware via Freeze.rs And SYK Crypter",
+    "link": "https://www.fortinet.com/blog/threat-research/malware-distributed-via-freezers-and-syk-crypter",
+    "is_threat_report": true,
+    "main_object": "Technique: SYK Crypter"
+  },
+  {
+    "title": "Key Findings from the 1H 2023 FortiGuard Labs Threat Report",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-1h-2023",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - DoDo and Proton",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-dodo-and-proton",
+    "is_threat_report": true,
+    "main_object": "Malware: Mercurial Grabber"
+  },
+  {
+    "title": "FortiGuard Labs Discovers Multiple Vulnerabilities in Microsoft Message Queuing Service",
+    "link": "https://www.fortinet.com/blog/threat-research/microsoft-message-queuing-service-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: None provided, but it seems like there's a description about the vulnerabilities in the context of the text."
+  },
+  {
+    "title": "Ransomware Roundup - Cl0p",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-cl0p",
+    "is_threat_report": true,
+    "main_object": "Actor: Cl0p"
+  },
+  {
+    "title": "DDoS Botnets Target Zyxel Vulnerability CVE-2023-28771",
+    "link": "https://www.fortinet.com/blog/threat-research/ddos-botnets-target-zyxel-vulnerability-cve-2023-28771",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2023-28771"
+  },
+  {
+    "title": "FortiGuard Labs Discovers Multiple Vulnerabilities in Adobe InDesign",
+    "link": "https://www.fortinet.com/blog/threat-research/adobe-indesign-zero-day-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2023-29308"
+  },
+  {
+    "title": "LokiBot Campaign Targets Microsoft Office Document Using Vulnerabilities and Macros",
+    "link": "https://www.fortinet.com/blog/threat-research/lokibot-targets-microsoft-office-document-using-vulnerabilities-and-macros",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2021-40444"
+  },
+  {
+    "title": "Meet LockBit: The Most Prevalent Ransomware in 2022",
+    "link": "https://www.fortinet.com/blog/threat-research/lockbit-most-prevalent-ransomware",
+    "is_threat_report": true,
+    "main_object": "Actor: LockBit"
+  },
+  {
+    "title": "Ransomware Roundup - Rancoz",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-rancoz",
+    "is_threat_report": true,
+    "main_object": "Malware: Rancoz"
+  },
+  {
+    "title": "New Fast-Developing ThirdEye Infostealer Pries Open System Information",
+    "link": "https://www.fortinet.com/blog/threat-research/new-fast-developing-thirdeye-infostealer-pries-open-system-information",
+    "is_threat_report": true,
+    "main_object": "Malware: ThirdEye"
+  },
+  {
+    "title": "Ransomware Roundup - Black Basta",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-black-basta",
+    "is_threat_report": true,
+    "main_object": "Malware: Black Basta"
+  },
+  {
+    "title": "Fortinet Reverses Flutter-based Android Malware “Fluhorse”",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-reverses-flutter-based-android-malware-fluhorse",
+    "is_threat_report": true,
+    "main_object": "Malware: Android/Fluhorse"
+  },
+  {
+    "title": "Condi DDoS Botnet Spreads via TP-Link's CVE-2023-1389",
+    "link": "https://www.fortinet.com/blog/threat-research/condi-ddos-botnet-spreads-via-tp-links-cve-2023-1389",
+    "is_threat_report": true,
+    "main_object": "Tool: Condi"
+  },
+  {
+    "title": "Ransomware Roundup - Big Head",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup-big-head",
+    "is_threat_report": true,
+    "main_object": "Malware: Big Head"
+  },
+  {
+    "title": "MOVEit Transfer Critical Vulnerability (CVE-2023-34362) Exploited as a 0-day",
+    "link": "https://www.fortinet.com/blog/threat-research/moveit-transfer-critical-vulnerability-cve-2023-34362-exploited-as-a-0-day",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2023-34362"
+  },
+  {
+    "title": "YouTube Pirated Software Videos Deliver Triple Threat: Vidar Stealer, Laplas Clipper, XMRig Miner",
+    "link": "https://www.fortinet.com/blog/threat-research/youtube-pirated-software-videos-deliver-triple-threat-vidar-stealer-laplas-clipper-xmrig-miner",
+    "is_threat_report": true,
+    "main_object": "Actor: FortiGuard Labs"
+  },
+  {
+    "title": "WINTAPIX: A New Kernel Driver Targeting Countries in The Middle East",
+    "link": "https://www.fortinet.com/blog/threat-research/wintapix-kernal-driver-middle-east-countries",
+    "is_threat_report": true,
+    "main_object": "Tool: Donut"
+  },
+  {
+    "title": "More Supply Chain Attacks via Malicious Python Packages",
+    "link": "https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-malicious-python-packages",
+    "is_threat_report": true,
+    "main_object": "Actor: FortiGuard Labs"
+  },
+  {
+    "title": "Ransomware Roundup - Maori",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-maori",
+    "is_threat_report": true,
+    "main_object": "Malware: Maori"
+  },
+  {
+    "title": "RapperBot DDoS Botnet Expands into Cryptojacking",
+    "link": "https://www.fortinet.com/blog/threat-research/rapperbot-ddos-botnet-expands-into-cryptojacking",
+    "is_threat_report": true,
+    "main_object": "Actor: FortiGuard Labs"
+  },
+  {
+    "title": "AndoryuBot – New Botnet Campaign Targets Ruckus Wireless Admin Remote Code Execution Vulnerability (CVE-2023-25717)",
+    "link": "https://www.fortinet.com/blog/threat-research/andoryubot-new-botnet-campaign-targets-ruckus-wireless-admin-remote-code-execution-vulnerability-cve-2023-25717",
+    "is_threat_report": true,
+    "main_object": "Tool: AndoryuBot"
+  },
+  {
+    "title": "Clean Rooms, Nuclear Missiles, and SideCopy, Oh My!",
+    "link": "https://www.fortinet.com/blog/threat-research/clean-rooms-nuclear-missiles-and-sidecopy",
+    "is_threat_report": true,
+    "main_object": "Actor: SideCopy"
+  },
+  {
+    "title": "Ransomware Roundup - UNIZA",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-uniza-coverage",
+    "is_threat_report": true,
+    "main_object": "Malware: UNIZA"
+  },
+  {
+    "title": "EvilExtractor – All-in-One Stealer",
+    "link": "https://www.fortinet.com/blog/threat-research/evil-extractor-all-in-one-stealer",
+    "is_threat_report": true,
+    "main_object": "Tool: EvilExtractor"
+  },
+  {
+    "title": "Ransomware Roundup – Kadavro Vector Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-kadavro-vector-ransomware",
+    "is_threat_report": true,
+    "main_object": "Malware: Kadavro Vector"
+  },
+  {
+    "title": "Deja Vu All Over Again: Tax Scammers at Large",
+    "link": "https://www.fortinet.com/blog/threat-research/tax-scammers-at-large",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "Exploring a Recent Microsoft Outlook Vulnerability: CVE-2023-23397",
+    "link": "https://www.fortinet.com/blog/threat-research/exploring-recent-microsoft-outlook-vulnerability-cve-2023-23397",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2023-23397"
+  },
+  {
+    "title": "Are Internet Macros Dead or Alive?",
+    "link": "https://www.fortinet.com/blog/threat-research/are-internet-macros-dead-or-alive",
+    "is_threat_report": true,
+    "main_object": "Tool: ISO image"
+  },
+  {
+    "title": "Malware Disguised as Document from Ukraine's Energoatom Delivers Havoc Demon Backdoor",
+    "link": "https://www.fortinet.com/blog/threat-research/malware-disguised-as-document-ukraine-energoatom-delivers-havoc-demon-backdoor",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "3CX Desktop App Compromised (CVE-2023-29059)",
+    "link": "https://www.fortinet.com/blog/threat-research/3cx-desktop-app-compromised",
+    "is_threat_report": true,
+    "main_object": "Malware: ffmpeg.dll"
+  },
+  {
+    "title": "Ransomware Roundup – Dark Power and PayMe100USD Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/dark-power-and-payme100usd-ransomware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Moobot Strikes Again - Targeting Cacti And RealTek Vulnerabilities",
+    "link": "https://www.fortinet.com/blog/threat-research/moobot-strikes-again-targeting-cacti-and-realtek-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2021-35394"
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Packages",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages",
+    "is_threat_report": true,
+    "main_object": "Tool: Python"
+  },
+  {
+    "title": "The Latest Intel on Wipers",
+    "link": "https://www.fortinet.com/blog/threat-research/intel-on-wiper-malware",
+    "is_threat_report": true,
+    "main_object": "Actor: Russian state-sponsored actors"
+  },
+  {
+    "title": "Ransomware Roundup — HardBit 2.0",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup",
+    "is_threat_report": true,
+    "main_object": "Malware: HardBit 2.0"
+  },
+  {
+    "title": "Microsoft OneNote File Being Leveraged by Phishing Campaigns to Spread Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/microsoft-onenote-file-being-leveraged-by-phishing-campaigns-to-spread-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: Microsoft OneNote"
+  },
+  {
+    "title": "Reduce, Reuse, Recycle: Bad Actors Practicing the Three Rs",
+    "link": "https://www.fortinet.com/blog/threat-research/bad-actors-resurrecting-old-tactics",
+    "is_threat_report": true,
+    "main_object": "Actor: Cybercriminals"
+  },
+  {
+    "title": "Old Cyber Gang Uses New Crypter – ScrubCrypt",
+    "link": "https://www.fortinet.com/blog/threat-research/old-cyber-gang-uses-new-crypter-scrubcrypt",
+    "is_threat_report": true,
+    "main_object": "Malware: ScrubCrypt"
+  },
+  {
+    "title": "Ransomware Roundup – Sirattacker and ALC",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-sirattacker-acl",
+    "is_threat_report": true,
+    "main_object": "Malware: Sirattacker"
+  },
+  {
+    "title": "Just Because It’s Old Doesn’t Mean You Throw It Away (Including Malware!)",
+    "link": "https://www.fortinet.com/blog/threat-research/just-because-its-old-doesnt-mean-you-throw-it-away-including-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: UPX"
+  },
+  {
+    "title": "Can You See It Now? An Emerging LockBit Campaign",
+    "link": "https://www.fortinet.com/blog/threat-research/emerging-lockbit-campaign",
+    "is_threat_report": true,
+    "main_object": "Malware: LockBit"
+  },
+  {
+    "title": "Key Findings from the 2H 2022 FortiGuard Labs Threat Report",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-2h-2022",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Royal Ransomware Targets Linux ESXi Servers",
+    "link": "https://www.fortinet.com/blog/threat-research/royal-ransomware-targets-linux-esxi-servers",
+    "is_threat_report": true,
+    "main_object": "Actor: Royal Ransomware"
+  },
+  {
+    "title": "More Supply Chain Attacks via New Malicious Python Packages in PyPi",
+    "link": "https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-new-malicious-python-packages-in-pypi",
+    "is_threat_report": true,
+    "main_object": "Tool: Powershell"
+  },
+  {
+    "title": "Ransomware Roundup – CatB",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-catb-ransomware",
+    "is_threat_report": true,
+    "main_object": "Tool: rundll32.exe"
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Packages by Malware Author Core1337",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages-by-malware-author-core1337",
+    "is_threat_report": true,
+    "main_object": "Tool: Python"
+  },
+  {
+    "title": "Supply Chain Attack by New Malicious Python Package, “web3-essential”",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-by-new-malicious-python-package-web3-essential",
+    "is_threat_report": true,
+    "main_object": "Tool: Go"
+  },
+  {
+    "title": "Ransomware Roundup – Trigona",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-trigona-ransomware",
+    "is_threat_report": true,
+    "main_object": "Technique: Double extortion"
+  },
+  {
+    "title": "Analyzing Malware Code that Cryptojacks System to Mine for Monero Crypto",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-code-cryptojacks-device-to-mine-for-monero-crypto",
+    "is_threat_report": true,
+    "main_object": "Tool: Excel"
+  },
+  {
+    "title": "FortiGuard Outbreak Alerts - 2022 Annual Report",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-outbreak-alerts-2022-annual-report",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "The Year of the Wiper",
+    "link": "https://www.fortinet.com/blog/threat-research/the-year-of-the-wiper",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "QR Code Phishing Attempts to Steal Credentials from Chinese Language Users",
+    "link": "https://www.fortinet.com/blog/threat-research/qr-code-phishing-attempts-to-steal-credentials-from-chinese-language-users",
+    "is_threat_report": true,
+    "main_object": "Tool: QR Code Scanner App"
+  },
+  {
+    "title": "Ransomware Roundup – Playing Whack-a-Mole with New CrySIS/Dharma Variants",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-playing-whack-a-mole-with-new-crysis-dharma-variants",
+    "is_threat_report": true,
+    "main_object": "Malware: CrySIS/Dharma"
+  },
+  {
+    "title": "Supply Chain Attack Using Identical PyPI Packages, “colorslib”, “httpslib”, and “libhttps”",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps",
+    "is_threat_report": true,
+    "main_object": "Actor: Unknown Actor"
+  },
+  {
+    "title": "2022 IoT Threat Review",
+    "link": "https://www.fortinet.com/blog/threat-research/2022-iot-threat-review",
+    "is_threat_report": true,
+    "main_object": "Actor: FortiGuard Labsmonitors the IoT botnet threat landscape for new and emerging campaigns."
+  },
+  {
+    "title": "Ransomware Roundup – Monti, BlackHunt, and Putin",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-monti-blackhunt-and-more",
+    "is_threat_report": true,
+    "main_object": "Tool: BlackHunt"
+  },
+  {
+    "title": "Trying to Steal Christmas (Again!)",
+    "link": "https://www.fortinet.com/blog/threat-research/trying-to-steal-christmas-again",
+    "is_threat_report": true,
+    "main_object": "Tool: AutoIt"
+  },
+  {
+    "title": "Ransomware Roundup – Play",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-play-ransomware",
+    "is_threat_report": true,
+    "main_object": "Technique: LOLBINS"
+  },
+  {
+    "title": "The Taxman Never Sleeps",
+    "link": "https://www.fortinet.com/blog/threat-research/the-taxman-never-sleeps",
+    "is_threat_report": true,
+    "main_object": "Malware: Emotet"
+  },
+  {
+    "title": "New Supply Chain Attack Uses Python Package Index “aioconsol”",
+    "link": "https://www.fortinet.com/blog/threat-research/new-supply-chain-attack-uses-python-package-index-aioconsol",
+    "is_threat_report": true,
+    "main_object": "Tool: PyPI"
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Package, “shaderz” (Part 2)",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-package-shaderz-part-2",
+    "is_threat_report": true,
+    "main_object": "Tool: Hyperion"
+  },
+  {
+    "title": "Want to Know What’s in That Online Mystery Box? NOTHING AT ALL",
+    "link": "https://www.fortinet.com/blog/threat-research/want-to-know-whats-in-that-online-mystery-box-nothing-at-all",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "GoTrim: Go-based Botnet Actively Brute Forces WordPress Websites",
+    "link": "https://www.fortinet.com/blog/threat-research/gotrim-go-based-botnet-actively-brute-forces-wordpress-websites",
+    "is_threat_report": true,
+    "main_object": "Tool: GoTrim"
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Package, “shaderz” (Part 1)",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-new-malicious-python-package-shaderz",
+    "is_threat_report": true,
+    "main_object": "Malware: shaderz"
+  },
+  {
+    "title": "Ransomware Roundup – New Vohuk, ScareCrow, and AERST Variants",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-new-vohuk-scarecrow-and-aerst-variants",
+    "is_threat_report": true,
+    "main_object": "Malware: Vohuk, ScareCrow, AERST ransomware"
+  },
+  {
+    "title": "cyber war middle east",
+    "link": "https://www.security.com/threat-intelligence/cyber-war-middle-east",
+    "is_threat_report": true,
+    "main_object": "Actor: Stuxnet"
+  },
+  {
+    "title": "toolshell zero day sharepoint cve 2025 53770",
+    "link": "https://www.security.com/threat-intelligence/toolshell-zero-day-sharepoint-cve-2025-53770",
+    "is_threat_report": true,
+    "main_object": "Technique: Path Traversal via PowerShell"
+  },
+  {
+    "title": "fog ransomware attack",
+    "link": "https://www.security.com/threat-intelligence/fog-ransomware-attack",
+    "is_threat_report": true,
+    "main_object": "Malware: TheFog ransomware"
+  },
+  {
+    "title": "chrome extension leaks",
+    "link": "https://www.security.com/threat-intelligence/chrome-extension-leaks",
+    "is_threat_report": true,
+    "main_object": "Tool: Browsec VPN"
+  },
+  {
+    "title": "chrome extension credentials",
+    "link": "https://www.security.com/threat-intelligence/chrome-extension-credentials",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CWE-20: Improper Neutralization of Special Elements used in an OS Command ('OS command injection')"
+  },
+  {
+    "title": "play ransomware zero day",
+    "link": "https://www.security.com/threat-intelligence/play-ransomware-zero-day",
+    "is_threat_report": true,
+    "main_object": "Actor: Balloonfly"
+  },
+  {
+    "title": "billbug china espionage",
+    "link": "https://www.security.com/threat-intelligence/billbug-china-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Billbug"
+  },
+  {
+    "title": "shuckworm ukraine gammasteel",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-ukraine-gammasteel",
+    "is_threat_report": true,
+    "main_object": "Actor: Shuckworm"
+  },
+  {
+    "title": "ransomhub betruger backdoor",
+    "link": "https://www.security.com/threat-intelligence/ransomhub-betruger-backdoor",
+    "is_threat_report": true,
+    "main_object": "Actor: RansomHub"
+  },
+  {
+    "title": "ai agent attacks",
+    "link": "https://www.security.com/threat-intelligence/ai-agent-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: OpenAI's Operator"
+  },
+  {
+    "title": "medusa ransomware attacks",
+    "link": "https://www.security.com/threat-intelligence/medusa-ransomware-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Spearwing"
+  },
+  {
+    "title": "ransomware trends 2025",
+    "link": "https://www.security.com/threat-intelligence/ransomware-trends-2025",
+    "is_threat_report": true,
+    "main_object": "Technique: BYOVD"
+  },
+  {
+    "title": "chinese espionage ransomware",
+    "link": "https://www.security.com/threat-intelligence/chinese-espionage-ransomware",
+    "is_threat_report": true,
+    "main_object": "Tool: toshdpdb.exe"
+  },
+  {
+    "title": "china southeast asia espionage",
+    "link": "https://www.security.com/threat-intelligence/china-southeast-asia-espionage",
+    "is_threat_report": true,
+    "main_object": "Tool: Impacket"
+  },
+  {
+    "title": "us china espionage",
+    "link": "https://www.security.com/threat-intelligence/us-china-espionage",
+    "is_threat_report": true,
+    "main_object": "Tool: Impacket"
+  },
+  {
+    "title": "exposing danger within hardcoded cloud credentials popular mobile apps",
+    "link": "https://www.security.com/threat-intelligence/exposing-danger-within-hardcoded-cloud-credentials-popular-mobile-apps",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: Hardcoded AWS Credentials in Apps"
+  },
+  {
+    "title": "ransomware threat level remains high",
+    "link": "https://www.security.com/threat-intelligence/ransomware-threat-level-remains-high",
+    "is_threat_report": true,
+    "main_object": "Actor: RansomHub"
+  },
+  {
+    "title": "stonefly north korea extortion",
+    "link": "https://www.security.com/threat-intelligence/stonefly-north-korea-extortion",
+    "is_threat_report": true,
+    "main_object": "Actor: Stonefly"
+  },
+  {
+    "title": "ransomware attacks rebound",
+    "link": "https://www.security.com/threat-intelligence/ransomware-attacks-rebound",
+    "is_threat_report": true,
+    "main_object": "Actor: Qilin"
+  },
+  {
+    "title": "taiwan malware dns",
+    "link": "https://www.security.com/threat-intelligence/taiwan-malware-dns",
+    "is_threat_report": true,
+    "main_object": "Malware: Backdoor.Msupedge"
+  },
+  {
+    "title": "cloud espionage attacks",
+    "link": "https://www.security.com/threat-intelligence/cloud-espionage-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Harvester"
+  },
+  {
+    "title": "malware ai llm",
+    "link": "https://www.security.com/threat-intelligence/malware-ai-llm",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "daggerfly espionage updated toolset",
+    "link": "https://www.security.com/threat-intelligence/daggerfly-espionage-updated-toolset",
+    "is_threat_report": true,
+    "main_object": "Malware: Macma"
+  },
+  {
+    "title": "ransomware q2 2024",
+    "link": "https://www.security.com/threat-intelligence/ransomware-q2-2024",
+    "is_threat_report": true,
+    "main_object": "Actor: LockBit"
+  },
+  {
+    "title": "telecoms espionage asia",
+    "link": "https://www.security.com/threat-intelligence/telecoms-espionage-asia",
+    "is_threat_report": true,
+    "main_object": "Actor: Fireant, Neeedleminer, Quickheal, Recorded Future, SwiftandFast.net"
+  },
+  {
+    "title": "black basta ransomware zero day",
+    "link": "https://www.security.com/threat-intelligence/black-basta-ransomware-zero-day",
+    "is_threat_report": true,
+    "main_object": "Tool: exploit tool"
+  },
+  {
+    "title": "ransomhub knight ransomware",
+    "link": "https://www.security.com/threat-intelligence/ransomhub-knight-ransomware",
+    "is_threat_report": true,
+    "main_object": "Actor: RansomHub"
+  },
+  {
+    "title": "springtail kimsuky backdoor espionage",
+    "link": "https://www.security.com/threat-intelligence/springtail-kimsuky-backdoor-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Springtail"
+  },
+  {
+    "title": "graph api threats",
+    "link": "https://www.security.com/threat-intelligence/graph-api-threats",
+    "is_threat_report": true,
+    "main_object": "Tool: Microsoft Graph API"
+  },
+  {
+    "title": "ransomware attacks exploits",
+    "link": "https://www.security.com/threat-intelligence/ransomware-attacks-exploits",
+    "is_threat_report": true,
+    "main_object": "Actor: LockBit"
+  },
+  {
+    "title": "ransomware data exfiltration",
+    "link": "https://www.security.com/threat-intelligence/ransomware-data-exfiltration",
+    "is_threat_report": true,
+    "main_object": "Tool: Rclone"
+  },
+  {
+    "title": "alpha netwalker ransomware",
+    "link": "https://www.security.com/threat-intelligence/alpha-netwalker-ransomware",
+    "is_threat_report": true,
+    "main_object": "Malware: PowerShell"
+  },
+  {
+    "title": "ransomware threat landscape 2024",
+    "link": "https://www.security.com/threat-intelligence/ransomware-threat-landscape-2024",
+    "is_threat_report": true,
+    "main_object": "Tool: Symantec Adaptive Protection"
+  },
+  {
+    "title": "iran apt seedworm africa telecoms",
+    "link": "https://www.security.com/threat-intelligence/iran-apt-seedworm-africa-telecoms",
+    "is_threat_report": true,
+    "main_object": "Actor: Seedworm"
+  },
+  {
+    "title": "spyware obfuscation static analysis",
+    "link": "https://www.security.com/threat-intelligence/spyware-obfuscation-static-analysis",
+    "is_threat_report": true,
+    "main_object": "Tool: Jadx"
+  },
+  {
+    "title": "crambus middle east government",
+    "link": "https://www.security.com/threat-intelligence/crambus-middle-east-government",
+    "is_threat_report": true,
+    "main_object": "Actor: Crambus"
+  },
+  {
+    "title": "grayling taiwan cyber attacks",
+    "link": "https://www.security.com/threat-intelligence/grayling-taiwan-cyber-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Grayling"
+  },
+  {
+    "title": "budworm tool update telecoms govt",
+    "link": "https://www.security.com/threat-intelligence/budworm-tool-update-telecoms-govt",
+    "is_threat_report": true,
+    "main_object": "Actor: Budworm"
+  },
+  {
+    "title": "3am ransomware lockbit",
+    "link": "https://www.security.com/threat-intelligence/3am-ransomware-lockbit",
+    "is_threat_report": true,
+    "main_object": "Malware: 3AM"
+  },
+  {
+    "title": "critical infrastructure attacks",
+    "link": "https://www.security.com/threat-intelligence/critical-infrastructure-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Redfly"
+  },
+  {
+    "title": "qakbot takedown disruption",
+    "link": "https://www.security.com/threat-intelligence/qakbot-takedown-disruption",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: Qakbot"
+  },
+  {
+    "title": "carderbee software supply chain certificate abuse",
+    "link": "https://www.security.com/threat-intelligence/carderbee-software-supply-chain-certificate-abuse",
+    "is_threat_report": true,
+    "main_object": "Actor: Carderbee"
+  },
+  {
+    "title": "syssphinx fin8 backdoor",
+    "link": "https://www.security.com/threat-intelligence/syssphinx-fin8-backdoor",
+    "is_threat_report": true,
+    "main_object": "Actor: Syssphinx (aka FIN8)"
+  },
+  {
+    "title": "microsoft zeroday exploit",
+    "link": "https://www.security.com/threat-intelligence/microsoft-zeroday-exploit",
+    "is_threat_report": true,
+    "main_object": "Actor: Storm-0978/RomCom"
+  },
+  {
+    "title": "flea backdoor microsoft graph apt15",
+    "link": "https://www.security.com/threat-intelligence/flea-backdoor-microsoft-graph-apt15",
+    "is_threat_report": true,
+    "main_object": "Actor: Flea (APT15)"
+  },
+  {
+    "title": "shuckworm russia ukraine military",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-russia-ukraine-military",
+    "is_threat_report": true,
+    "main_object": "Actor: Shuckworm"
+  },
+  {
+    "title": "moveit vulnerabilities exploits",
+    "link": "https://www.security.com/threat-intelligence/moveit-vulnerabilities-exploits",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2023-34362"
+  },
+  {
+    "title": "buhti ransomware",
+    "link": "https://www.security.com/threat-intelligence/buhti-ransomware",
+    "is_threat_report": true,
+    "main_object": "Actor: Blacktail"
+  },
+  {
+    "title": "lancefly merdoor zxshell custom backdoor",
+    "link": "https://www.security.com/threat-intelligence/lancefly-merdoor-zxshell-custom-backdoor",
+    "is_threat_report": true,
+    "main_object": "Malware: Merdoor"
+  },
+  {
+    "title": "xtrader 3cx supply chain",
+    "link": "https://www.security.com/threat-intelligence/xtrader-3cx-supply-chain",
+    "is_threat_report": true,
+    "main_object": "Actor: North Korean APT"
+  },
+  {
+    "title": "apt attacks telecoms africa mgbot",
+    "link": "https://www.security.com/threat-intelligence/apt-attacks-telecoms-africa-mgbot",
+    "is_threat_report": true,
+    "main_object": "Actor: Daggerfly"
+  },
+  {
+    "title": "play ransomware volume shadow copy",
+    "link": "https://www.security.com/threat-intelligence/play-ransomware-volume-shadow-copy",
+    "is_threat_report": true,
+    "main_object": "Tool: Costura"
+  },
+  {
+    "title": "mantis palestinian attacks",
+    "link": "https://www.security.com/threat-intelligence/mantis-palestinian-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Mantis Cyber Espionage Group"
+  },
+  {
+    "title": "3cx supply chain attack",
+    "link": "https://www.security.com/threat-intelligence/3cx-supply-chain-attack",
+    "is_threat_report": true,
+    "main_object": "Malware: d3dcompiler_47.dll"
+  },
+  {
+    "title": "blackfly espionage materials",
+    "link": "https://www.security.com/threat-intelligence/blackfly-espionage-materials",
+    "is_threat_report": true,
+    "main_object": "Actor: Blackfly"
+  },
+  {
+    "title": "clasiopa materials research",
+    "link": "https://www.security.com/threat-intelligence/clasiopa-materials-research",
+    "is_threat_report": true,
+    "main_object": "Actor: Clasiopa"
+  },
+  {
+    "title": "hydrochasma asia medical shipping intelligence gathering",
+    "link": "https://www.security.com/threat-intelligence/hydrochasma-asia-medical-shipping-intelligence-gathering",
+    "is_threat_report": true,
+    "main_object": "Actor: Hydrochasma"
+  },
+  {
+    "title": "frebniis malware iis",
+    "link": "https://www.security.com/threat-intelligence/frebniis-malware-iis",
+    "is_threat_report": true,
+    "main_object": "Malware: Frebniis"
+  },
+  {
+    "title": "nodaria ukraine infostealer",
+    "link": "https://www.security.com/threat-intelligence/nodaria-ukraine-infostealer",
+    "is_threat_report": true,
+    "main_object": "Actor: Nodaria"
+  },
+  {
+    "title": "bluebottle banks targeted africa",
+    "link": "https://www.security.com/threat-intelligence/bluebottle-banks-targeted-africa",
+    "is_threat_report": true,
+    "main_object": "Actor: Bluebottle"
+  },
+  {
+    "title": "espionage asia governments cert authority",
+    "link": "https://www.security.com/threat-intelligence/espionage-asia-governments-cert-authority",
+    "is_threat_report": true,
+    "main_object": "Actor: Billbug"
+  },
+  {
+    "title": "cranefly new tools technique geppei danfuan",
+    "link": "https://www.security.com/threat-intelligence/cranefly-new-tools-technique-geppei-danfuan",
+    "is_threat_report": true,
+    "main_object": "Malware: Trojan.Geppei"
+  },
+  {
+    "title": "blackbyte exbyte ransomware",
+    "link": "https://www.security.com/threat-intelligence/blackbyte-exbyte-ransomware",
+    "is_threat_report": true,
+    "main_object": "Tool: Infostealer.Exbyte"
+  },
+  {
+    "title": "spyder loader cuckoobees hong kong",
+    "link": "https://www.security.com/threat-intelligence/spyder-loader-cuckoobees-hong-kong",
+    "is_threat_report": true,
+    "main_object": "Actor: Operation CuckooBees"
+  },
+  {
+    "title": "budworm espionage us state",
+    "link": "https://www.security.com/threat-intelligence/budworm-espionage-us-state",
+    "is_threat_report": true,
+    "main_object": "Actor: Budworm"
+  },
+  {
+    "title": "witchetty steganography espionage",
+    "link": "https://www.security.com/threat-intelligence/witchetty-steganography-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Witchetty"
+  },
+  {
+    "title": "noberus blackcat ransomware ttps",
+    "link": "https://www.security.com/threat-intelligence/noberus-blackcat-ransomware-ttps",
+    "is_threat_report": true,
+    "main_object": "Actor: Coreid"
+  },
+  {
+    "title": "webworm espionage rats",
+    "link": "https://www.security.com/threat-intelligence/webworm-espionage-rats",
+    "is_threat_report": true,
+    "main_object": "Actor: Webworm"
+  },
+  {
+    "title": "espionage asia governments",
+    "link": "https://www.security.com/threat-intelligence/espionage-asia-governments",
+    "is_threat_report": true,
+    "main_object": "Actor: Not specified but likely refers to Lazarus Group"
+  },
+  {
+    "title": "russia ukraine shuckworm",
+    "link": "https://www.security.com/threat-intelligence/russia-ukraine-shuckworm",
+    "is_threat_report": true,
+    "main_object": "Actor: Shuckworm"
+  },
+  {
+    "title": "lockbit targets servers",
+    "link": "https://www.security.com/threat-intelligence/lockbit-targets-servers",
+    "is_threat_report": true,
+    "main_object": "Tool: LockBit"
+  },
+  {
+    "title": "bumblebee loader cybercrime",
+    "link": "https://www.security.com/threat-intelligence/bumblebee-loader-cybercrime",
+    "is_threat_report": true,
+    "main_object": "Tool: Bumblebee"
+  },
+  {
+    "title": "follina msdt exploit malware",
+    "link": "https://www.security.com/threat-intelligence/follina-msdt-exploit-malware",
+    "is_threat_report": true,
+    "main_object": "Actor: Symantec"
+  },
+  {
+    "title": "clipminer bitcoin mining hijacking",
+    "link": "https://www.security.com/threat-intelligence/clipminer-bitcoin-mining-hijacking",
+    "is_threat_report": true,
+    "main_object": "Actor: Cybercriminals"
+  },
+  {
+    "title": "ransomware hive conti avoslocker",
+    "link": "https://www.security.com/threat-intelligence/ransomware-hive-conti-avoslocker",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "stonefly north korea espionage",
+    "link": "https://www.security.com/threat-intelligence/stonefly-north-korea-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Stonefly"
+  },
+  {
+    "title": "shuckworm intense campaign ukraine",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-intense-campaign-ukraine",
+    "is_threat_report": true,
+    "main_object": "Actor: Shuckworm/Gamaredon/Armageddon"
+  },
+  {
+    "title": "lazarus dream job chemical",
+    "link": "https://www.security.com/threat-intelligence/lazarus-dream-job-chemical",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "cicada apt10 china ngo government attacks",
+    "link": "https://www.security.com/threat-intelligence/cicada-apt10-china-ngo-government-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Cicada (APT10)"
+  },
+  {
+    "title": "spring4shell rce vuln java",
+    "link": "https://www.security.com/threat-intelligence/spring4shell-rce-vuln-java",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2022-22965"
+  },
+  {
+    "title": "verblecon sophisticated malware cryptocurrency mining discord",
+    "link": "https://www.security.com/threat-intelligence/verblecon-sophisticated-malware-cryptocurrency-mining-discord",
+    "is_threat_report": true,
+    "main_object": "Tool: PolymorphicJARLoader"
+  },
+  {
+    "title": "daxin backdoor espionage analysis",
+    "link": "https://www.security.com/threat-intelligence/daxin-backdoor-espionage-analysis",
+    "is_threat_report": true,
+    "main_object": "Tool: Wireshark"
+  },
+  {
+    "title": "ransomware threat landscape what expect 2022",
+    "link": "https://www.security.com/threat-intelligence/ransomware-threat-landscape-what-expect-2022",
+    "is_threat_report": true,
+    "main_object": "Technique: Living-off-the-land"
+  },
+  {
+    "title": "daxin malware espionage analysis",
+    "link": "https://www.security.com/threat-intelligence/daxin-malware-espionage-analysis",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "covid passport risks",
+    "link": "https://www.security.com/threat-intelligence/covid-passport-risks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "daxin backdoor espionage",
+    "link": "https://www.security.com/threat-intelligence/daxin-backdoor-espionage",
+    "is_threat_report": true,
+    "main_object": "Malware: Backdoor.Daxin"
+  },
+  {
+    "title": "ukraine wiper malware russia",
+    "link": "https://www.security.com/threat-intelligence/ukraine-wiper-malware-russia",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2021-1636"
+  },
+  {
+    "title": "china apt antlion taiwan financial attacks",
+    "link": "https://www.security.com/threat-intelligence/china-apt-antlion-taiwan-financial-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Antlion"
+  },
+  {
+    "title": "shuckworm gamaredon espionage ukraine",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-gamaredon-espionage-ukraine",
+    "is_threat_report": true,
+    "main_object": "Actor: Shuckworm/Gamaredon/Armageddon"
+  },
+  {
+    "title": "threat landscape 2021",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-2021",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "log4j vulnerabilities attacks",
+    "link": "https://www.security.com/threat-intelligence/log4j-vulnerabilities-attacks",
+    "is_threat_report": true,
+    "main_object": "Malware: Muhstik Botnet, XMRig miner, Malicious class file backdoor"
+  },
+  {
+    "title": "noberus blackcat alphv rust ransomware",
+    "link": "https://www.security.com/threat-intelligence/noberus-blackcat-alphv-rust-ransomware",
+    "is_threat_report": true,
+    "main_object": "Malware: Noberus"
+  },
+  {
+    "title": "espionage campaign telecoms asia middle east",
+    "link": "https://www.security.com/threat-intelligence/espionage-campaign-telecoms-asia-middle-east",
+    "is_threat_report": true,
+    "main_object": "Actor: ScreenConnect Setup MSI, ScreenConnect Tunneling Tool, Ligolo Tunneling Tool, Exchange Trusted Subsystem Domain Group, Certutil, PowerShell, ScreenConnect Service, ScreenConnect User Discovery Command, ScreenConnect Remote Service Discovery Command, ScreenConnect Domain Query Command, ScreenConnect Net Group Query Command, ScreenConnect Unknown Windows Script File, ScreenConnect Unknown Windows Script File Execution, ScreenConnect Wormhole Creation, ScreenConnect Domain Discovery, ScreenConnect User Discovery, ScreenConnect Remote Service Discovery, ScreenConnect Certificate Download, ScreenConnect Net Group Query, ScreenConnect Wormhole Connection, ScreenConnect Domain Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query, ScreenConnect Net Group Query"
+  },
+  {
+    "title": "apache log4j zero day",
+    "link": "https://www.security.com/threat-intelligence/apache-log4j-zero-day",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2021-45046"
+  },
+  {
+    "title": "yanluowang ransomware attacks continue",
+    "link": "https://www.security.com/threat-intelligence/yanluowang-ransomware-attacks-continue",
+    "is_threat_report": true,
+    "main_object": "Tool: Cobalt Strike"
+  },
+  {
+    "title": "blackmatter data exfiltration",
+    "link": "https://www.security.com/threat-intelligence/blackmatter-data-exfiltration",
+    "is_threat_report": true,
+    "main_object": "Tool: Exmatter"
+  },
+  {
+    "title": "banking trojan latam brazil",
+    "link": "https://www.security.com/threat-intelligence/banking-trojan-latam-brazil",
+    "is_threat_report": true,
+    "main_object": "Malware: Banking Trojan"
+  },
+  {
+    "title": "espionage campaign south east asia",
+    "link": "https://www.security.com/threat-intelligence/espionage-campaign-south-east-asia",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "harvester new apt attacks asia",
+    "link": "https://www.security.com/threat-intelligence/harvester-new-apt-attacks-asia",
+    "is_threat_report": true,
+    "main_object": "Actor: Harvester"
+  },
+  {
+    "title": "yanluowang targeted ransomware",
+    "link": "https://www.security.com/threat-intelligence/yanluowang-targeted-ransomware",
+    "is_threat_report": true,
+    "main_object": "Actor: Symantec Threat Hunter Team"
+  },
+  {
+    "title": "ransomware targeted 2021",
+    "link": "https://www.security.com/threat-intelligence/ransomware-targeted-2021",
+    "is_threat_report": true,
+    "main_object": "Actor: Not specified (likely referring to the Lazarus Group)"
+  },
+  {
+    "title": "pegasus forcedentry protection",
+    "link": "https://www.security.com/threat-intelligence/pegasus-forcedentry-protection",
+    "is_threat_report": true,
+    "main_object": "Tool: Pegasus"
+  },
+  {
+    "title": "grayfly china sidewalk malware",
+    "link": "https://www.security.com/threat-intelligence/grayfly-china-sidewalk-malware",
+    "is_threat_report": true,
+    "main_object": "Actor: Grayfly"
+  },
+  {
+    "title": "lockfile ransomware new petitpotam windows",
+    "link": "https://www.security.com/threat-intelligence/lockfile-ransomware-new-petitpotam-windows",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "ransomware trends lockbit sodinokibi",
+    "link": "https://www.security.com/threat-intelligence/ransomware-trends-lockbit-sodinokibi",
+    "is_threat_report": true,
+    "main_object": "Actor: Sodinokibi/LockBit"
+  },
+  {
+    "title": "critical infrastructure south east asia espionage",
+    "link": "https://www.security.com/threat-intelligence/critical-infrastructure-south-east-asia-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Unknown"
+  },
+  {
+    "title": "kaseya ransomware supply chain",
+    "link": "https://www.security.com/threat-intelligence/kaseya-ransomware-supply-chain",
+    "is_threat_report": true,
+    "main_object": "Actor: REvil (aka Sodinokibi)"
+  },
+  {
+    "title": "ransomware virtual machines",
+    "link": "https://www.security.com/threat-intelligence/ransomware-virtual-machines",
+    "is_threat_report": true,
+    "main_object": "Technique: Running Ransomware in a Virtual Machine"
+  },
+  {
+    "title": "targeted ransomware ecosystem",
+    "link": "https://www.security.com/threat-intelligence/targeted-ransomware-ecosystem",
+    "is_threat_report": true,
+    "main_object": "Actor: Conti"
+  },
+  {
+    "title": "multi factor authentication new attacks",
+    "link": "https://www.security.com/threat-intelligence/multi-factor-authentication-new-attacks",
+    "is_threat_report": true,
+    "main_object": "Technique: Zero-day Remote Code Execution via CVE-2021-22893"
+  },
+  {
+    "title": "spectre bypass linux vulnerabilities",
+    "link": "https://www.security.com/threat-intelligence/spectre-bypass-linux-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: Meltdown,Spectre"
+  },
+  {
+    "title": "security privacy covid tracing apps",
+    "link": "https://www.security.com/threat-intelligence/security-privacy-covid-tracing-apps",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft exchange server protection",
+    "link": "https://www.security.com/threat-intelligence/microsoft-exchange-server-protection",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2021-26855"
+  },
+  {
+    "title": "lazarus north korea indictment",
+    "link": "https://www.security.com/threat-intelligence/lazarus-north-korea-indictment",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "solarwinds sunburst sending data",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-sunburst-sending-data",
+    "is_threat_report": true,
+    "main_object": "Technique: Steganography"
+  },
+  {
+    "title": "solarwinds raindrop malware",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-raindrop-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: Raindrop"
+  },
+  {
+    "title": "solarwinds sunburst command control",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-sunburst-command-control",
+    "is_threat_report": true,
+    "main_object": "Technique: DGA"
+  },
+  {
+    "title": "solarwinds unique dga",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-unique-dga",
+    "is_threat_report": true,
+    "main_object": "Technique: DNS-based Command and Control (DNS-C2)"
+  },
+  {
+    "title": "solarwinds attacks stealthy attackers attempted evade detection",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-attacks-stealthy-attackers-attempted-evade-detection",
+    "is_threat_report": true,
+    "main_object": "Tool: SolarWinds Orion"
+  },
+  {
+    "title": "threat landscape trends q3 2020",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-trends-q3-2020",
+    "is_threat_report": true,
+    "main_object": "Malware: Lokibot"
+  },
+  {
+    "title": "sunburst supply chain attack solarwinds",
+    "link": "https://www.security.com/threat-intelligence/sunburst-supply-chain-attack-solarwinds",
+    "is_threat_report": true,
+    "main_object": "Tool: SolarWinds Orion Software"
+  },
+  {
+    "title": "cicada apt10 japan espionage",
+    "link": "https://www.security.com/threat-intelligence/cicada-apt10-japan-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Cicada (APT10)"
+  },
+  {
+    "title": "sms phishing presidential election",
+    "link": "https://www.security.com/threat-intelligence/sms-phishing-presidential-election",
+    "is_threat_report": true,
+    "main_object": "Actor: Kevin and Shaun"
+  },
+  {
+    "title": "seedworm apt iran middle east",
+    "link": "https://www.security.com/threat-intelligence/seedworm-apt-iran-middle-east",
+    "is_threat_report": true,
+    "main_object": "Actor: Seedworm"
+  },
+  {
+    "title": "trickbot botnet ransomware disruption",
+    "link": "https://www.security.com/threat-intelligence/trickbot-botnet-ransomware-disruption",
+    "is_threat_report": true,
+    "main_object": "Actor: Anonymous"
+  },
+  {
+    "title": "palmerworm blacktech espionage apt",
+    "link": "https://www.security.com/threat-intelligence/palmerworm-blacktech-espionage-apt",
+    "is_threat_report": true,
+    "main_object": "Actor: Palmerworm"
+  },
+  {
+    "title": "elfin indictments iran espionage",
+    "link": "https://www.security.com/threat-intelligence/elfin-indictments-iran-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Elfin"
+  },
+  {
+    "title": "apt41 indictments china espionage",
+    "link": "https://www.security.com/threat-intelligence/apt41-indictments-china-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Grayfly, Blackfly"
+  },
+  {
+    "title": "threat landscape trends q2 2020",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-trends-q2-2020",
+    "is_threat_report": true,
+    "main_object": "Tool: Emotet"
+  },
+  {
+    "title": "wastedlocker ransomware us",
+    "link": "https://www.security.com/threat-intelligence/wastedlocker-ransomware-us",
+    "is_threat_report": true,
+    "main_object": "Tool: Cobalt Strike"
+  },
+  {
+    "title": "sodinokibi ransomware cobalt strike pos",
+    "link": "https://www.security.com/threat-intelligence/sodinokibi-ransomware-cobalt-strike-pos",
+    "is_threat_report": true,
+    "main_object": "Actor: Sodinokibi"
+  },
+  {
+    "title": "threat landscape q1 2020",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-q1-2020",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2019-19781"
+  },
+  {
+    "title": "sms phishing coronavirus",
+    "link": "https://www.security.com/threat-intelligence/sms-phishing-coronavirus",
+    "is_threat_report": true,
+    "main_object": "Actor: Scammers"
+  },
+  {
+    "title": "greenbug espionage telco south asia",
+    "link": "https://www.security.com/threat-intelligence/greenbug-espionage-telco-south-asia",
+    "is_threat_report": true,
+    "main_object": "Actor: Greenbug"
+  },
+  {
+    "title": "covid 19 text scam",
+    "link": "https://www.security.com/threat-intelligence/covid-19-text-scam",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "microsoft patch tuesday april 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-april-2020",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "covid 19 outbreak prompts opportunistic wave malicious email campaigns",
+    "link": "https://www.security.com/threat-intelligence/covid-19-outbreak-prompts-opportunistic-wave-malicious-email-campaigns",
+    "is_threat_report": true,
+    "main_object": "Actor: Cyber criminals"
+  },
+  {
+    "title": "android apps coronavirus covid19 malicious",
+    "link": "https://www.security.com/threat-intelligence/android-apps-coronavirus-covid19-malicious",
+    "is_threat_report": true,
+    "main_object": "Tool: Metasploit"
+  },
+  {
+    "title": "microsoft patch tuesday march 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-march-2020",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2020-0768"
+  },
+  {
+    "title": "microsoft patch tuesday february 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-february-2020",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "tensions iran destructive attacks",
+    "link": "https://www.security.com/threat-intelligence/tensions-iran-destructive-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Iranian Cyber Threat Groups"
+  },
+  {
+    "title": "increase emotet spam observed blocked symantec",
+    "link": "https://www.security.com/threat-intelligence/increase-emotet-spam-observed-blocked-symantec",
+    "is_threat_report": true,
+    "main_object": "Malware: Emotet"
+  },
+  {
+    "title": "microsoft patch tuesday january 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-january-2020",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "living land legitimate tools malicious",
+    "link": "https://www.security.com/threat-intelligence/living-land-legitimate-tools-malicious",
+    "is_threat_report": true,
+    "main_object": "Technique: Living-off-the-land"
+  },
+  {
+    "title": "microsoft patch tuesday december 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-december-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday november 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-november-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "nemty ransomware trik botnet",
+    "link": "https://www.security.com/threat-intelligence/nemty-ransomware-trik-botnet",
+    "is_threat_report": true,
+    "main_object": "Tool: Trik"
+  },
+  {
+    "title": "thrip apt south east asia",
+    "link": "https://www.security.com/threat-intelligence/thrip-apt-south-east-asia",
+    "is_threat_report": true,
+    "main_object": "Actor: Thrip/Billbug"
+  },
+  {
+    "title": "microsoft patch tuesday august 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-august-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "email extortion scams",
+    "link": "https://www.security.com/threat-intelligence/email-extortion-scams",
+    "is_threat_report": true,
+    "main_object": "Actor: Anonymous"
+  },
+  {
+    "title": "bec scams trends and themes 2019",
+    "link": "https://www.security.com/threat-intelligence/bec-scams-trends-and-themes-2019",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "cryptojacking extensions chrome web store",
+    "link": "https://www.security.com/threat-intelligence/cryptojacking-extensions-chrome-web-store",
+    "is_threat_report": true,
+    "main_object": "Tool: Vez4.js"
+  },
+  {
+    "title": "microsoft patch tuesday june 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-june-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "twitterbots propaganda disinformation",
+    "link": "https://www.security.com/threat-intelligence/twitterbots-propaganda-disinformation",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday may 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-may-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "buckeye windows zero day exploit",
+    "link": "https://www.security.com/threat-intelligence/buckeye-windows-zero-day-exploit",
+    "is_threat_report": true,
+    "main_object": "Actor: Buckeye"
+  },
+  {
+    "title": "elfin apt33 espionage",
+    "link": "https://www.security.com/threat-intelligence/elfin-apt33-espionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Elfin"
+  },
+  {
+    "title": "asus supply chain attack",
+    "link": "https://www.security.com/threat-intelligence/asus-supply-chain-attack",
+    "is_threat_report": true,
+    "main_object": "Actor: ASUS"
+  },
+  {
+    "title": "detecting credential dumping",
+    "link": "https://www.security.com/threat-intelligence/detecting-credential-dumping",
+    "is_threat_report": true,
+    "main_object": "Technique: Credential Dumping"
+  },
+  {
+    "title": "microsoft patch tuesday march 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-march-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "whitefly espionage singapore",
+    "link": "https://www.security.com/threat-intelligence/whitefly-espionage-singapore",
+    "is_threat_report": true,
+    "main_object": "Actor: Whitefly"
+  },
+  {
+    "title": "istr 24 cyber security threat landscape",
+    "link": "https://www.security.com/threat-intelligence/istr-24-cyber-security-threat-landscape",
+    "is_threat_report": true,
+    "main_object": "Technique: Formjacking"
+  },
+  {
+    "title": "cryptojacking apps microsoft store",
+    "link": "https://www.security.com/threat-intelligence/cryptojacking-apps-microsoft-store",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: None identified"
+  },
+  {
+    "title": "microsoft patch tuesday february 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-february-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "tech support scams install puas",
+    "link": "https://www.security.com/threat-intelligence/tech-support-scams-install-puas",
+    "is_threat_report": true,
+    "main_object": "Actor: Tech Support Scammers"
+  },
+  {
+    "title": "african financial attacks",
+    "link": "https://www.security.com/threat-intelligence/african-financial-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Cyber criminals"
+  },
+  {
+    "title": "microsoft patch tuesday january 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-january-2019",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "leaky christmas lights hijacked",
+    "link": "https://www.security.com/threat-intelligence/leaky-christmas-lights-hijacked",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: Unencrypted POST request containing private information in plain text"
+  },
+  {
+    "title": "shamoon destructive threat re emerges new sting its tail",
+    "link": "https://www.security.com/threat-intelligence/shamoon-destructive-threat-re-emerges-new-sting-its-tail",
+    "is_threat_report": true,
+    "main_object": "Malware: Trojan.Filerase"
+  },
+  {
+    "title": "microsoft patch tuesday december 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-december-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "seedworm espionage group",
+    "link": "https://www.security.com/threat-intelligence/seedworm-espionage-group",
+    "is_threat_report": true,
+    "main_object": "Actor: Seedworm"
+  },
+  {
+    "title": "formjacking targeting popular stores",
+    "link": "https://www.security.com/threat-intelligence/formjacking-targeting-popular-stores",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "tech support scams part 3",
+    "link": "https://www.security.com/threat-intelligence/tech-support-scams-part-3",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "eversion 3ve arrests takedown",
+    "link": "https://www.security.com/threat-intelligence/eversion-3ve-arrests-takedown",
+    "is_threat_report": true,
+    "main_object": "Tool: Kovter"
+  },
+  {
+    "title": "retail threats formjacking pos",
+    "link": "https://www.security.com/threat-intelligence/retail-threats-formjacking-pos",
+    "is_threat_report": true,
+    "main_object": "Actor: FIN7"
+  },
+  {
+    "title": "microsoft patch tuesday november 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-november-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "fastcash lazarus atm malware",
+    "link": "https://www.security.com/threat-intelligence/fastcash-lazarus-atm-malware",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "samsam targeted ransomware attacks",
+    "link": "https://www.security.com/threat-intelligence/samsam-targeted-ransomware-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: SamSam"
+  },
+  {
+    "title": "gallmaker attack group",
+    "link": "https://www.security.com/threat-intelligence/gallmaker-attack-group",
+    "is_threat_report": true,
+    "main_object": "Actor: Gallmaker"
+  },
+  {
+    "title": "microsoft patch tuesday october 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-october-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "symantec latest intelligence refresh",
+    "link": "https://www.security.com/threat-intelligence/symantec-latest-intelligence-refresh",
+    "is_threat_report": true,
+    "main_object": "Technique: Network Attack Types"
+  },
+  {
+    "title": "formjacking attacks retailers",
+    "link": "https://www.security.com/threat-intelligence/formjacking-attacks-retailers",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: Formjacking"
+  },
+  {
+    "title": "microsoft patch tuesday september 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-september-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "wmic download malware",
+    "link": "https://www.security.com/threat-intelligence/wmic-download-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: WMIC"
+  },
+  {
+    "title": "mirai cross platform infection",
+    "link": "https://www.security.com/threat-intelligence/mirai-cross-platform-infection",
+    "is_threat_report": true,
+    "main_object": "Tool: Abori"
+  },
+  {
+    "title": "jrat new anti parsing techniques",
+    "link": "https://www.security.com/threat-intelligence/jrat-new-anti-parsing-techniques",
+    "is_threat_report": true,
+    "main_object": "Malware: jRAT"
+  },
+  {
+    "title": "microsoft patch tuesday august 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-august-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "hacked mikrotik router",
+    "link": "https://www.security.com/threat-intelligence/hacked-mikrotik-router",
+    "is_threat_report": true,
+    "main_object": "Actor: Unknown"
+  },
+  {
+    "title": "leafminer espionage middle east",
+    "link": "https://www.security.com/threat-intelligence/leafminer-espionage-middle-east",
+    "is_threat_report": true,
+    "main_object": "Actor: Leafminer"
+  },
+  {
+    "title": "evolution emotet trojan distributor",
+    "link": "https://www.security.com/threat-intelligence/evolution-emotet-trojan-distributor",
+    "is_threat_report": true,
+    "main_object": "Actor: Mealybug"
+  },
+  {
+    "title": "powershell threats grow further and operate plain sight",
+    "link": "https://www.security.com/threat-intelligence/powershell-threats-grow-further-and-operate-plain-sight",
+    "is_threat_report": true,
+    "main_object": "Tool: PowerShell"
+  },
+  {
+    "title": "microsoft patch tuesday july 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-july-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "thrip hits satellite telecoms defense targets",
+    "link": "https://www.security.com/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets",
+    "is_threat_report": true,
+    "main_object": "Technique: PsExec"
+  },
+  {
+    "title": "microsoft patch tuesday june 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-june-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "industry and law enforcement cooperation bears fruit fight against bec",
+    "link": "https://www.security.com/threat-intelligence/industry-and-law-enforcement-cooperation-bears-fruit-fight-against-bec",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "vpnfilter iot malware",
+    "link": "https://www.security.com/threat-intelligence/vpnfilter-iot-malware",
+    "is_threat_report": true,
+    "main_object": "Tool: VPNFilter"
+  },
+  {
+    "title": "scan4you masterminds guilty",
+    "link": "https://www.security.com/threat-intelligence/scan4you-masterminds-guilty",
+    "is_threat_report": true,
+    "main_object": "Actor: Scan4You"
+  },
+  {
+    "title": "latest intelligence march 2018",
+    "link": "https://www.security.com/threat-intelligence/latest-intelligence-march-2018",
+    "is_threat_report": true,
+    "main_object": "Actor: Inception Framework"
+  },
+  {
+    "title": "coin mining without browser",
+    "link": "https://www.security.com/threat-intelligence/coin-mining-without-browser",
+    "is_threat_report": true,
+    "main_object": "Tool: Portable Executable File (.NET)"
+  },
+  {
+    "title": "istr 23 cyber security threat landscape",
+    "link": "https://www.security.com/threat-intelligence/istr-23-cyber-security-threat-landscape",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "fakebank intercepts calls banks",
+    "link": "https://www.security.com/threat-intelligence/fakebank-intercepts-calls-banks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "inception framework hiding behind proxies",
+    "link": "https://www.security.com/threat-intelligence/inception-framework-hiding-behind-proxies",
+    "is_threat_report": true,
+    "main_object": "Actor: Inception Framework"
+  },
+  {
+    "title": "microsoft patch tuesday march 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-march-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "latest intelligence february 2018",
+    "link": "https://www.security.com/threat-intelligence/latest-intelligence-february-2018",
+    "is_threat_report": true,
+    "main_object": "Actor: Chafer"
+  },
+  {
+    "title": "chafer latest attacks reveal heightened ambitions",
+    "link": "https://www.security.com/threat-intelligence/chafer-latest-attacks-reveal-heightened-ambitions",
+    "is_threat_report": true,
+    "main_object": "Actor: Chafer"
+  },
+  {
+    "title": "android malware harvests facebook details",
+    "link": "https://www.security.com/threat-intelligence/android-malware-harvests-facebook-details",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday february 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-february-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "meltdown spectre cpu bugs",
+    "link": "https://www.security.com/threat-intelligence/meltdown-spectre-cpu-bugs",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-5754"
+  },
+  {
+    "title": "android malware uber credentials deep links",
+    "link": "https://www.security.com/threat-intelligence/android-malware-uber-credentials-deep-links",
+    "is_threat_report": true,
+    "main_object": "Tool: Intent"
+  },
+  {
+    "title": "browser mining cryptocurrency",
+    "link": "https://www.security.com/threat-intelligence/browser-mining-cryptocurrency",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "triton malware ics",
+    "link": "https://www.security.com/threat-intelligence/triton-malware-ics",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "microsoft patch tuesday december",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-december",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "mailsploit email exploit spoofing",
+    "link": "https://www.security.com/threat-intelligence/mailsploit-email-exploit-spoofing",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: Mailsploit"
+  },
+  {
+    "title": "surge adwind distribution emails",
+    "link": "https://www.security.com/threat-intelligence/surge-adwind-distribution-emails",
+    "is_threat_report": true,
+    "main_object": "Actor: Adwind"
+  },
+  {
+    "title": "latest intel november 2017",
+    "link": "https://www.security.com/threat-intelligence/latest-intel-november-2017",
+    "is_threat_report": true,
+    "main_object": "Actor: Not specified (general)"
+  },
+  {
+    "title": "doublehidden android malware google play",
+    "link": "https://www.security.com/threat-intelligence/doublehidden-android-malware-google-play",
+    "is_threat_report": true,
+    "main_object": "Actor: i.r.r developer"
+  },
+  {
+    "title": "android malware porn apps chinese",
+    "link": "https://www.security.com/threat-intelligence/android-malware-porn-apps-chinese",
+    "is_threat_report": true,
+    "main_object": "Tool: Android.Rootnik.B"
+  },
+  {
+    "title": "ms patch tuesday november 2017",
+    "link": "https://www.security.com/threat-intelligence/ms-patch-tuesday-november-2017",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "tech support scams aes",
+    "link": "https://www.security.com/threat-intelligence/tech-support-scams-aes",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "sowbug cyber espionage south america asia",
+    "link": "https://www.security.com/threat-intelligence/sowbug-cyber-espionage-south-america-asia",
+    "is_threat_report": true,
+    "main_object": "Actor: Sowbug"
+  },
+  {
+    "title": "ransomeware risks 2017",
+    "link": "https://www.security.com/threat-intelligence/ransomeware-risks-2017",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2017-0144"
+  },
+  {
+    "title": "petya ransomware wiper",
+    "link": "https://www.security.com/threat-intelligence/petya-ransomware-wiper",
+    "is_threat_report": true,
+    "main_object": "Malware: Petya"
+  },
+  {
+    "title": "wannacry ransomware attack",
+    "link": "https://www.security.com/threat-intelligence/wannacry-ransomware-attack",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "dragonfly energy sector cyber attacks",
+    "link": "https://www.security.com/threat-intelligence/dragonfly-energy-sector-cyber-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Dragonfly"
+  },
+  {
+    "title": "bachosens cyber crime investigation",
+    "link": "https://www.security.com/threat-intelligence/bachosens-cyber-crime-investigation",
+    "is_threat_report": true,
+    "main_object": "Actor: Igor"
+  },
+  {
+    "title": "longhorn cyberespionage vault7",
+    "link": "https://www.security.com/threat-intelligence/longhorn-cyberespionage-vault7",
+    "is_threat_report": true,
+    "main_object": "Actor: Longhorn"
+  },
+  {
+    "title": "bayrob suspects extradited",
+    "link": "https://www.security.com/threat-intelligence/bayrob-suspects-extradited",
+    "is_threat_report": true,
+    "main_object": "Actor: Bayrob"
+  },
+  {
+    "title": "shamoon back destructive",
+    "link": "https://www.security.com/threat-intelligence/shamoon-back-destructive",
+    "is_threat_report": true,
+    "main_object": "Malware: Shamoon"
+  },
+  {
+    "title": "gatak healthcare",
+    "link": "https://www.security.com/threat-intelligence/gatak-healthcare",
+    "is_threat_report": true,
+    "main_object": "Malware: Gatak"
+  },
+  {
+    "title": "odinaff trojan financial attacks",
+    "link": "https://www.security.com/threat-intelligence/odinaff-trojan-financial-attacks",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: Trojan.Odinaff"
+  },
+  {
+    "title": "buckeye cyberespionage hong kong",
+    "link": "https://www.security.com/threat-intelligence/buckeye-cyberespionage-hong-kong",
+    "is_threat_report": true,
+    "main_object": "Actor: Buckeye (also known as APT3, Gothic Panda, UPS Team, and TG-0110)"
+  },
+  {
+    "title": "equation cyberespionage group breached",
+    "link": "https://www.security.com/threat-intelligence/equation-cyberespionage-group-breached",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "strider cyberespionage sauron",
+    "link": "https://www.security.com/threat-intelligence/strider-cyberespionage-sauron",
+    "is_threat_report": true,
+    "main_object": "Actor: Strider"
+  },
+  {
+    "title": "swift malware financial attacks",
+    "link": "https://www.security.com/threat-intelligence/swift-malware-financial-attacks",
+    "is_threat_report": true,
+    "main_object": "Malware: Trojan.Banswift, Backdoor.Fimlis, Backdoor.Contopee"
+  },
+  {
+    "title": "tick cyberespionage japan",
+    "link": "https://www.security.com/threat-intelligence/tick-cyberespionage-japan",
+    "is_threat_report": true,
+    "main_object": "Actor: Tick"
+  },
+  {
+    "title": "taiwan cyberespionage backdoor trojan",
+    "link": "https://www.security.com/threat-intelligence/taiwan-cyberespionage-backdoor-trojan",
+    "is_threat_report": true,
+    "main_object": "Malware: Backdoor.Dripion"
+  },
+  {
+    "title": "operation blockbuster lazarus",
+    "link": "https://www.security.com/threat-intelligence/operation-blockbuster-lazarus",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "dridex financial trojan spam",
+    "link": "https://www.security.com/threat-intelligence/dridex-financial-trojan-spam",
+    "is_threat_report": true,
+    "main_object": "Vulnerability: CVE-2021-44228"
+  },
+  {
+    "title": "dyre bank fraud group takedown",
+    "link": "https://www.security.com/threat-intelligence/dyre-bank-fraud-group-takedown",
+    "is_threat_report": true,
+    "main_object": "Actor: Dyre"
+  },
+  {
+    "title": "destructive disakil malware ukraine",
+    "link": "https://www.security.com/threat-intelligence/destructive-disakil-malware-ukraine",
+    "is_threat_report": true,
+    "main_object": "Malware: Disakil"
+  },
+  {
+    "title": "dridex takedown",
+    "link": "https://www.security.com/threat-intelligence/dridex-takedown",
+    "is_threat_report": true,
+    "main_object": "Actor: Dridex"
+  },
+  {
+    "title": "regin mysteries cyberespionage",
+    "link": "https://www.security.com/threat-intelligence/regin-mysteries-cyberespionage",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "black vine cyberespionage aerospace healthcare",
+    "link": "https://www.security.com/threat-intelligence/black-vine-cyberespionage-aerospace-healthcare",
+    "is_threat_report": true,
+    "main_object": "Actor: Black Vine"
+  },
+  {
+    "title": "forkmeiamfamous seaduke duke",
+    "link": "https://www.security.com/threat-intelligence/forkmeiamfamous-seaduke-duke",
+    "is_threat_report": true,
+    "main_object": "Actor: Duke group"
+  },
+  {
+    "title": "butterfly corporate attacks",
+    "link": "https://www.security.com/threat-intelligence/butterfly-corporate-attacks",
+    "is_threat_report": true,
+    "main_object": "Actor: Butterfly (formerly known as \"Lazarus\") Yes, the input describes an actor involved in cyberattacks. The actor referred to is \"Butterfly\" which is described as a corporate espionage group that has compromised multiple major corporations over the past three years. They are financially motivated and operate at a high level compared to typical cybercriminal groups. The group's primary focus seems to be stealing confidential information and intellectual property from large tech and internet companies. No specific malware or tool names are mentioned in the provided text, but the context clearly indicates their involvement in cyberattacks. Therefore, the answer is:"
+  },
+  {
+    "title": "dyre financial trojan",
+    "link": "https://www.security.com/threat-intelligence/dyre-financial-trojan",
+    "is_threat_report": true,
+    "main_object": "Malware: Dyre"
+  },
+  {
+    "title": "duqu 20 cyberespionage",
+    "link": "https://www.security.com/threat-intelligence/duqu-20-cyberespionage",
+    "is_threat_report": true,
+    "main_object": "Tool: Duqu"
+  },
+  {
+    "title": "equation cyberespionage group",
+    "link": "https://www.security.com/threat-intelligence/equation-cyberespionage-group",
+    "is_threat_report": true,
+    "main_object": "Actor: Equation"
+  },
+  {
+    "title": "carbanak cybercrime gang",
+    "link": "https://www.security.com/threat-intelligence/carbanak-cybercrime-gang",
+    "is_threat_report": true,
+    "main_object": "Actor: Carbanak (also known as Lazarus Group)"
+  },
+  {
+    "title": "destover destructive malware south korea",
+    "link": "https://www.security.com/threat-intelligence/destover-destructive-malware-south-korea",
+    "is_threat_report": true,
+    "main_object": "Malware: Destover"
+  },
+  {
+    "title": "regin espionage surveillance",
+    "link": "https://www.security.com/threat-intelligence/regin-espionage-surveillance",
+    "is_threat_report": true,
+    "main_object": "Malware: Regin"
+  },
+  {
+    "title": "turla espionage diplomats",
+    "link": "https://www.security.com/threat-intelligence/turla-espionage-diplomats",
+    "is_threat_report": true,
+    "main_object": "Actor: Lazarus Group"
+  },
+  {
+    "title": "dragonfly energy companies sabotage",
+    "link": "https://www.security.com/threat-intelligence/dragonfly-energy-companies-sabotage",
+    "is_threat_report": true,
+    "main_object": "Actor: Dragonfly"
+  },
+  {
+    "title": "hidden lynx professional hackers hire",
+    "link": "https://www.security.com/threat-intelligence/hidden-lynx-professional-hackers-hire",
+    "is_threat_report": true,
+    "main_object": "Actor: Hidden Lynx"
+  },
+  {
+    "title": "darkseoul cyberattacks south korea",
+    "link": "https://www.security.com/threat-intelligence/darkseoul-cyberattacks-south-korea",
+    "is_threat_report": true,
+    "main_object": "Actor: DarkSeoul Gang"
+  },
+  {
+    "title": "duqu next stuxnet",
+    "link": "https://www.security.com/threat-intelligence/duqu-next-stuxnet",
+    "is_threat_report": true,
+    "main_object": "Actor: Unknown"
+  },
+  {
+    "title": "stuxnet dossier espionage",
+    "link": "https://www.security.com/threat-intelligence/stuxnet-dossier-espionage",
+    "is_threat_report": true,
+    "main_object": "Tool: Stuxnet"
+  }
+]

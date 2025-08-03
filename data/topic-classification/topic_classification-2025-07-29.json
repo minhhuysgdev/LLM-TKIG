@@ -1,0 +1,2564 @@
+[
+  {
+    "title": "FortiGuard Labs Threat Research",
+    "link": "https://www.fortinet.com/blog/threat-research",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "NailaoLocker Ransomware’s “Cheese”",
+    "link": "https://www.fortinet.com/blog/threat-research/nailaolocker-ransomware-cheese",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Improving Cloud Intrusion Detection and Triage with FortiCNAPP Composite Alerts",
+    "link": "https://www.fortinet.com/blog/threat-research/improving-cloud-intrusion-detection-and-triage-with-forticnapp",
+    "is_threat_report": true,
+    "main_object": "FortiGuard Labs Threat Research Detect Cloud Intrusions Faster with Correlated Alerts and Contextual Timelines in FortiCNAPP Moderncyberattacks targeting cloud environmentsare increasingly complex and difficult to detect. Attackers often use multi-stage techniques—such as authentication abuse, privilege escalation, command execution, and interaction withcloud-native APIs—to gain and expand access. Each step in this attack chain often mimics legitimate administrative or developer activity, making FortiGuard Labs' Threat Research Detect Cloud Intrusions faster than any other security tool."
+  },
+  {
+    "title": "Old Miner, New Tricks",
+    "link": "https://www.fortinet.com/blog/threat-research/old-miner-new-tricks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "How FortiSandbox 5.0 Detects Dark 101 Ransomware Despite Evasion Techniques",
+    "link": "https://www.fortinet.com/blog/threat-research/fortisandbox-detects-dark-101-ransomware-despite-evasion-techniques",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Catching Smarter Mice with Even Smarter Cats",
+    "link": "https://www.fortinet.com/blog/threat-research/catching-smarter-mice-with-even-smarter-cats",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research How AI is Reshaping the Malware Arms Race From the beginning, the antivirus world has been acat-and-mousegame, where malware authors and antivirus engineers constantly adapt their code to bypass or catch each other. Artificial Intelligence is bringing the game to the next level, with malware authors using AI to improve their malware[1] and anti-virus engineers using AI to assist them with reverse engineering[2]. 2025 Global Threat Landscape Report Use this report"
+  },
+  {
+    "title": "NordDragonScan: Quiet Data-Harvester on Windows",
+    "link": "https://www.fortinet.com/blog/threat-research/norddragonscan-quiet-data-harvester-on-windows",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "RondoDox Unveiled: Breaking Down a New Botnet Threat",
+    "link": "https://www.fortinet.com/blog/threat-research/rondobox-unveiled-breaking-down-a-botnet-threat",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "DCRAT Impersonating the Colombian Government",
+    "link": "https://www.fortinet.com/blog/threat-research/dcrat-impersonating-the-columbian-government",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Dissecting a Malicious Havoc Sample",
+    "link": "https://www.fortinet.com/blog/threat-research/dissecting-a-malicious-havoc-sample",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Threat Group Targets Companies in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-group-targets-companies-in-taiwan",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "RolandSkimmer: Silent Credit Card Thief Uncovered",
+    "link": "https://www.fortinet.com/blog/threat-research/rolandskimmer-silent-credit-card-thief-uncovered",
+    "is_threat_report": true,
+    "main_object": "RolandSkimmer"
+  },
+  {
+    "title": "How a Malicious Excel File (CVE-2017-0199) Delivers the FormBook Payload",
+    "link": "https://www.fortinet.com/blog/threat-research/how-a-malicious-excel-file-cve-2017-0199-delivers-the-formbook-payload",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Deep Dive into a Dumped Malware without a PE Header",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-dive-into-a-dumped-malware-without-a-pe-header",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Infostealer Malware FormBook Spread via Phishing Campaign – Part II",
+    "link": "https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – VanHelsing",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-vanhelsing",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This edition of the Ransomware Roundup covers the VanHelsing ransomware. Affected platforms:Microsoft WindowsImpacted parties:Microsoft WindowsImpact:"
+  },
+  {
+    "title": "Horabot Unleashed: A Stealthy Phishing Threat",
+    "link": "https://www.fortinet.com/blog/threat-research/horabot-unleashed-a-stealthy-phishing-threat",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Multilayered Email Attack: How a PDF Invoice and Geo-Fencing Led to RAT Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/multilayered-email-attack-how-a-pdf-invoice-and-geofencing-led-to-rat-malware",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected platforms:Windows (primarily), Linux & macOS (if Java is installed)Impacted parties:Users on systems with Java Runtime Environment (JRE) installedImpact:Grants remote access to attackers, enabling them to execute commands, log keystrokes, access files, activate webcam/microphone, and fully control the infected systemSeverity level:High The FortiMail IR team recently uncovered a new email campaign distributing a Remote Access Trojan (RAT) using multiple ev"
+  },
+  {
+    "title": "FortiGuard Incident Response Team Detects Intrusion into Middle East Critical National Infrastructure",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-incident-response-team-detects-intrusion-into-middle-east-critical-national-infrastructure",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research The FortiGuard Incident Response (FGIR) team recently investigated a long-term cyber intrusion targeting critical national infrastructure (CNI) in the Middle East, attributed to an Iranian state-sponsored threat group. The attack involved extensive espionage operations and suspected network prepositioning—a tactic often used to maintain persistent access for future strategic advantage. Full Report Available:The following article provides key findings, but a full r"
+  },
+  {
+    "title": "Key Takeaways from the 2025 Global Threat Landscape Report",
+    "link": "https://www.fortinet.com/blog/threat-research/key-takeaways-from-the-2025-global-threat-landscape-report",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "IngressNightmare: Understanding CVE‑2025‑1974 in Kubernetes Ingress-NGINX",
+    "link": "https://www.fortinet.com/blog/threat-research/ingressnightmare-understanding-cve-2025-1974-in-kubernetes-ingress-nginx",
+    "is_threat_report": true,
+    "main_object": "Ingress-NGINX"
+  },
+  {
+    "title": "Infostealer Malware FormBook Spread via Phishing Campaign – Part I",
+    "link": "https://www.fortinet.com/blog/threat-research/infostealer-malware-formbook-spread-via-phishing-campaign-part-i",
+    "is_threat_report": true,
+    "main_object": "FortiGuard Labs Threat Research FortiGuard Labs observed a phishing campaign in the wild that delivered a malicious Word document as an attachment. This document contained crafted data designed to exploit the vulnerabilityCVE-2017-11882. After conducting an in-depth analysis, I discovered that the campaign was spreading a new variant of Formbook. Formbook is information-stealing malware targeting Windows users. It steals sensitive data from compromised systems, including stored creden"
+  },
+  {
+    "title": "New Rust Botnet \"RustoBot\" is Routed via Routers",
+    "link": "https://www.fortinet.com/blog/threat-research/new-rust-botnet-rustobot-is-routed-via-routers",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Malicious NPM Packages Targeting PayPal Users",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-npm-packages-targeting-paypal-users",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Real-Time Anti-Phishing: Essential Defense Against Evolving Cyber Threats",
+    "link": "https://www.fortinet.com/blog/threat-research/real-time-anti-phishing-essential-defense-against-evolving-cyber-threats",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Fortinet Identifies Malicious Packages in the Wild: Insights and Trends from November 2024 Onward",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-identifies-malicious-packages-in-the-wild-insights-and-trends",
+    "is_threat_report": true,
+    "main_object": "FortiGuard Labs Threat Research FortiGuard Labs has analyzed malicious software packages detected from November 2024 to the present, identifying various techniques used to exploit system vulnerabilities. This analysis provides insights into the evolving threat landscape and emerging attack methods. FortiGuard Labs leverages our proprietary, AI-driven OSS malware detection system to track and examine these threats. By reviewing the tactics observed—such as low-file-count packages designed to evad"
+  },
+  {
+    "title": "Havoc: SharePoint with Microsoft Graph API turns into FUD C2",
+    "link": "https://www.fortinet.com/blog/threat-research/havoc-sharepoint-with-microsoft-graph-api-turns-into-fud-c2",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Winos 4.0 Spreads via Impersonation of Official Email to Target Users in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/winos-spreads-via-impersonation-of-official-email-to-target-users-in-taiwan",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "FortiSandbox 5.0 Detects Evolving Snake Keylogger Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/fortisandbox-detects-evolving-snake-keylogger-variant",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – Lynx",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-lynx",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This edition of the Ransomware Roundup covers the Lynx ransomware. Affected platforms:Microsoft WindowsImpacted parties:Microsoft WindowsImpact:Encryp"
+  },
+  {
+    "title": "Analyzing ELF/Sshdinjector. A!tr with a Human and Artificial Analyst",
+    "link": "https://www.fortinet.com/blog/threat-research/analyzing-elf-sshdinjector-with-a-human-and-artificial-analyst",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Coyote Banking Trojan: A Stealthy Attack via LNK Files",
+    "link": "https://www.fortinet.com/blog/threat-research/coyote-banking-trojan-a-stealthy-attack-via-lnk-files",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Deep Dive Into a Linux Rootkit Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-dive-into-a-linux-rootkit-malware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Phish-free PayPal Phishing",
+    "link": "https://www.fortinet.com/blog/threat-research/phish-free-paypal-phishing",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Catching \"EC2 Grouper\"- no indicators required!",
+    "link": "https://www.fortinet.com/blog/threat-research/catching-ec2-grouper-no-indicators-required",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Botnets Continue to Target Aging D-Link Vulnerabilities",
+    "link": "https://www.fortinet.com/blog/threat-research/botnets-continue-to-target-aging-d-link-vulnerabilities",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Analyzing Malicious Intent in Python Code: A Case Study",
+    "link": "https://www.fortinet.com/blog/threat-research/analyzing-malicious-intent-in-python-code",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected platforms:All platforms where PyPI packages can be installedImpact:Leak of credentials, sensitive information, etc.Severity level:High Fortinet's AI-driven OSS malware detection system recently identified two malicious packages: Zebo-0.1.0 on November 16, 2024, and Cometlogger-0.1 on November 24, 2024. Malicious software often masquerades as legitimate code, hidin"
+  },
+  {
+    "title": "Fortinet Contributes to Major Cybercrime Operation Arrests",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-contributes-to-major-cybercrime-operation-arrests",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "SmokeLoader Attack Targets Companies in Taiwan",
+    "link": "https://www.fortinet.com/blog/threat-research/sophisticated-attack-targets-taiwan-with-smokeloader",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Interlock",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-interlock",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Advanced Cyberthreats Targeting Holiday Shoppers",
+    "link": "https://www.fortinet.com/blog/threat-research/advanced-cyberthreats-targeting-holiday-shoppers",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research As the holiday season approaches, shoppers worldwide eagerly anticipate snagging deals during Black Friday, Cyber Monday, and other holiday sales. However, this heightened online activity also draws the attention of cybercriminals. A recent report from FortiGuard Labs,Understanding Threat Actor Readiness for the Upcoming Holiday Season, reveals the advanced tactics attackers have been developing to exploit this year’s shopping frenzy. This blog highlights the repo"
+  },
+  {
+    "title": "Threat Predictions for 2025: Get Ready for Bigger, Bolder Attacks",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-predictions-for-2025-get-ready-for-bigger-bolder-attacks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "New Campaign Uses Remcos RAT to Exploit Victims",
+    "link": "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Threat Campaign Spreads Winos4.0 Through Game Application",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-campaign-spreads-winos4-through-game-application",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Burning Zero Days: Suspected Nation-State Adversary Targets Ivanti CSA",
+    "link": "https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected Platforms:Ivanti Cloud Services Appliance version 4.6 and priorImpacted Users:Any organizationImpact:Remote attackers gain control of the vulnerable systemsSeverity Level:Critical Today FortiGuard Labs is releasing this blog post about a case where an advanced adversary was observed exploiting three vulnerabilities affecting the Ivanti Cloud Services Appliance (CSA). At the time of our investigation, two out of the three identified vulnerabilities were no"
+  },
+  {
+    "title": "Threat Actors Exploit GeoServer Vulnerability CVE-2024-36401",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-actors-exploit-geoserver-vulnerability-cve-2024-36401",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Emansrepo Stealer: Multi-Vector Attack Chains",
+    "link": "https://www.fortinet.com/blog/threat-research/emansrepo-stealer-multi-vector-attack-chains",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Underground",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-underground",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Deep Analysis of Snake Keylogger’s New Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/deep-analysis-of-snake-keylogger-new-variant",
+    "is_threat_report": true,
+    "main_object": "KrakenKeylogger"
+  },
+  {
+    "title": "A Deep Dive into a New ValleyRAT Campaign Targeting Chinese Speakers",
+    "link": "https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Preparation Is Not Optional: 10 Incident Response Readiness Considerations for Any Organization",
+    "link": "https://www.fortinet.com/blog/threat-research/preparation-is-not-optional-10-incident-response-readiness-considerations",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "PureHVNC Deployed via Python Multi-stage Loader",
+    "link": "https://www.fortinet.com/blog/threat-research/purehvnc-deployed-via-python-multi-stage-loader",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Malicious Packages Hidden in PyPI",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-packages-hidden-in-pypl",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected platforms:All platforms where PyPI packages can be installedImpact:Leak of credentials, sensitive information, etc.Severity level:High The FortiGuard Labs team has identified a malicious PyPI package affecting all platforms where PyPI packages can be installed. This discovery poses a significant risk to individuals and institutions that have installed these packag"
+  },
+  {
+    "title": "Phishing Campaign Targeting Mobile Users in India Using India Post Lures",
+    "link": "https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Dark Web Shows Cybercriminals Ready for Olympics. Are You?",
+    "link": "https://www.fortinet.com/blog/threat-research/dark-web-shows-cybercriminals-ready-for-olympics",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "MerkSpy: Exploiting CVE-2021-40444 to Infiltrate Systems",
+    "link": "https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected Platforms:Microsoft WindowsImpacted Users:Microsoft WindowsImpact:The stolen information can be used for future attackSeverity Level:High Spyware is malicious software engineered to covertly monitor and gather information from a user’s computer without their awareness or consent. It can record activities like keystrokes, browsing behavior, and personal information, often transmitting this data to a third party for espionage or theft. FortiGuard Labs recen"
+  },
+  {
+    "title": "The Growing Threat of Malware Concealed Behind Cloud Services",
+    "link": "https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Fickle Stealer Distributed via Multiple Attack Chain",
+    "link": "https://www.fortinet.com/blog/threat-research/fickle-stealer-distributed-via-multiple-attack-chain",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Ransomware Roundup – Shinra and Limpopo Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-shinra-and-limpopo-ransomware",
+    "is_threat_report": true,
+    "main_object": "INPUT: Mic"
+  },
+  {
+    "title": "New Agent Tesla Campaign Targeting Spanish-Speaking People",
+    "link": "https://www.fortinet.com/blog/threat-research/new-agent-tesla-campaign-targeting-spanish-speaking-people",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Menace Unleashed: Excel File Deploys Cobalt Strike at Ukraine",
+    "link": "https://www.fortinet.com/blog/threat-research/menace-unleashed-excel-file-deploys-cobalt-strike-at-ukraine",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "zEus Stealer Distributed via Crafted Minecraft Source Pack",
+    "link": "https://www.fortinet.com/blog/threat-research/zeus-stealer-distributed-via-crafted-minecraft-source-pack",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Key Findings from the 2H 2023 FortiGuard Labs Threat Report",
+    "link": "https://www.fortinet.com/blog/threat-research/key-findings-2h-2023-fortiguard-labs-threat-report",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research In the second half of 2023, the cybersecurity landscape experienced various significant developments—like the rise in sophisticated attacks targeting large-scale enterprises and critical industries—that impact every organization. In our2H 2023 Threat Landscape Report, we examine the cyberthreat landscape over the year’s second half to identify trends and offer insights on what security professionals should know to effectively protect their organizations. The repor"
+  },
+  {
+    "title": "New “Goldoon” Botnet Targeting D-Link Devices",
+    "link": "https://www.fortinet.com/blog/threat-research/new-goldoon-botnet-targeting-d-link-devices",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected Platforms:D-Link DIR-645 Wired/Wireless Router Rev. Ax with firmware 1.04b12 and earlierImpested Users:Any organizationImpact:Remote attackers gain control of the vulnerable systemsSeverity Level:High In April, FortiGuard Labs observed a new botnet targeting a D-Link vulnerability from nearly a decade ago, CVE-2015-2051. This vulnerability allows remote attackers to execute arbitrary commands via a GetDeviceSettings action on the HNAP interface. As a resu"
+  },
+  {
+    "title": "Ransomware Roundup - KageNoHitobito and DoNex",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-keganohitobito-and-donex",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This edition of the Ransomware Roundup covers the KageNoHitobito and DoNex ransomware. Affected platforms:Microsoft WindowsImpac"
+  },
+  {
+    "title": "Unraveling Cyber Threats: Insights from Code Analysis",
+    "link": "https://www.fortinet.com/blog/threat-research/unraveling-cyber-threats-insights-from-code-analysis",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Botnets Continue Exploiting CVE-2023-1389 for Wide-Scale Spread",
+    "link": "https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins",
+    "link": "https://www.fortinet.com/blog/threat-research/scrubcrypt-deploys-venomrat-with-arsenal-of-plugins",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected Platforms:Microsoft WindowsImpacted Users:Microsoft WindowsImpact:The stolen information can be used for future attackSeverity Level:High Last year, FortiGuard Labs uncovered the 8220 Gang’s utilization ofScrubCryptto launch attacks targeting exploitable Oracle WebLogic Servers. ScrubCrypt has been described as an “antivirus evasion tool” that converts executables into undetectable batch files. It offers several options to manipulate malware, making it mo"
+  },
+  {
+    "title": "Byakugan – The Malware Behind a Phishing Attack",
+    "link": "https://www.fortinet.com/blog/threat-research/byakugan-malware-behind-a-phishing-attack",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Ransomware Roundup – RA World",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-ra-world",
+    "is_threat_report": true,
+    "main_object": "INPUT: Micr"
+  },
+  {
+    "title": "VCURMS: A Simple and Functional Weapon",
+    "link": "https://www.fortinet.com/blog/threat-research/vcurms-a-simple-and-functional-weapon",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "New Banking Trojan “CHAVECLOAK” Targets Brazil",
+    "link": "https://www.fortinet.com/blog/threat-research/banking-trojan-chavecloak-targets-brazil",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "FortiGuard Labs Outbreak Alerts Annual Report 2023: A Glimpse into the Evolving Threat Landscape",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-outbreak-alerts-report-2023",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research In today’s dynamic threat environment, staying informed and proactive is crucial for any organization seeking to protect its networks. The FortiGuard Labs Outbreak Alerts Annual Report 2023 is a comprehensive resource that delves into real-world examples of attacks across diverse verticals, offering valuable insights into the most significant cyberattacks of 2023 and critical information that organizations can use to evaluate their cybersecurity posture. The repor"
+  },
+  {
+    "title": "Ransomware Roundup – Abyss Locker",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker",
+    "is_threat_report": true,
+    "main_object": "FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This edition of the Ransomware Roundup covers the Abyss Locker (AbyssLocker) ransomware. Affected platforms:Microsoft Windows, L"
+  },
+  {
+    "title": "Android/SpyNote Moves to Crypto Currencies",
+    "link": "https://www.fortinet.com/blog/threat-research/android-spynote-moves-to-crypto-currencies",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "TicTacToe Dropper",
+    "link": "https://www.fortinet.com/blog/threat-research/tictactoe-dropper",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Python Info-stealer Distributed by Malicious Excel Document",
+    "link": "https://www.fortinet.com/blog/threat-research/python-info-stealer-malicious-excel-document",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Albabat",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-albabat",
+    "is_threat_report": true,
+    "main_object": "INPUT: Micro"
+  },
+  {
+    "title": "Another Phobos Ransomware Variant Launches Attack – FAUST",
+    "link": "https://www.fortinet.com/blog/threat-research/phobos-ransomware-variant-launches-attack-faust",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Info Stealing Packages Hidden in PyPI",
+    "link": "https://www.fortinet.com/blog/threat-research/info-stealing-packages-hidden-in-pypi",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Deceptive Cracked Software Spreads Lumma Variant on YouTube",
+    "link": "https://www.fortinet.com/blog/threat-research/lumma-variant-on-youtube",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Three New Malicious PyPI Packages Deploy CoinMiner on Linux Devices",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-pypi-packages-deploy-coinminer-on-linux-devices",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - 8base",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-8base",
+    "is_threat_report": true,
+    "main_object": "INPUT: Microso"
+  },
+  {
+    "title": "Bandook - A Persistent Threat That Keeps Evolving",
+    "link": "https://www.fortinet.com/blog/threat-research/bandook-persistent-threat-that-keeps-evolving",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "MrAnon Stealer Spreads via Email with Fake Hotel Booking PDF",
+    "link": "https://www.fortinet.com/blog/threat-research/mranon-stealer-spreads-via-email-with-fake-hotel-booking-pdf",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "GoTitan Botnet - Ongoing Exploitation on Apache ActiveMQ",
+    "link": "https://www.fortinet.com/blog/threat-research/gotitan-botnet-exploitation-on-apache-activemq",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Konni Campaign Distributed Via Malicious Document",
+    "link": "https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Investigating the New Rhysida Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/investigating-the-new-rhysida-ransomware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – NoEscape",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-noescape",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This edition of the Ransomware Roundup covers the NoEscape ransomware. Affected platforms:Microsoft Windows, Linux, and ESXiImpa"
+  },
+  {
+    "title": "Threat Predictions for 2024: Chained AI and CaaS Operations Give Attackers More “Easy” Buttons Than Ever",
+    "link": "https://www.fortinet.com/blog/threat-research/2024-threat-predictions-chained-ai-and-caas-operations",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Ransomware Roundup - Knight",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-knight",
+    "is_threat_report": true,
+    "main_object": "INPUT: Micros"
+  },
+  {
+    "title": "Another InfoStealer Enters the Field, ExelaStealer",
+    "link": "https://www.fortinet.com/blog/threat-research/exelastealer-infostealer-enters-the-field",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Akira",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-akira",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "IZ1H9 Campaign Enhances Its Arsenal with Scores of Exploits",
+    "link": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Malicious Packages Hidden in NPM",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-packages-hiddin-in-npm",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Threat Actors Exploit the Tensions Between Azerbaijan and Armenia",
+    "link": "https://www.fortinet.com/blog/threat-research/threat-Actors-exploit-the-tensions-between-azerbaijan-and-armenia",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Retch and S. H. O.",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-retch-and-sho",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This edition of the Ransomware Roundup covers the Retch and S.H.O ransomware. Affected platforms:Microsoft WindowsImpacted parti"
+  },
+  {
+    "title": "New MidgeDropper Variant",
+    "link": "https://www.fortinet.com/blog/threat-research/new-midgedropper-variant",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "OriginBotnet Spreads via Malicious Word Document",
+    "link": "https://www.fortinet.com/blog/threat-research/originbotnet-spreads-via-malicious-word-document",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "New Agent Tesla Variant Being Spread by Crafted Excel Document",
+    "link": "https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Rhysida",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-rhysida",
+    "is_threat_report": true,
+    "main_object": "INPUT: Micro"
+  },
+  {
+    "title": "Multiple Threats Target Adobe ColdFusion Vulnerabilities",
+    "link": "https://www.fortinet.com/blog/threat-research/multiple-threats-target-adobe-coldfusion-vulnerabilities",
+    "is_threat_report": true,
+    "main_object": "INPUT: Adobe Threat Research Affected platforms:Windows and macOSImpacted parties:Users of vulnerable versions of Adobe ColdFusionImpact:Remote attackers gain control of vulnerable systemsSeverity level:Critical This past July, Adobe responded to reports of exploits targeting pre-authentication remote code execution (RCE) vulnerabilities in their ColdFusion solution by releasing a series of security updates:APSB23-40,APSB23-41, andAPSB23-47. An in-depthanalysisof those exploits has been docum"
+  },
+  {
+    "title": "Ransomware Roundup – Trash Panda and A New Minor Variant of NoCry",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-trash-panda-and-nocry-variant",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "FortiGuard AI Detects Malicious Packages Hidden in the Python Package Index",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-ai-detects-malicious-packages-in-pypi",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Attackers Distribute Malware via Freeze.rs And SYK Crypter",
+    "link": "https://www.fortinet.com/blog/threat-research/malware-distributed-via-freezers-and-syk-crypter",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Key Findings from the 1H 2023 FortiGuard Labs Threat Report",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-1h-2023",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research In our1H 2023 Threat Landscape Report, we examine the cyberthreat landscape over the year’s first half to identify trends and share insights with security professionals, enabling them to enhance their security strategies and better prioritize patching efforts. The report findings reflect the collective intelligence of FortiGuard Labs, drawn from Fortinet's vast array of sensors that collect billions of threat events observed worldwide during this same period. Belo"
+  },
+  {
+    "title": "Ransomware Roundup - DoDo and Proton",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-dodo-and-proton",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This edition of the Ransomware Roundup covers the DoDo and Proton ransomware. Affected platforms:Microsoft WindowsImpacted parti"
+  },
+  {
+    "title": "FortiGuard Labs Discovers Multiple Vulnerabilities in Microsoft Message Queuing Service",
+    "link": "https://www.fortinet.com/blog/threat-research/microsoft-message-queuing-service-vulnerabilities",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Cl0p",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-cl0p",
+    "is_threat_report": true,
+    "main_object": "M"
+  },
+  {
+    "title": "DDoS Botnets Target Zyxel Vulnerability CVE-2023-28771",
+    "link": "https://www.fortinet.com/blog/threat-research/ddos-botnets-target-zyxel-vulnerability-cve-2023-28771",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "FortiGuard Labs Discovers Multiple Vulnerabilities in Adobe InDesign",
+    "link": "https://www.fortinet.com/blog/threat-research/adobe-indesign-zero-day-vulnerabilities",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "LokiBot Campaign Targets Microsoft Office Document Using Vulnerabilities and Macros",
+    "link": "https://www.fortinet.com/blog/threat-research/lokibot-targets-microsoft-office-document-using-vulnerabilities-and-macros",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Meet LockBit: The Most Prevalent Ransomware in 2022",
+    "link": "https://www.fortinet.com/blog/threat-research/lockbit-most-prevalent-ransomware",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Ransomware Roundup - Rancoz",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-rancoz",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "New Fast-Developing ThirdEye Infostealer Pries Open System Information",
+    "link": "https://www.fortinet.com/blog/threat-research/new-fast-developing-thirdeye-infostealer-pries-open-system-information",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Black Basta",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-black-basta",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers the Black Basta ransomware. Affected platforms:Microsoft Windows, VMWare ES"
+  },
+  {
+    "title": "Fortinet Reverses Flutter-based Android Malware “Fluhorse”",
+    "link": "https://www.fortinet.com/blog/threat-research/fortinet-reverses-flutter-based-android-malware-fluhorse",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Condi DDoS Botnet Spreads via TP-Link's CVE-2023-1389",
+    "link": "https://www.fortinet.com/blog/threat-research/condi-ddos-botnet-spreads-via-tp-links-cve-2023-1389",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Big Head",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup-big-head",
+    "is_threat_report": true,
+    "main_object": "Ransomware"
+  },
+  {
+    "title": "MOVEit Transfer Critical Vulnerability (CVE-2023-34362) Exploited as a 0-day",
+    "link": "https://www.fortinet.com/blog/threat-research/moveit-transfer-critical-vulnerability-cve-2023-34362-exploited-as-a-0-day",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected Platforms:All unpatched MOVEit Transfer versions running a SQL databaseImpacted Users:Any organization that uses a vulnerable version of MOVEit TransferImpact:Remote attackers can install a backdoor and exfiltrate dataSeverity Level:High FortiGuard Labs is aware of a critical zero-day SQL injection vulnerability in the MOVEit Secure Managed File Transfer software (CVE-2023-34362) allegedly exploited by the Cl0p ransomware threat actor. High-profile govern"
+  },
+  {
+    "title": "YouTube Pirated Software Videos Deliver Triple Threat: Vidar Stealer, Laplas Clipper, XMRig Miner",
+    "link": "https://www.fortinet.com/blog/threat-research/youtube-pirated-software-videos-deliver-triple-threat-vidar-stealer-laplas-clipper-xmrig-miner",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "WINTAPIX: A New Kernel Driver Targeting Countries in The Middle East",
+    "link": "https://www.fortinet.com/blog/threat-research/wintapix-kernal-driver-middle-east-countries",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected platforms:WindowsImpacted parties:Windows UsersImpact:Allows remote code execution and persistent access to the host (backdoor) and the rest of the network (proxy)Severity level:Medium At Fortinet, we monitor suspicious executables that make use of open-source tools and frameworks. One of the things that we keep an eye out for is tools that use theDonutproject. Donut is a position-independent shellcode that loads.NET Assemblies, PE files, and other Windo"
+  },
+  {
+    "title": "More Supply Chain Attacks via Malicious Python Packages",
+    "link": "https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-malicious-python-packages",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - Maori",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-maori",
+    "is_threat_report": true,
+    "main_object": "INPUT: LinuxImpacted parties: Linux UsersI"
+  },
+  {
+    "title": "RapperBot DDoS Botnet Expands into Cryptojacking",
+    "link": "https://www.fortinet.com/blog/threat-research/rapperbot-ddos-botnet-expands-into-cryptojacking",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected Platforms:LinuxImpacted Users:Any organizationImpact:Remote attackers gain control of the vulnerable systemsSeverity Level:Critical FortiGuard Labs has encountered new samples of the RapperBot campaign active since January 2023. RapperBot is a malware family primarily targeting IoT devices. It has been observed in the wild since June 2022. FortiGuard Labs reported on its previous campaigns inAugust 2022andDecember 2022. Those campaigns focused on brute-fo"
+  },
+  {
+    "title": "AndoryuBot – New Botnet Campaign Targets Ruckus Wireless Admin Remote Code Execution Vulnerability (CVE-2023-25717)",
+    "link": "https://www.fortinet.com/blog/threat-research/andoryubot-new-botnet-campaign-targets-ruckus-wireless-admin-remote-code-execution-vulnerability-cve-2023-25717",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Clean Rooms, Nuclear Missiles, and SideCopy, Oh My!",
+    "link": "https://www.fortinet.com/blog/threat-research/clean-rooms-nuclear-missiles-and-sidecopy",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup - UNIZA",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-uniza-coverage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "EvilExtractor – All-in-One Stealer",
+    "link": "https://www.fortinet.com/blog/threat-research/evil-extractor-all-in-one-stealer",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – Kadavro Vector Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-kadavro-vector-ransomware",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers the Kadavro Vector ransomware. Affected platforms:Microsoft WindowsImpacted"
+  },
+  {
+    "title": "Deja Vu All Over Again: Tax Scammers at Large",
+    "link": "https://www.fortinet.com/blog/threat-research/tax-scammers-at-large",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research Affected Platforms:WindowsImpacted Users:Windows usersImpact:Compromised machines are under the control of the threat actor, potentially resulting in stolen personal identifiable information (PII), credential theft, financial loss, etc.Severity Level:Medium The time has come again for tax returns—and tax-based scams. Targeting calendar-based events enables threat actors to prepare ahead of time and have a new selection of targets on rotation. This blog covers a"
+  },
+  {
+    "title": "Exploring a Recent Microsoft Outlook Vulnerability: CVE-2023-23397",
+    "link": "https://www.fortinet.com/blog/threat-research/exploring-recent-microsoft-outlook-vulnerability-cve-2023-23397",
+    "is_threat_report": true,
+    "main_object": "MAPI"
+  },
+  {
+    "title": "Are Internet Macros Dead or Alive?",
+    "link": "https://www.fortinet.com/blog/threat-research/are-internet-macros-dead-or-alive",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Malware Disguised as Document from Ukraine's Energoatom Delivers Havoc Demon Backdoor",
+    "link": "https://www.fortinet.com/blog/threat-research/malware-disguised-as-document-ukraine-energoatom-delivers-havoc-demon-backdoor",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "3CX Desktop App Compromised (CVE-2023-29059)",
+    "link": "https://www.fortinet.com/blog/threat-research/3cx-desktop-app-compromised",
+    "is_threat_report": true,
+    "main_object": "INPUT: Kaseya"
+  },
+  {
+    "title": "Ransomware Roundup – Dark Power and PayMe100USD Ransomware",
+    "link": "https://www.fortinet.com/blog/threat-research/dark-power-and-payme100usd-ransomware",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers the Dark Power and PayME100USD ransomware. Affected platforms:Microsoft Win"
+  },
+  {
+    "title": "Moobot Strikes Again - Targeting Cacti And RealTek Vulnerabilities",
+    "link": "https://www.fortinet.com/blog/threat-research/moobot-strikes-again-targeting-cacti-and-realtek-vulnerabilities",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Packages",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "The Latest Intel on Wipers",
+    "link": "https://www.fortinet.com/blog/threat-research/intel-on-wiper-malware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup — HardBit 2.0",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-ransomware-roundup",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers the HardBit 2.0 ransomware. Affected platforms:Microsoft WindowsImpacted pa"
+  },
+  {
+    "title": "Microsoft OneNote File Being Leveraged by Phishing Campaigns to Spread Malware",
+    "link": "https://www.fortinet.com/blog/threat-research/microsoft-onenote-file-being-leveraged-by-phishing-campaigns-to-spread-malware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Reduce, Reuse, Recycle: Bad Actors Practicing the Three Rs",
+    "link": "https://www.fortinet.com/blog/threat-research/bad-actors-resurrecting-old-tactics",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Old Cyber Gang Uses New Crypter – ScrubCrypt",
+    "link": "https://www.fortinet.com/blog/threat-research/old-cyber-gang-uses-new-crypter-scrubcrypt",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – Sirattacker and ALC",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-sirattacker-acl",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers the Sirattacker and ALC ransomware. Affected platforms:Microsoft WindowsImp"
+  },
+  {
+    "title": "Just Because It’s Old Doesn’t Mean You Throw It Away (Including Malware!)",
+    "link": "https://www.fortinet.com/blog/threat-research/just-because-its-old-doesnt-mean-you-throw-it-away-including-malware",
+    "is_threat_report": true,
+    "main_object": "Mimail"
+  },
+  {
+    "title": "Can You See It Now? An Emerging LockBit Campaign",
+    "link": "https://www.fortinet.com/blog/threat-research/emerging-lockbit-campaign",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research FortiGuard Labs has observed a new LockBit ransomware campaign during last December and January using a combination of techniques effective against AV and EDR solutions. LockBit has been one of the more dangerous ransomware, active since 2019. It was part of several successful attacks against a large variety of industries, including critical infrastructure. This blog post discusses the infection chain and Tactics, Techniques, and Procedures (TTPs) of this campaign"
+  },
+  {
+    "title": "Key Findings from the 2H 2022 FortiGuard Labs Threat Report",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-labs-threat-report-key-findings-2h-2022",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Royal Ransomware Targets Linux ESXi Servers",
+    "link": "https://www.fortinet.com/blog/threat-research/royal-ransomware-targets-linux-esxi-servers",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research FortiGuard Labs has repeatedly warned organizations about ransomware developers' increased targeting of Linux systems. So it came as no surprise when it was reported that a new Royal Ransomware variant has started targeting Linux machines. In this blog post, you will learn about the technical details of this new Linux version. Affected Platforms: Linux, Unix, ESXiImpacted Users:Linux and Virtual Machine UsersImpact:Most files on the compromised machines are encryp"
+  },
+  {
+    "title": "More Supply Chain Attacks via New Malicious Python Packages in PyPi",
+    "link": "https://www.fortinet.com/blog/threat-research/more-supply-chain-attacks-via-new-malicious-python-packages-in-pypi",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – CatB",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-catb-ransomware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Packages by Malware Author Core1337",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-packages-by-malware-author-core1337",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Supply Chain Attack by New Malicious Python Package, “web3-essential”",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-by-new-malicious-python-package-web3-essential",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – Trigona",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-trigona-ransomware",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers the Trigona ransomware. Affected platforms:Microsoft WindowsImpacted partie"
+  },
+  {
+    "title": "Analyzing Malware Code that Cryptojacks System to Mine for Monero Crypto",
+    "link": "https://www.fortinet.com/blog/threat-research/malicious-code-cryptojacks-device-to-mine-for-monero-crypto",
+    "is_threat_report": true,
+    "main_object": "INPUT: Microsoft Office Threat Research Microsoft Office Threat Research recently captured Excel documents in the Microsoft OLE Compound File format that contain malicious VBA Macros. Their file names are Pago_detalles.xls, makbuzu.xls, and Pago.xls. I then conducted deep research on them and found that they all belong to the same malicious campaign that cryptojacks systems to mine for Monero (XMR) cryptocurrency. Affected platforms:Microsoft WindowsImpacted parties:Windows UsersImpact:Cryptojack Victim’s Device to Mine"
+  },
+  {
+    "title": "FortiGuard Outbreak Alerts - 2022 Annual Report",
+    "link": "https://www.fortinet.com/blog/threat-research/fortiguard-outbreak-alerts-2022-annual-report",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "The Year of the Wiper",
+    "link": "https://www.fortinet.com/blog/threat-research/the-year-of-the-wiper",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research FortiGuard Labs has been actively tracking wiper malware targeting Ukrainian organizations since the start of the 2022 Russia-Ukraine conflict. The sudden spike in wiper malware began early in the year with numerous new wiper samples targeted at Ukraine. It displayed a side of cyberattacks we rarely see: pure destruction. We published an articlelast April to help people understand the context, history, and technical setup of wiper attacks. This post focuses on"
+  },
+  {
+    "title": "QR Code Phishing Attempts to Steal Credentials from Chinese Language Users",
+    "link": "https://www.fortinet.com/blog/threat-research/qr-code-phishing-attempts-to-steal-credentials-from-chinese-language-users",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "Ransomware Roundup – Playing Whack-a-Mole with New CrySIS/Dharma Variants",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-playing-whack-a-mole-with-new-crysis-dharma-variants",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis, FortiGuard Labs gathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report provides readers with brief insights into the evolving ransomware landscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers variants of the CrySIS/Dharma ransomware family. Affected platforms:Microsoft Wind"
+  },
+  {
+    "title": "Supply Chain Attack Using Identical PyPI Packages, “colorslib”, “httpslib”, and “libhttps”",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "2022 IoT Threat Review",
+    "link": "https://www.fortinet.com/blog/threat-research/2022-iot-threat-review",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research FortiGuard Labsmonitors the IoT botnet threat landscape for new and emerging campaigns. We do this with the assistance of our honeypots we have deployed to capture active attacks in the wild. This article provides insights into the data collected from our monitoring system over the past year. Affected Platforms:Linux Impacted Users:Any organization Impact:Remote attackers gain control of the vulnerable systems Severity Level:Critical Our distributed honeypot syste"
+  },
+  {
+    "title": "Ransomware Roundup – Monti, BlackHunt, and Putin",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-monti-blackhunt-and-more",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Trying to Steal Christmas (Again!)",
+    "link": "https://www.fortinet.com/blog/threat-research/trying-to-steal-christmas-again",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research FortiGuard Labs is a security research company that has been working on a new vulnerability in the Windows operating system. The company has been working on a new vulnerability in the Windows operating system for a number of years."
+  },
+  {
+    "title": "Ransomware Roundup – Play",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-play-ransomware",
+    "is_threat_report": true,
+    "main_object": "Mic"
+  },
+  {
+    "title": "The Taxman Never Sleeps",
+    "link": "https://www.fortinet.com/blog/threat-research/the-taxman-never-sleeps",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "New Supply Chain Attack Uses Python Package Index “aioconsol”",
+    "link": "https://www.fortinet.com/blog/threat-research/new-supply-chain-attack-uses-python-package-index-aioconsol",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Package, “shaderz” (Part 2)",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-via-new-malicious-python-package-shaderz-part-2",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Want to Know What’s in That Online Mystery Box? NOTHING AT ALL",
+    "link": "https://www.fortinet.com/blog/threat-research/want-to-know-whats-in-that-online-mystery-box-nothing-at-all",
+    "is_threat_report": true,
+    "main_object": "INPUT: N/AImpacted Parties:Online Shoppe"
+  },
+  {
+    "title": "GoTrim: Go-based Botnet Actively Brute Forces WordPress Websites",
+    "link": "https://www.fortinet.com/blog/threat-research/gotrim-go-based-botnet-actively-brute-forces-wordpress-websites",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Supply Chain Attack via New Malicious Python Package, “shaderz” (Part 1)",
+    "link": "https://www.fortinet.com/blog/threat-research/supply-chain-attack-new-malicious-python-package-shaderz",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "Ransomware Roundup – New Vohuk, ScareCrow, and AERST Variants",
+    "link": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-new-vohuk-scarecrow-and-aerst-variants",
+    "is_threat_report": true,
+    "main_object": "INPUT: FortiGuard Labs Threat Research On a bi-weekly basis,FortiGuard Labsgathers data on ransomware variants of interest that have been gaining traction within our datasets and the OSINT community. The Ransomware Roundup report aims to provide readers with brief insights into the evolvingransomwarelandscape and the Fortinet solutions that protect against those variants. This latest edition of the Ransomware Roundup covers Vohuk, ScareCrow, and AERST ransomware. Affected platforms:Microsoft WindowsImp"
+  },
+  {
+    "title": "cyber war middle east",
+    "link": "https://www.security.com/threat-intelligence/cyber-war-middle-east",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "toolshell zero day sharepoint cve 2025 53770",
+    "link": "https://www.security.com/threat-intelligence/toolshell-zero-day-sharepoint-cve-2025-53770",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "fog ransomware attack",
+    "link": "https://www.security.com/threat-intelligence/fog-ransomware-attack",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "chrome extension leaks",
+    "link": "https://www.security.com/threat-intelligence/chrome-extension-leaks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "chrome extension credentials",
+    "link": "https://www.security.com/threat-intelligence/chrome-extension-credentials",
+    "is_threat_report": true,
+    "main_object": "INPUT: A backdoor for the Windows Server 2012 R2 SP1, which is used to infect Windows Server 2012 R2 SP1 servers."
+  },
+  {
+    "title": "play ransomware zero day",
+    "link": "https://www.security.com/threat-intelligence/play-ransomware-zero-day",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "billbug china espionage",
+    "link": "https://www.security.com/threat-intelligence/billbug-china-espionage",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "shuckworm ukraine gammasteel",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-ukraine-gammasteel",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ransomhub betruger backdoor",
+    "link": "https://www.security.com/threat-intelligence/ransomhub-betruger-backdoor",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ai agent attacks",
+    "link": "https://www.security.com/threat-intelligence/ai-agent-attacks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "medusa ransomware attacks",
+    "link": "https://www.security.com/threat-intelligence/medusa-ransomware-attacks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "ransomware trends 2025",
+    "link": "https://www.security.com/threat-intelligence/ransomware-trends-2025",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "chinese espionage ransomware",
+    "link": "https://www.security.com/threat-intelligence/chinese-espionage-ransomware",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "china southeast asia espionage",
+    "link": "https://www.security.com/threat-intelligence/china-southeast-asia-espionage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "us china espionage",
+    "link": "https://www.security.com/threat-intelligence/us-china-espionage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "exposing danger within hardcoded cloud credentials popular mobile apps",
+    "link": "https://www.security.com/threat-intelligence/exposing-danger-within-hardcoded-cloud-credentials-popular-mobile-apps",
+    "is_threat_report": true,
+    "main_object": "INPUT: Mobile apps have become an essential part of our everyday lives, with millions of apps downloads on platforms like the Google Play Store and Apple App Store, a hidden threat has emerged that could put user data and backend services at significant risk. Recent analysis has uncovered a troubling trend: several widely-used apps have been found to contain hardcoded and unencrypted cloud service credentials within their codebases. This dangerous practice means that anyone with access to the app's bin can be targeted by hackers, who can then use the app's code to gain access to the user's data."
+  },
+  {
+    "title": "ransomware threat level remains high",
+    "link": "https://www.security.com/threat-intelligence/ransomware-threat-level-remains-high",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "stonefly north korea extortion",
+    "link": "https://www.security.com/threat-intelligence/stonefly-north-korea-extortion",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ransomware attacks rebound",
+    "link": "https://www.security.com/threat-intelligence/ransomware-attacks-rebound",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "taiwan malware dns",
+    "link": "https://www.security.com/threat-intelligence/taiwan-malware-dns",
+    "is_threat_report": true,
+    "main_object": "INPUT: A malicious backdoor was deployed against a university in Taiwan. The attack was carried out by a group of students who were using a malicious backdoor to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor that was used to target or exploit a university. The group was using a custom backdoor"
+  },
+  {
+    "title": "cloud espionage attacks",
+    "link": "https://www.security.com/threat-intelligence/cloud-espionage-attacks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "malware ai llm",
+    "link": "https://www.security.com/threat-intelligence/malware-ai-llm",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "daggerfly espionage updated toolset",
+    "link": "https://www.security.com/threat-intelligence/daggerfly-espionage-updated-toolset",
+    "is_threat_report": true,
+    "main_object": "INPUT: The Daggerfly (aka Evasive Panda, Bronze Highland) espionage group has extensively updated its toolset, introducing several new versions of its malware, most likely in response to exposure of older variants."
+  },
+  {
+    "title": "ransomware q2 2024",
+    "link": "https://www.security.com/threat-intelligence/ransomware-q2-2024",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "telecoms espionage asia",
+    "link": "https://www.security.com/threat-intelligence/telecoms-espionage-asia",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "black basta ransomware zero day",
+    "link": "https://www.security.com/threat-intelligence/black-basta-ransomware-zero-day",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ransomhub knight ransomware",
+    "link": "https://www.security.com/threat-intelligence/ransomhub-knight-ransomware",
+    "is_threat_report": true,
+    "main_object": "INPUT: A new Ransomware-as-a-Service (RaaS) that has rapidly become one of the largest ransomware groups currently operating, is very likely an updated and rebranded version of the older Knight ransomware. Analysis of the RansomHub payload by Symantec, part of Broadcom, revealed a high degree of similarity between the two threats, suggesting that Knight was the starting point for RansomHub. Despite shared origins, it is unlikely that Knight’s creators are now operating RansomHub. Source code"
+  },
+  {
+    "title": "springtail kimsuky backdoor espionage",
+    "link": "https://www.security.com/threat-intelligence/springtail-kimsuky-backdoor-espionage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "graph api threats",
+    "link": "https://www.security.com/threat-intelligence/graph-api-threats",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "ransomware attacks exploits",
+    "link": "https://www.security.com/threat-intelligence/ransomware-attacks-exploits",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ransomware data exfiltration",
+    "link": "https://www.security.com/threat-intelligence/ransomware-data-exfiltration",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "alpha netwalker ransomware",
+    "link": "https://www.security.com/threat-intelligence/alpha-netwalker-ransomware",
+    "is_threat_report": true,
+    "main_object": "INPUT: Alpha, a new ransomware that first appeared in February 2023 and stepped up its operations in recent weeks, has strong similarities to the long-defunct NetWalker ransomware, which disappeared in January 2021 following aninternational law enforcement operation. Analysis of Alpha reveals significant similarities with the old NetWalker ransomware. Both threats use a similar PowerShell-based loader to deliver the payload. In addition to this, there is a significant amount of code overlap between the CVE-2017-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-"
+  },
+  {
+    "title": "ransomware threat landscape 2024",
+    "link": "https://www.security.com/threat-intelligence/ransomware-threat-landscape-2024",
+    "is_threat_report": true,
+    "main_object": "INPUT: The latest report from the Symantec Threat Hunter Team, which is based in the United States, shows that the threat landscape is changing rapidly. The report shows that the threat landscape is changing rapidly."
+  },
+  {
+    "title": "iran apt seedworm africa telecoms",
+    "link": "https://www.security.com/threat-intelligence/iran-apt-seedworm-africa-telecoms",
+    "is_threat_report": true,
+    "main_object": "Muddywater"
+  },
+  {
+    "title": "spyware obfuscation static analysis",
+    "link": "https://www.security.com/threat-intelligence/spyware-obfuscation-static-analysis",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "crambus middle east government",
+    "link": "https://www.security.com/threat-intelligence/crambus-middle-east-government",
+    "is_threat_report": true,
+    "main_object": "INPUT: The Iranian Crambus espionage group (aka OilRig, APT34) staged an eight-month-long intrusion against a government in the Middle East between February and September 2023. During the compromise, the attackers stole files and passwords and, in one case, installed a PowerShell backdoor (dubbed PowerExchange) that was used to monitor incoming mails sent from an Exchange Server in order to execute commands sent by the attackers in the form of emails, and surreptitiously forwarded results to the attac"
+  },
+  {
+    "title": "grayling taiwan cyber attacks",
+    "link": "https://www.security.com/threat-intelligence/grayling-taiwan-cyber-attacks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "budworm tool update telecoms govt",
+    "link": "https://www.security.com/threat-intelligence/budworm-tool-update-telecoms-govt",
+    "is_threat_report": true,
+    "main_object": "INPUT: The Budworm advanced persistent threat (APT) group continues to actively develop its toolset. Most recently, the Threat Hunter Team in Symantec, part ofBroadcom, discovered Budworm using an updated version of one of its key tools to target a Middle Eastern telecommunications organization and an Asian government. Both attacks occurred in August 2023. Budworm (aka LuckyMouse, Emissary Panda, APT27) deployed a previously unseen variant of its SysUpdate backdoor (SysUpdate DLL inicore_v2.3.30.dll)."
+  },
+  {
+    "title": "3am ransomware lockbit",
+    "link": "https://www.security.com/threat-intelligence/3am-ransomware-lockbit",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "critical infrastructure attacks",
+    "link": "https://www.security.com/threat-intelligence/critical-infrastructure-attacks",
+    "is_threat_report": true,
+    "main_object": "INPUT: A backdoor for the NSA's National Security Agency (NSA) is being used to target and exploit the Internet of Things (IoT) and other IoT devices. The backdoor is a backdoor that allows the NSA to remotely access a device's IP address, and to remotely access the device's network."
+  },
+  {
+    "title": "qakbot takedown disruption",
+    "link": "https://www.security.com/threat-intelligence/qakbot-takedown-disruption",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "carderbee software supply chain certificate abuse",
+    "link": "https://www.security.com/threat-intelligence/carderbee-software-supply-chain-certificate-abuse",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "syssphinx fin8 backdoor",
+    "link": "https://www.security.com/threat-intelligence/syssphinx-fin8-backdoor",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft zeroday exploit",
+    "link": "https://www.security.com/threat-intelligence/microsoft-zeroday-exploit",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "flea backdoor microsoft graph apt15",
+    "link": "https://www.security.com/threat-intelligence/flea-backdoor-microsoft-graph-apt15",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "shuckworm russia ukraine military",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-russia-ukraine-military",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "moveit vulnerabilities exploits",
+    "link": "https://www.security.com/threat-intelligence/moveit-vulnerabilities-exploits",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "buhti ransomware",
+    "link": "https://www.security.com/threat-intelligence/buhti-ransomware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "lancefly merdoor zxshell custom backdoor",
+    "link": "https://www.security.com/threat-intelligence/lancefly-merdoor-zxshell-custom-backdoor",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "xtrader 3cx supply chain",
+    "link": "https://www.security.com/threat-intelligence/xtrader-3cx-supply-chain",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "apt attacks telecoms africa mgbot",
+    "link": "https://www.security.com/threat-intelligence/apt-attacks-telecoms-africa-mgbot",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "play ransomware volume shadow copy",
+    "link": "https://www.security.com/threat-intelligence/play-ransomware-volume-shadow-copy",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "mantis palestinian attacks",
+    "link": "https://www.security.com/threat-intelligence/mantis-palestinian-attacks",
+    "is_threat_report": true,
+    "main_object": "INPUT: The group's latest attack, which was launched on June 23, is a new version of the Mantis malware, which was first spotted by the security firm Trend Micro in late 2016. The group's latest attack, which was launched on June 23, is a new version of the Mantis malware, which was first spotted by the security firm Trend Micro in late 2016."
+  },
+  {
+    "title": "3cx supply chain attack",
+    "link": "https://www.security.com/threat-intelligence/3cx-supply-chain-attack",
+    "is_threat_report": true,
+    "main_object": "INPUT: Update March 30 2023 11:59 UTC:Our blog has been updated with technical analysis of the malware u"
+  },
+  {
+    "title": "blackfly espionage materials",
+    "link": "https://www.security.com/threat-intelligence/blackfly-espionage-materials",
+    "is_threat_report": true,
+    "main_object": "Blackfly"
+  },
+  {
+    "title": "clasiopa materials research",
+    "link": "https://www.security.com/threat-intelligence/clasiopa-materials-research",
+    "is_threat_report": true,
+    "main_object": "INPUT: A group of hackers has been identified as using a custom backdoor to target or steal sensitive data from a government agency. The group, which Symantec calls Clasiopa, is characterized by a distinct toolset, which includes one piece of custom malware (Backdoor.Atharvan). At present, there is no firm evidence on where Clasiopa is based or whom it acts on behalf. The infection vector used by Clasiopa is unknown, although there is some evidence to suggest that the attackers gain access through brute force attacks on publ"
+  },
+  {
+    "title": "hydrochasma asia medical shipping intelligence gathering",
+    "link": "https://www.security.com/threat-intelligence/hydrochasma-asia-medical-shipping-intelligence-gathering",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "frebniis malware iis",
+    "link": "https://www.security.com/threat-intelligence/frebniis-malware-iis",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "nodaria ukraine infostealer",
+    "link": "https://www.security.com/threat-intelligence/nodaria-ukraine-infostealer",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "bluebottle banks targeted africa",
+    "link": "https://www.security.com/threat-intelligence/bluebottle-banks-targeted-africa",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "espionage asia governments cert authority",
+    "link": "https://www.security.com/threat-intelligence/espionage-asia-governments-cert-authority",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "cranefly new tools technique geppei danfuan",
+    "link": "https://www.security.com/threat-intelligence/cranefly-new-tools-technique-geppei-danfuan",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "blackbyte exbyte ransomware",
+    "link": "https://www.security.com/threat-intelligence/blackbyte-exbyte-ransomware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "spyder loader cuckoobees hong kong",
+    "link": "https://www.security.com/threat-intelligence/spyder-loader-cuckoobees-hong-kong",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "budworm espionage us state",
+    "link": "https://www.security.com/threat-intelligence/budworm-espionage-us-state",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "witchetty steganography espionage",
+    "link": "https://www.security.com/threat-intelligence/witchetty-steganography-espionage",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "noberus blackcat ransomware ttps",
+    "link": "https://www.security.com/threat-intelligence/noberus-blackcat-ransomware-ttps",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "webworm espionage rats",
+    "link": "https://www.security.com/threat-intelligence/webworm-espionage-rats",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "espionage asia governments",
+    "link": "https://www.security.com/threat-intelligence/espionage-asia-governments",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "russia ukraine shuckworm",
+    "link": "https://www.security.com/threat-intelligence/russia-ukraine-shuckworm",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "lockbit targets servers",
+    "link": "https://www.security.com/threat-intelligence/lockbit-targets-servers",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "bumblebee loader cybercrime",
+    "link": "https://www.security.com/threat-intelligence/bumblebee-loader-cybercrime",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "follina msdt exploit malware",
+    "link": "https://www.security.com/threat-intelligence/follina-msdt-exploit-malware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "clipminer bitcoin mining hijacking",
+    "link": "https://www.security.com/threat-intelligence/clipminer-bitcoin-mining-hijacking",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ransomware hive conti avoslocker",
+    "link": "https://www.security.com/threat-intelligence/ransomware-hive-conti-avoslocker",
+    "is_threat_report": true,
+    "main_object": "INPUT: A smorgasbord for June’s Patch Tuesday. Between its own fixes and a slew of FYI alerts covering Edge, GitHub, and Autodesk, Microsoft piles 94 CVEs onto sysadmins’ plates; Fortinet and Adobe also at the table."
+  },
+  {
+    "title": "stonefly north korea espionage",
+    "link": "https://www.security.com/threat-intelligence/stonefly-north-korea-espionage",
+    "is_threat_report": true,
+    "main_object": "INPUT: The North Korean-linked Stonefly group is continuing to mount espionage attacks against highly specialized engineering companies with a likely goal of obtaining sensitive intellectual property. Stonefly specializes in mounting highly selective targeted attacks against targets that could yield intelligence to assist strategically important sectors such as energy, aerospace, and military equipment. Virtually all of the technologies it appears to be interested in have military as well as civilian u"
+  },
+  {
+    "title": "shuckworm intense campaign ukraine",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-intense-campaign-ukraine",
+    "is_threat_report": true,
+    "main_object": "INPUT: The Russian-linked Shuckworm espionage group (aka Gamaredon, Armageddon) is continuing to mount an intense cyber campaign against organizations in Ukraine. Shuckworm has almost exclusively focused its operations on Ukraine since it first appeared in 2014. These attacks have continued unabated since the Russian invasion of the country. While the group’s tools and tactics are simple and sometimes crude, the frequency and persistence of its attacks mean that it remains one of the key cyber threats"
+  },
+  {
+    "title": "lazarus dream job chemical",
+    "link": "https://www.security.com/threat-intelligence/lazarus-dream-job-chemical",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "cicada apt10 china ngo government attacks",
+    "link": "https://www.security.com/threat-intelligence/cicada-apt10-china-ngo-government-attacks",
+    "is_threat_report": true,
+    "main_object": "INPUT: A Chinese state-backed advanced persistent threat (APT) group is attacking organizations around the globe in a likely espionage campaign that has been ongoing for several months. Victims in this Cicada (aka APT10) campaign include government, legal, religious, and non-governmental organizations (NGOs) in multiple countries around the world, including in Europe, Asia, and North America. The wide number of sectors and geographies of the organizations targeted in this campaign is interesting. Cicad"
+  },
+  {
+    "title": "spring4shell rce vuln java",
+    "link": "https://www.security.com/threat-intelligence/spring4shell-rce-vuln-java",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "verblecon sophisticated malware cryptocurrency mining discord",
+    "link": "https://www.security.com/threat-intelligence/verblecon-sophisticated-malware-cryptocurrency-mining-discord",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "daxin backdoor espionage analysis",
+    "link": "https://www.security.com/threat-intelligence/daxin-backdoor-espionage-analysis",
+    "is_threat_report": true,
+    "main_object": "INPUT: This is the final part of our in-depth analysis of Backdoor. Daxin, advanced malware that is being used by a China-linked espionage group. In this blog, we will analyze the communications and network features of the malware. In ourprevious blog, we set up a lab consisting of four separate networks and five machines. Some of the machines had two network interfaces to communicate with different networks, but all packet forwarding functionality was disabled. Each machine ran various network se"
+  },
+  {
+    "title": "ransomware threat landscape what expect 2022",
+    "link": "https://www.security.com/threat-intelligence/ransomware-threat-landscape-what-expect-2022",
+    "is_threat_report": true,
+    "main_object": "INPUT: A new vulnerability in the Microsoft Windows Server 2012 R2 security update, CVE-2016-0122, was discovered in the Windows Server 2012 R2 security update."
+  },
+  {
+    "title": "daxin malware espionage analysis",
+    "link": "https://www.security.com/threat-intelligence/daxin-malware-espionage-analysis",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "covid passport risks",
+    "link": "https://www.security.com/threat-intelligence/covid-passport-risks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "daxin backdoor espionage",
+    "link": "https://www.security.com/threat-intelligence/daxin-backdoor-espionage",
+    "is_threat_report": true,
+    "main_object": "INPUT: The malware is a variant of the Backdoor.Daxin that is used by Chinese-linked groups to target government and other critical infrastructure targets."
+  },
+  {
+    "title": "ukraine wiper malware russia",
+    "link": "https://www.security.com/threat-intelligence/ukraine-wiper-malware-russia",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "china apt antlion taiwan financial attacks",
+    "link": "https://www.security.com/threat-intelligence/china-apt-antlion-taiwan-financial-attacks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "shuckworm gamaredon espionage ukraine",
+    "link": "https://www.security.com/threat-intelligence/shuckworm-gamaredon-espionage-ukraine",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "threat landscape 2021",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-2021",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "log4j vulnerabilities attacks",
+    "link": "https://www.security.com/threat-intelligence/log4j-vulnerabilities-attacks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "noberus blackcat alphv rust ransomware",
+    "link": "https://www.security.com/threat-intelligence/noberus-blackcat-alphv-rust-ransomware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "espionage campaign telecoms asia middle east",
+    "link": "https://www.security.com/threat-intelligence/espionage-campaign-telecoms-asia-middle-east",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "apache log4j zero day",
+    "link": "https://www.security.com/threat-intelligence/apache-log4j-zero-day",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "yanluowang ransomware attacks continue",
+    "link": "https://www.security.com/threat-intelligence/yanluowang-ransomware-attacks-continue",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "blackmatter data exfiltration",
+    "link": "https://www.security.com/threat-intelligence/blackmatter-data-exfiltration",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "banking trojan latam brazil",
+    "link": "https://www.security.com/threat-intelligence/banking-trojan-latam-brazil",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "espionage campaign south east asia",
+    "link": "https://www.security.com/threat-intelligence/espionage-campaign-south-east-asia",
+    "is_threat_report": true,
+    "main_object": "INPUT: A malicious software program has been used to target a number of organizations in South East Asia. The program is designed to target a range of organizations in the defense, healthcare, and information and communications technology (ICT) sectors. The program appears to have begun in September 2020 and ran at least until May 2021. The toolset used by the attackers includes loaders, a modular backdoor, a keylogger, and an exfiltration tool designed to abuse cloud storage service Dropbox."
+  },
+  {
+    "title": "harvester new apt attacks asia",
+    "link": "https://www.security.com/threat-intelligence/harvester-new-apt-attacks-asia",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "yanluowang targeted ransomware",
+    "link": "https://www.security.com/threat-intelligence/yanluowang-targeted-ransomware",
+    "is_threat_report": true,
+    "main_object": "INPUT: The Symantec Threat Hunter Team, a part ofBroadcom Software, has uncovered what appears to be a new ransomware threat called Yanluowang that is being used in targeted attacks. In a recent attempted ransomware attack against a large organization, Symantec obtained a number of malicious files that, upon further investigation, revealed the threat to be a new, if somewhat underdeveloped, ransomware family. The Threat Hunter Team first spotted suspicious use of AdFind, a legitimate command-line Activ"
+  },
+  {
+    "title": "ransomware targeted 2021",
+    "link": "https://www.security.com/threat-intelligence/ransomware-targeted-2021",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "pegasus forcedentry protection",
+    "link": "https://www.security.com/threat-intelligence/pegasus-forcedentry-protection",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "grayfly china sidewalk malware",
+    "link": "https://www.security.com/threat-intelligence/grayfly-china-sidewalk-malware",
+    "is_threat_report": true,
+    "main_object": "INPUT: The group has been linked to the Chinese-linked group, the Chinese-linked group, and the Chinese-linked group."
+  },
+  {
+    "title": "lockfile ransomware new petitpotam windows",
+    "link": "https://www.security.com/threat-intelligence/lockfile-ransomware-new-petitpotam-windows",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "ransomware trends lockbit sodinokibi",
+    "link": "https://www.security.com/threat-intelligence/ransomware-trends-lockbit-sodinokibi",
+    "is_threat_report": true,
+    "main_object": "INPUT: The ransomware group is known to have been active in the past, but it is now known that it is now a new group."
+  },
+  {
+    "title": "critical infrastructure south east asia espionage",
+    "link": "https://www.security.com/threat-intelligence/critical-infrastructure-south-east-asia-espionage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "kaseya ransomware supply chain",
+    "link": "https://www.security.com/threat-intelligence/kaseya-ransomware-supply-chain",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ransomware virtual machines",
+    "link": "https://www.security.com/threat-intelligence/ransomware-virtual-machines",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "targeted ransomware ecosystem",
+    "link": "https://www.security.com/threat-intelligence/targeted-ransomware-ecosystem",
+    "is_threat_report": true,
+    "main_object": "INPUT: The latest update to the Microsoft Edge Security Bulletin, which is now available for download, is a patch for the latest Edge vulnerability. The update is available for download from the Microsoft Edge Security Bulletin."
+  },
+  {
+    "title": "multi factor authentication new attacks",
+    "link": "https://www.security.com/threat-intelligence/multi-factor-authentication-new-attacks",
+    "is_threat_report": true,
+    "main_object": "MFA"
+  },
+  {
+    "title": "spectre bypass linux vulnerabilities",
+    "link": "https://www.security.com/threat-intelligence/spectre-bypass-linux-vulnerabilities",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "security privacy covid tracing apps",
+    "link": "https://www.security.com/threat-intelligence/security-privacy-covid-tracing-apps",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft exchange server protection",
+    "link": "https://www.security.com/threat-intelligence/microsoft-exchange-server-protection",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "lazarus north korea indictment",
+    "link": "https://www.security.com/threat-intelligence/lazarus-north-korea-indictment",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "solarwinds sunburst sending data",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-sunburst-sending-data",
+    "is_threat_report": true,
+    "main_object": "INPUT: A smorgasbord for June’s Patch Tuesday. Between its own fixes and a slew of FYI alerts covering Edge, GitHub, and Autodesk, Microsoft piles 94 CVEs onto sysadmins’ plates; Fortinet and Adobe also at the table."
+  },
+  {
+    "title": "solarwinds raindrop malware",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-raindrop-malware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "solarwinds sunburst command control",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-sunburst-command-control",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "solarwinds unique dga",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-unique-dga",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "solarwinds attacks stealthy attackers attempted evade detection",
+    "link": "https://www.security.com/threat-intelligence/solarwinds-attacks-stealthy-attackers-attempted-evade-detection",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "threat landscape trends q3 2020",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-trends-q3-2020",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "sunburst supply chain attack solarwinds",
+    "link": "https://www.security.com/threat-intelligence/sunburst-supply-chain-attack-solarwinds",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "cicada apt10 japan espionage",
+    "link": "https://www.security.com/threat-intelligence/cicada-apt10-japan-espionage",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "sms phishing presidential election",
+    "link": "https://www.security.com/threat-intelligence/sms-phishing-presidential-election",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "seedworm apt iran middle east",
+    "link": "https://www.security.com/threat-intelligence/seedworm-apt-iran-middle-east",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "trickbot botnet ransomware disruption",
+    "link": "https://www.security.com/threat-intelligence/trickbot-botnet-ransomware-disruption",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "palmerworm blacktech espionage apt",
+    "link": "https://www.security.com/threat-intelligence/palmerworm-blacktech-espionage-apt",
+    "is_threat_report": true,
+    "main_object": "INPUT: The Palmerworm group has been identified as a new group of hackers targeting the US government and the military. The group is based in the US, and is based in the Philippines."
+  },
+  {
+    "title": "elfin indictments iran espionage",
+    "link": "https://www.security.com/threat-intelligence/elfin-indictments-iran-espionage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "apt41 indictments china espionage",
+    "link": "https://www.security.com/threat-intelligence/apt41-indictments-china-espionage",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "threat landscape trends q2 2020",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-trends-q2-2020",
+    "is_threat_report": true,
+    "main_object": "INPUT: The first half of the year drew to a close, we took a look through telemetry from our vast range of data sources and selected some of the trends that stood out from April, May, and June 2020. From a resurgence in cryptojacking activity to the return of a major malware distribution platform, let’s take a quick look at the trends that shaped the cyber security threat landscape in the second quarter of 2020. From a resurgence in cryptojacking activity to the return of a major malware distribution platform, let’s take a quick look at the trends that shaped the cyber security threat landscape in the second quarter of 2020."
+  },
+  {
+    "title": "wastedlocker ransomware us",
+    "link": "https://www.security.com/threat-intelligence/wastedlocker-ransomware-us",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "sodinokibi ransomware cobalt strike pos",
+    "link": "https://www.security.com/threat-intelligence/sodinokibi-ransomware-cobalt-strike-pos",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "threat landscape q1 2020",
+    "link": "https://www.security.com/threat-intelligence/threat-landscape-q1-2020",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "sms phishing coronavirus",
+    "link": "https://www.security.com/threat-intelligence/sms-phishing-coronavirus",
+    "is_threat_report": true,
+    "main_object": "SMS"
+  },
+  {
+    "title": "greenbug espionage telco south asia",
+    "link": "https://www.security.com/threat-intelligence/greenbug-espionage-telco-south-asia",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "covid 19 text scam",
+    "link": "https://www.security.com/threat-intelligence/covid-19-text-scam",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday april 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-april-2020",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "covid 19 outbreak prompts opportunistic wave malicious email campaigns",
+    "link": "https://www.security.com/threat-intelligence/covid-19-outbreak-prompts-opportunistic-wave-malicious-email-campaigns",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "android apps coronavirus covid19 malicious",
+    "link": "https://www.security.com/threat-intelligence/android-apps-coronavirus-covid19-malicious",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday march 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-march-2020",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "microsoft patch tuesday february 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-february-2020",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "tensions iran destructive attacks",
+    "link": "https://www.security.com/threat-intelligence/tensions-iran-destructive-attacks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "increase emotet spam observed blocked symantec",
+    "link": "https://www.security.com/threat-intelligence/increase-emotet-spam-observed-blocked-symantec",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday january 2020",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-january-2020",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "living land legitimate tools malicious",
+    "link": "https://www.security.com/threat-intelligence/living-land-legitimate-tools-malicious",
+    "is_threat_report": true,
+    "main_object": "INPUT: “The 'C' in the name of the malware is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a reference to the malware's name, which is a"
+  },
+  {
+    "title": "microsoft patch tuesday december 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-december-2019",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "microsoft patch tuesday november 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-november-2019",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "nemty ransomware trik botnet",
+    "link": "https://www.security.com/threat-intelligence/nemty-ransomware-trik-botnet",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "thrip apt south east asia",
+    "link": "https://www.security.com/threat-intelligence/thrip-apt-south-east-asia",
+    "is_threat_report": true,
+    "main_object": "INPUT: A backdoor for the Chinese government that was discovered in the early days of the NSA's Prism program. The backdoor is a backdoor that allows the NSA to access the private communications of the Chinese government. The backdoor is used to target the Chinese government's internal communications, including the Chinese government's internal communications with the United States."
+  },
+  {
+    "title": "microsoft patch tuesday august 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-august-2019",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "email extortion scams",
+    "link": "https://www.security.com/threat-intelligence/email-extortion-scams",
+    "is_threat_report": true,
+    "main_object": "INPUT: A message arrives in your inbox, with one of your old passwords in the Subject line. Your curiosity is piqued, and you click into the message, only to discover that someone has allegedly hacked your webcam and recorded you engaged in some intimate acts, and they are now threatening to send this recording to everyone in your contact list. However, if you send the anonymous blackmailer a few hundred dollars in bitcoins they promise that no one will see the embarrassing footage. This is a situation"
+  },
+  {
+    "title": "bec scams trends and themes 2019",
+    "link": "https://www.security.com/threat-intelligence/bec-scams-trends-and-themes-2019",
+    "is_threat_report": true,
+    "main_object": "BEC"
+  },
+  {
+    "title": "cryptojacking extensions chrome web store",
+    "link": "https://www.security.com/threat-intelligence/cryptojacking-extensions-chrome-web-store",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday june 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-june-2019",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "twitterbots propaganda disinformation",
+    "link": "https://www.security.com/threat-intelligence/twitterbots-propaganda-disinformation",
+    "is_threat_report": true,
+    "main_object": "INPUT: A tool that allows users to create fake accounts to gain access to the Internet."
+  },
+  {
+    "title": "microsoft patch tuesday may 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-may-2019",
+    "is_threat_report": true,
+    "main_object": "INPUT: A smorgasbord for June’s Patch Tuesday. Between its own fixes and a slew of FYI alerts covering Edge, GitHub, and Autodesk, Microsoft piles 94 CVEs onto sysadmins’ plates; Fortinet and Adobe also at the table."
+  },
+  {
+    "title": "buckeye windows zero day exploit",
+    "link": "https://www.security.com/threat-intelligence/buckeye-windows-zero-day-exploit",
+    "is_threat_report": true,
+    "main_object": "INPUT: The 2017 leak of Equation Group tools by a mysterious group calling itself the Shadow Brokers was one of the most significant cyber security stories in recent years. Equation isregarded as one of the most technically adept espionage groupsand the release of a trove of its tools had a major impact, with many attackers rushing to deploy the malware and exploits disclosed. One of these tools, the EternalBlue exploit, was used to devastating effect in theMay 2017 WannaCry ransomware outbreak."
+  },
+  {
+    "title": "elfin apt33 espionage",
+    "link": "https://www.security.com/threat-intelligence/elfin-apt33-espionage",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "asus supply chain attack",
+    "link": "https://www.security.com/threat-intelligence/asus-supply-chain-attack",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "detecting credential dumping",
+    "link": "https://www.security.com/threat-intelligence/detecting-credential-dumping",
+    "is_threat_report": true,
+    "main_object": "INPUT: A tool that allows attackers to create a backdoor that allows them to bypass security controls and gain access to the system."
+  },
+  {
+    "title": "microsoft patch tuesday march 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-march-2019",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "whitefly espionage singapore",
+    "link": "https://www.security.com/threat-intelligence/whitefly-espionage-singapore",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "istr 24 cyber security threat landscape",
+    "link": "https://www.security.com/threat-intelligence/istr-24-cyber-security-threat-landscape",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "cryptojacking apps microsoft store",
+    "link": "https://www.security.com/threat-intelligence/cryptojacking-apps-microsoft-store",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday february 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-february-2019",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "tech support scams install puas",
+    "link": "https://www.security.com/threat-intelligence/tech-support-scams-install-puas",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "african financial attacks",
+    "link": "https://www.security.com/threat-intelligence/african-financial-attacks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "microsoft patch tuesday january 2019",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-january-2019",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "leaky christmas lights hijacked",
+    "link": "https://www.security.com/threat-intelligence/leaky-christmas-lights-hijacked",
+    "is_threat_report": true,
+    "main_object": "INPUT: A new security vulnerability in the Windows 10 IoT security update, CVE-2017-0648, was discovered."
+  },
+  {
+    "title": "shamoon destructive threat re emerges new sting its tail",
+    "link": "https://www.security.com/threat-intelligence/shamoon-destructive-threat-re-emerges-new-sting-its-tail",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday december 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-december-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "seedworm espionage group",
+    "link": "https://www.security.com/threat-intelligence/seedworm-espionage-group",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "formjacking targeting popular stores",
+    "link": "https://www.security.com/threat-intelligence/formjacking-targeting-popular-stores",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "tech support scams part 3",
+    "link": "https://www.security.com/threat-intelligence/tech-support-scams-part-3",
+    "is_threat_report": true,
+    "main_object": "INPUT: A smorgasbord for June’s Patch Tuesday. Between its own fixes and a slew of FYI alerts covering Edge, GitHub, and Autodesk, Microsoft piles 94 CVEs onto sysadmins’ plates; Fortinet and Adobe also at the table."
+  },
+  {
+    "title": "eversion 3ve arrests takedown",
+    "link": "https://www.security.com/threat-intelligence/eversion-3ve-arrests-takedown",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "retail threats formjacking pos",
+    "link": "https://www.security.com/threat-intelligence/retail-threats-formjacking-pos",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "microsoft patch tuesday november 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-november-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "fastcash lazarus atm malware",
+    "link": "https://www.security.com/threat-intelligence/fastcash-lazarus-atm-malware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "samsam targeted ransomware attacks",
+    "link": "https://www.security.com/threat-intelligence/samsam-targeted-ransomware-attacks",
+    "is_threat_report": true,
+    "main_object": "INPUT: UPDATE: November 29, 2018A U.S. citizen has been arrested in connection with the SamSam ransomware. The suspect is accused of stealing $6 million from a number of organizations, including the U.S. Department of Homeland Security, the U.S. Department of Defense, and the U.S. Department of Defense. The suspect is also accused of stealing $5 million from a number of other organizations. The suspect is also accused of stealing $1 million from a number of other organizations."
+  },
+  {
+    "title": "gallmaker attack group",
+    "link": "https://www.security.com/threat-intelligence/gallmaker-attack-group",
+    "is_threat_report": true,
+    "main_object": "INPUT: Update October 11, 2018 This blog has been updated with a revised list of IoCs. An earlier list of IOCs attached to this blog was generated through an automated system and, due to the dual-use nature of the tools used by the group, erroneously included some low fidelity IoCs. Symantec researchers have uncovered a previously unknown attack group that is targeting government and military targets, including several overseas embassies of an Eastern European country, and military and defense targets"
+  },
+  {
+    "title": "microsoft patch tuesday october 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-october-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "symantec latest intelligence refresh",
+    "link": "https://www.security.com/threat-intelligence/symantec-latest-intelligence-refresh",
+    "is_threat_report": true,
+    "main_object": "INPUT: A new, dynamic page on the Symantec website, providing the latest intelligence available. Today we are happy to share the next iteration of thisLate"
+  },
+  {
+    "title": "formjacking attacks retailers",
+    "link": "https://www.security.com/threat-intelligence/formjacking-attacks-retailers",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday september 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-september-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "wmic download malware",
+    "link": "https://www.security.com/threat-intelligence/wmic-download-malware",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "mirai cross platform infection",
+    "link": "https://www.security.com/threat-intelligence/mirai-cross-platform-infection",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "jrat new anti parsing techniques",
+    "link": "https://www.security.com/threat-intelligence/jrat-new-anti-parsing-techniques",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "microsoft patch tuesday august 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-august-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "hacked mikrotik router",
+    "link": "https://www.security.com/threat-intelligence/hacked-mikrotik-router",
+    "is_threat_report": true,
+    "main_object": "INPUT: A new ransomware that is targeting the Internet of Things (IoT) and IoT devices. The malware is based on the same malware that was used to infect the Sony Playstation 3 and Sony Playstation 4. The malware is based on the same malware that was used to infect the Sony Playstation 3 and Sony Playstation 4. The malware is based on the same malware that was used to infect the Sony Playstation 3 and Sony Playstation 4."
+  },
+  {
+    "title": "leafminer espionage middle east",
+    "link": "https://www.security.com/threat-intelligence/leafminer-espionage-middle-east",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "evolution emotet trojan distributor",
+    "link": "https://www.security.com/threat-intelligence/evolution-emotet-trojan-distributor",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "powershell threats grow further and operate plain sight",
+    "link": "https://www.security.com/threat-intelligence/powershell-threats-grow-further-and-operate-plain-sight",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "microsoft patch tuesday july 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-july-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "thrip hits satellite telecoms defense targets",
+    "link": "https://www.security.com/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday june 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-june-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "industry and law enforcement cooperation bears fruit fight against bec",
+    "link": "https://www.security.com/threat-intelligence/industry-and-law-enforcement-cooperation-bears-fruit-fight-against-bec",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "vpnfilter iot malware",
+    "link": "https://www.security.com/threat-intelligence/vpnfilter-iot-malware",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "scan4you masterminds guilty",
+    "link": "https://www.security.com/threat-intelligence/scan4you-masterminds-guilty",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "latest intelligence march 2018",
+    "link": "https://www.security.com/threat-intelligence/latest-intelligence-march-2018",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "coin mining without browser",
+    "link": "https://www.security.com/threat-intelligence/coin-mining-without-browser",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "istr 23 cyber security threat landscape",
+    "link": "https://www.security.com/threat-intelligence/istr-23-cyber-security-threat-landscape",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "fakebank intercepts calls banks",
+    "link": "https://www.security.com/threat-intelligence/fakebank-intercepts-calls-banks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "inception framework hiding behind proxies",
+    "link": "https://www.security.com/threat-intelligence/inception-framework-hiding-behind-proxies",
+    "is_threat_report": true,
+    "main_object": "INPUT: The Inception Framework is a tool that allows attackers to remotely control the computer systems of organizations. It is used to remotely control the computer systems of organizations."
+  },
+  {
+    "title": "microsoft patch tuesday march 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-march-2018",
+    "is_threat_report": true,
+    "main_object": "INPUT: A smorgasbord for June’s Patch Tuesday. Between its own fixes and a slew of FYI alerts covering Edge, GitHub, and Autodesk, Microsoft piles 94 CVEs onto sysadmins’ plates; Fortinet and Adobe also at the table."
+  },
+  {
+    "title": "latest intelligence february 2018",
+    "link": "https://www.security.com/threat-intelligence/latest-intelligence-february-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "chafer latest attacks reveal heightened ambitions",
+    "link": "https://www.security.com/threat-intelligence/chafer-latest-attacks-reveal-heightened-ambitions",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "android malware harvests facebook details",
+    "link": "https://www.security.com/threat-intelligence/android-malware-harvests-facebook-details",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday february 2018",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-february-2018",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "meltdown spectre cpu bugs",
+    "link": "https://www.security.com/threat-intelligence/meltdown-spectre-cpu-bugs",
+    "is_threat_report": true,
+    "main_object": "INPUT: Update: January 5, 2018 -Symantec has released the following detection for attempts to exploit the Multiple CPU Hardware Information Disclosure Vulnerability (CVE-2017-5752/Meltdown): Update: January 5, 2018 -Symantec has released the following detection for attempts to exploit the Multiple CPU Hardware Information Disclosure Vulnerability (CVE-2017-5751/Meltdown): Update: January 5, 2018 -Symantec has released the following detection for attempts to exploit the Multiple CPU Hardware Information Disclosure Vulnerability (CVE-2017-5750/Meltdown): Update: January 5, 2018 -Symantec has released the following detection for attempts to exploit the Multiple CPU Hardware Information Disclosure Vulnerability (CVE-2017-5751/Meltdown): Update: January 5, 2018 -Symantec has released the following detection for attempts to exploit the Multiple CPU Hardware Information Disclosure Vulnerability ("
+  },
+  {
+    "title": "android malware uber credentials deep links",
+    "link": "https://www.security.com/threat-intelligence/android-malware-uber-credentials-deep-links",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "browser mining cryptocurrency",
+    "link": "https://www.security.com/threat-intelligence/browser-mining-cryptocurrency",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "triton malware ics",
+    "link": "https://www.security.com/threat-intelligence/triton-malware-ics",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "microsoft patch tuesday december",
+    "link": "https://www.security.com/threat-intelligence/microsoft-patch-tuesday-december",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "mailsploit email exploit spoofing",
+    "link": "https://www.security.com/threat-intelligence/mailsploit-email-exploit-spoofing",
+    "is_threat_report": true,
+    "main_object": "Mozilla Thunderbird"
+  },
+  {
+    "title": "surge adwind distribution emails",
+    "link": "https://www.security.com/threat-intelligence/surge-adwind-distribution-emails",
+    "is_threat_report": true,
+    "main_object": "INPUT: A backdoor for the Adwind Remote Access Trojan (RAT) that was used in the 2016 attack on the Adobe Flash Player."
+  },
+  {
+    "title": "latest intel november 2017",
+    "link": "https://www.security.com/threat-intelligence/latest-intel-november-2017",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "doublehidden android malware google play",
+    "link": "https://www.security.com/threat-intelligence/doublehidden-android-malware-google-play",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "android malware porn apps chinese",
+    "link": "https://www.security.com/threat-intelligence/android-malware-porn-apps-chinese",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "ms patch tuesday november 2017",
+    "link": "https://www.security.com/threat-intelligence/ms-patch-tuesday-november-2017",
+    "is_threat_report": true,
+    "main_object": "INPUT: Microsoft's patch for the November 2017 update. This month the vendor has patched 53 vulnerabilities, 19 of which are rated Critical. As always, customers are advised to follow these security best practices: Microsoft's summary of the November 2017 releases can be found here:https://portal.msrc.microsoft.com/en-us/security-guidance This month's update covers vulnerabilities in: The following is a breakdown of the issues being addressed this month: Cumulative Security Update f"
+  },
+  {
+    "title": "tech support scams aes",
+    "link": "https://www.security.com/threat-intelligence/tech-support-scams-aes",
+    "is_threat_report": true,
+    "main_object": "INPUT: A tool to detect and prevent malicious code from being executed."
+  },
+  {
+    "title": "sowbug cyber espionage south america asia",
+    "link": "https://www.security.com/threat-intelligence/sowbug-cyber-espionage-south-america-asia",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "ransomeware risks 2017",
+    "link": "https://www.security.com/threat-intelligence/ransomeware-risks-2017",
+    "is_threat_report": true,
+    "main_object": "INPUT: The latest research shows that the majority of the ransomware attacks are based on the same source code, which is why we have identified a number of vulnerabilities in the source code."
+  },
+  {
+    "title": "petya ransomware wiper",
+    "link": "https://www.security.com/threat-intelligence/petya-ransomware-wiper",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "wannacry ransomware attack",
+    "link": "https://www.security.com/threat-intelligence/wannacry-ransomware-attack",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "dragonfly energy sector cyber attacks",
+    "link": "https://www.security.com/threat-intelligence/dragonfly-energy-sector-cyber-attacks",
+    "is_threat_report": true,
+    "main_object": "Dragonfly"
+  },
+  {
+    "title": "bachosens cyber crime investigation",
+    "link": "https://www.security.com/threat-intelligence/bachosens-cyber-crime-investigation",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "longhorn cyberespionage vault7",
+    "link": "https://www.security.com/threat-intelligence/longhorn-cyberespionage-vault7",
+    "is_threat_report": true,
+    "main_object": "INPUT: The latest version of the security software for the Symantec Security Team is available for download. The latest version is available for download here."
+  },
+  {
+    "title": "bayrob suspects extradited",
+    "link": "https://www.security.com/threat-intelligence/bayrob-suspects-extradited",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "shamoon back destructive",
+    "link": "https://www.security.com/threat-intelligence/shamoon-back-destructive",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "gatak healthcare",
+    "link": "https://www.security.com/threat-intelligence/gatak-healthcare",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "odinaff trojan financial attacks",
+    "link": "https://www.security.com/threat-intelligence/odinaff-trojan-financial-attacks",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "buckeye cyberespionage hong kong",
+    "link": "https://www.security.com/threat-intelligence/buckeye-cyberespionage-hong-kong",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "equation cyberespionage group breached",
+    "link": "https://www.security.com/threat-intelligence/equation-cyberespionage-group-breached",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "strider cyberespionage sauron",
+    "link": "https://www.security.com/threat-intelligence/strider-cyberespionage-sauron",
+    "is_threat_report": true,
+    "main_object": "INPUT: A previously unknown group called Strider has been conducting cyberespionage-style attacks against selected targets in Russia, China, Sweden, and Belgium. The group uses an advanced piece of malware known as Remsec (Backdoor.Remsec) to conduct its attacks. Remsec is a stealthy tool that appears to be primarily designed for spying purposes. Its code contains a reference to Sauron, the all-seeing antagonist in Lord of the Rings. Strider’s attacks have tentative links with a previously uncovered gr"
+  },
+  {
+    "title": "swift malware financial attacks",
+    "link": "https://www.security.com/threat-intelligence/swift-malware-financial-attacks",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "tick cyberespionage japan",
+    "link": "https://www.security.com/threat-intelligence/tick-cyberespionage-japan",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "taiwan cyberespionage backdoor trojan",
+    "link": "https://www.security.com/threat-intelligence/taiwan-cyberespionage-backdoor-trojan",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "operation blockbuster lazarus",
+    "link": "https://www.security.com/threat-intelligence/operation-blockbuster-lazarus",
+    "is_threat_report": true,
+    "main_object": "Lazarus"
+  },
+  {
+    "title": "dridex financial trojan spam",
+    "link": "https://www.security.com/threat-intelligence/dridex-financial-trojan-spam",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "dyre bank fraud group takedown",
+    "link": "https://www.security.com/threat-intelligence/dyre-bank-fraud-group-takedown",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "destructive disakil malware ukraine",
+    "link": "https://www.security.com/threat-intelligence/destructive-disakil-malware-ukraine",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "dridex takedown",
+    "link": "https://www.security.com/threat-intelligence/dridex-takedown",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "regin mysteries cyberespionage",
+    "link": "https://www.security.com/threat-intelligence/regin-mysteries-cyberespionage",
+    "is_threat_report": true,
+    "main_object": "REIN: CVE-2017-01-01"
+  },
+  {
+    "title": "black vine cyberespionage aerospace healthcare",
+    "link": "https://www.security.com/threat-intelligence/black-vine-cyberespionage-aerospace-healthcare",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "forkmeiamfamous seaduke duke",
+    "link": "https://www.security.com/threat-intelligence/forkmeiamfamous-seaduke-duke",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "butterfly corporate attacks",
+    "link": "https://www.security.com/threat-intelligence/butterfly-corporate-attacks",
+    "is_threat_report": true,
+    "main_object": "Morpho"
+  },
+  {
+    "title": "dyre financial trojan",
+    "link": "https://www.security.com/threat-intelligence/dyre-financial-trojan",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "duqu 20 cyberespionage",
+    "link": "https://www.security.com/threat-intelligence/duqu-20-cyberespionage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "equation cyberespionage group",
+    "link": "https://www.security.com/threat-intelligence/equation-cyberespionage-group",
+    "is_threat_report": true,
+    "main_object": "INPUT: A group of hackers known as Equation has been targeting organizations in a number of countries with a range of highly developed malware tools that go to great lengths to evade detection. New research from our peers at Kaspersky Lab has brought the group’s activities and tools to public attention. Symantec products detect the malware currently known to be used by Equation. The Equation group has used a range of different malware tools to mount its operations."
+  },
+  {
+    "title": "carbanak cybercrime gang",
+    "link": "https://www.security.com/threat-intelligence/carbanak-cybercrime-gang",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "destover destructive malware south korea",
+    "link": "https://www.security.com/threat-intelligence/destover-destructive-malware-south-korea",
+    "is_threat_report": true,
+    "main_object": "Merdoor"
+  },
+  {
+    "title": "regin espionage surveillance",
+    "link": "https://www.security.com/threat-intelligence/regin-espionage-surveillance",
+    "is_threat_report": true,
+    "main_object": "REIN: a backdoor that allows a user to bypass security controls and bypass security controls in a way that is not possible with traditional backdoors."
+  },
+  {
+    "title": "turla espionage diplomats",
+    "link": "https://www.security.com/threat-intelligence/turla-espionage-diplomats",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "dragonfly energy companies sabotage",
+    "link": "https://www.security.com/threat-intelligence/dragonfly-energy-companies-sabotage",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "hidden lynx professional hackers hire",
+    "link": "https://www.security.com/threat-intelligence/hidden-lynx-professional-hackers-hire",
+    "is_threat_report": true,
+    "main_object": "INPUT: A tool that allows users to create and delete files from a file system. This tool is used to create and delete files from a file system."
+  },
+  {
+    "title": "darkseoul cyberattacks south korea",
+    "link": "https://www.security.com/threat-intelligence/darkseoul-cyberattacks-south-korea",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "duqu next stuxnet",
+    "link": "https://www.security.com/threat-intelligence/duqu-next-stuxnet",
+    "is_threat_report": false,
+    "main_object": ""
+  },
+  {
+    "title": "stuxnet dossier espionage",
+    "link": "https://www.security.com/threat-intelligence/stuxnet-dossier-espionage",
+    "is_threat_report": false,
+    "main_object": ""
+  }
+]
