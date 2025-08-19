@@ -1,0 +1,35 @@
+{
+  "os":  "macOS-15.5-arm64-arm-64bit",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2025-08-09T03:11:48.074410Z",
+  "program":  "notebooks/04_ttp_classification_training.ipynb",
+  "git":  {
+    "remote":  "https://github.com/minhhuysgdev/LLM-TKIG.git",
+    "commit":  "458ee18f3743de5f78781ffa9c8e85ddde00c2f5"
+  },
+  "email":  "huyphero@gmail.com",
+  "root":  "/Users/huynguyen/Documents/UIT/2nd/NLP/LLM-TKIG/notebooks",
+  "host":  "Huys-MacBook-Pro.local",
+  "executable":  "/Users/huynguyen/Documents/UIT/2nd/NLP/LLM-TKIG/.venv/bin/python",
+  "cpu_count":  11,
+  "cpu_count_logical":  11,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "226354634752"
+    }
+  },
+  "memory":  {
+    "total":  "19327352832"
+  },
+  "apple":  {
+    "name":  "Apple M3 Pro",
+    "ecpuCores":  6,
+    "pcpuCores":  5,
+    "gpuCores":  14,
+    "memoryGb":  18,
+    "swapTotalBytes":  "10737418240",
+    "ramTotalBytes":  "19327352832"
+  },
+  "writerId":  "h9282b2b918ncmmwty600xgdcf0wc3h2"
+}
