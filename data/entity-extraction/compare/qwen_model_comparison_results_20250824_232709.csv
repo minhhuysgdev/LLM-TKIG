@@ -1,0 +1,7 @@
+Model,Type,Precision,Recall,F1,Accuracy
+Qwen3-4B,Entities,0.5966,0.8008,0.6838,0.8008
+Qwen3-4B,Relationships,0.5152,0.5129,0.514,0.5129
+Qwen3-1.7B,Entities,0.4375,0.4737,0.4549,0.4737
+Qwen3-1.7B,Relationships,0.1429,0.1379,0.1404,0.1379
+Qwen3-1.7B-Finetuned,Entities,0.6503,0.6992,0.6739,0.6992
+Qwen3-1.7B-Finetuned,Relationships,0.6048,0.3233,0.4213,0.3233
