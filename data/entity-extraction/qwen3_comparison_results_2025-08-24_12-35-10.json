@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-08-24_12-35-10",
+  "configuration": {
+    "batch_size": 30,
+    "start_index": 0,
+    "models_tested": [
+      "qwen3-1.7b",
+      "qwen3-4b",
+      "qwen3-14b",
+      "qwen3-1.7b-finetuned"
+    ],
+    "reference_file": "/content/drive/MyDrive/LLM_TKIG//data/entity-extraction/Qwen3-14B_2025-08-23_10-14-28_0_427.json",
+    "data_file": "/content/drive/MyDrive/LLM_TKIG//data/processed/merged_threat_intelligence.json"
+  },
+  "metrics": {
+    "qwen3-1.7b": {
+      "entity_precision": 0.3563218390804598,
+      "entity_recall": 0.29107981220657275,
+      "entity_f1": 0.32041343669250644,
+      "relationship_precision": 0.07936507936507936,
+      "relationship_recall": 0.06696428571428571,
+      "relationship_f1": 0.07263922518159807,
+      "overall_precision": 0.21212121212121213,
+      "overall_recall": 0.17620137299771166,
+      "overall_f1": 0.19249999999999998,
+      "common_articles": 30,
+      "ref_entities_count": 213,
+      "test_entities_count": 174,
+      "ref_relationships_count": 224,
+      "test_relationships_count": 189
+    },
+    "qwen3-4b": {
+      "entity_precision": 0.4476987447698745,
+      "entity_recall": 0.5023474178403756,
+      "entity_f1": 0.47345132743362833,
+      "relationship_precision": 0.11650485436893204,
+      "relationship_recall": 0.10714285714285714,
+      "relationship_f1": 0.11162790697674417,
+      "overall_precision": 0.2943820224719101,
+      "overall_recall": 0.2997711670480549,
+      "overall_f1": 0.2970521541950113,
+      "common_articles": 30,
+      "ref_entities_count": 213,
+      "test_entities_count": 239,
+      "ref_relationships_count": 224,
+      "test_relationships_count": 206
+    },
+    "qwen3-1.7b-finetuned": {
+      "entity_precision": 0.28426395939086296,
+      "entity_recall": 0.26291079812206575,
+      "entity_f1": 0.27317073170731715,
+      "relationship_precision": 0.028037383177570093,
+      "relationship_recall": 0.013392857142857142,
+      "relationship_f1": 0.018126888217522657,
+      "overall_precision": 0.19407894736842105,
+      "overall_recall": 0.13501144164759726,
+      "overall_f1": 0.15924426450742243,
+      "common_articles": 30,
+      "ref_entities_count": 213,
+      "test_entities_count": 197,
+      "ref_relationships_count": 224,
+      "test_relationships_count": 107
+    }
+  },
+  "summary": {
+    "best_model": "Qwen3 4B",
+    "best_f1": 0.2970521541950113,
+    "total_articles_processed": 30,
+    "reference_entities": 266,
+    "reference_relationships": 232
+  }
+}
