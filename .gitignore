@@ -78,3 +78,6 @@ coverage.xml
 config/*.yaml
 !config/default_config.yaml
 !config/example_*.yaml
+
+# Neo4j credentials
+Neo4j-*-Created-*
