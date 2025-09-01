@@ -1,0 +1,27 @@
+id,name,type
+ATT1,2025 Global Threat Landscape Report,attackers
+ATT2,Apple,attackers
+ATT3,APT,attackers
+ATT4,Azerbaijanian company,attackers
+ATT5,buttonfactoryserv-paypal,attackers
+ATT6,CERT India,attackers
+ATT7,CISA,attackers
+ATT8,Cyber Monday,attackers
+ATT9,Cybercrime Atlas,attackers
+ATT10,Cybercrime-as-a-Service,attackers
+ATT11,EC2 Grouper,attackers
+ATT12,FortiGuard Labs,attackers
+ATT13,FortiGuard Labs Threat Research,attackers
+ATT14,Fortinet,attackers
+ATT15,India Post,attackers
+ATT16,Iranian state-sponsored threat group,attackers
+ATT17,Ministry of Finance,attackers
+ATT18,National Taxation Bureau,attackers
+ATT19,Notice to Work-From-Home groups.pdf,attackers
+ATT20,PayPal,attackers
+ATT21,RomCom group,attackers
+ATT22,Screen Capturing,attackers
+ATT23,Sina Kheirkhah,attackers
+ATT24,Threat Actor,attackers
+ATT25,Vietnamese-based group,attackers
+ATT26,World Economic Forum’s Partnership Against Cybercrime,attackers

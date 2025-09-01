@@ -1,0 +1,41 @@
+id,name,type
+TEC1,32-bit,techniques
+TEC2,AES-256-CBC,techniques
+TEC3,AI,techniques
+TEC4,AI-powered phishing lures,techniques
+TEC5,base64 encoding,techniques
+TEC6,C2,techniques
+TEC7,C2 communication,techniques
+TEC8,Command and Control,techniques
+TEC9,Comprehensive Surveillance Capabilities,techniques
+TEC10,control code,techniques
+TEC11,cryptocurrency transfers,techniques
+TEC12,Data Exfiltration,techniques
+TEC13,DDoS,techniques
+TEC14,Delphi,techniques
+TEC15,DLL side-loading,techniques
+TEC16,email,techniques
+TEC17,Flutter,techniques
+TEC18,geolocation filtering,techniques
+TEC19,Heaven's Gate,techniques
+TEC20,hexadecimal blobs,techniques
+TEC21,Information Theft,techniques
+TEC22,Initial Access Broker,techniques
+TEC23,Keylogging,techniques
+TEC24,Modular Architecture,techniques
+TEC25,obfuscation,techniques
+TEC26,Outlook COM automation,techniques
+TEC27,password protected archive,techniques
+TEC28,phishing,techniques
+TEC29,phishing e-mail,techniques
+TEC30,process hollowing,techniques
+TEC31,RCE,techniques
+TEC32,registry key,techniques
+TEC33,Remote Code Execution,techniques
+TEC34,Rust,techniques
+TEC35,shipment,techniques
+TEC36,SM2,techniques
+TEC37,steganography,techniques
+TEC38,T1566.001,techniques
+TEC39,Volume Shadow Copies,techniques
+TEC40,webhook injection,techniques

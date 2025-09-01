@@ -1,0 +1,156 @@
+id,name,type
+FIL1,.7z,files
+FIL2,.7z file,files
+FIL3,.asp,files
+FIL4,.aspx,files
+FIL5,.avi,files
+FIL6,.bc6,files
+FIL7,.csv,files
+FIL8,.d3dbsp,files
+FIL9,.doc,files
+FIL10,.docx,files
+FIL11,.gdb,files
+FIL12,.html,files
+FIL13,.ibank,files
+FIL14,.jpeg,files
+FIL15,.m4a,files
+FIL16,.mdb,files
+FIL17,.mp4,files
+FIL18,.NET executable file,files
+FIL19,.odt,files
+FIL20,.php,files
+FIL21,.pkpass,files
+FIL22,.png,files
+FIL23,.ppt,files
+FIL24,.pptx,files
+FIL25,.psd,files
+FIL26,.qdf,files
+FIL27,.rar,files
+FIL28,.sie,files
+FIL29,.sln,files
+FIL30,.sql,files
+FIL31,.sum,files
+FIL32,.t12,files
+FIL33,.t13,files
+FIL34,.tax,files
+FIL35,.txt,files
+FIL36,.wma,files
+FIL37,.wmv,files
+FIL38,.xls,files
+FIL39,.xlsx,files
+FIL40,.xml,files
+FIL41,.zip,files
+FIL42,062023_PENTING_LIST OF SUPERVISORY OFFICERS WHO STILL HAVE NOT REPORT.pdf.exe,files
+FIL43,1.hta,files
+FIL44,64-bit PE,files
+FIL45,account statement,files
+FIL46,base64-encoded blob,files
+FIL47,batch of scripts,files
+FIL48,bypass.ps1,files
+FIL49,bypass.vbs,files
+FIL50,catme-1.0,files
+FIL51,check.bat,files
+FIL52,chrome.exe,files
+FIL53,cmd.exe,files
+FIL54,conhost.dll,files
+FIL55,conhost.exe,files
+FIL56,contact lists,files
+FIL57,cstecgi.cgi,files
+FIL58,culturestreak,files
+FIL59,C:\Users\Public\Documents\install.exe,files
+FIL60,C:\WiNDOws\SYsTEM32\MShTA.exe,files
+FIL61,Discord_token_grabber.py,files
+FIL62,dllhost.exe,files
+FIL63,Document.zip,files
+FIL64,Documents.html,files
+FIL65,dome.doc,files
+FIL66,driftme-1.0,files
+FIL67,dropper,files
+FIL68,ELF binary,files
+FIL69,email credentials,files
+FIL70,Encrypts and exfiltrates victims’ files and demands ransom for file decryption,files
+FIL71,Encrypts victims' files and demands ransom for file decryption,files
+FIL72,etc/rc.d/rc.local,files
+FIL73,etc/rc.local,files
+FIL74,Excel document,files
+FIL75,exec.sh,files
+FIL76,Factura Adjunta,files
+FIL77,fake wallets,files
+FIL78,faktura_1065170.lnk,files
+FIL79,faktura_3716804.zip,files
+FIL80,fbdebug,files
+FIL81,figflix,files
+FIL82,file drops,files
+FIL83,file-sharing platforms,files
+FIL84,filebin.net,files
+FIL85,fileless modules,files
+FIL86,Final Fantasy 7,files
+FIL87,forfiles.exe,files
+FIL88,fullout,files
+FIL89,get_cookies.py,files
+FIL90,HealthInstitutionSimulation.Properties.Resources.resources,files
+FIL91,hxxps://secfileshare[.]com,files
+FIL92,ImagingDevices.exe,files
+FIL93,index.js,files
+FIL94,install.sh,files
+FIL95,INV0ICE_#TBSBVS0Y3BDSMMX.svg,files
+FIL96,invoice,files
+FIL97,JAR,files
+FIL98,Kolko_i_krzyzyk,files
+FIL99,libsshd.so,files
+FIL100,LNK file,files
+FIL101,Machine ID,files
+FIL102,Main_Project,files
+FIL103,malicious Excel document,files
+FIL104,malicious PDF file,files
+FIL105,malicious Word document,files
+FIL106,Microsoft Word,files
+FIL107,modularseven-1.0,files
+FIL108,mshta.exe,files
+FIL109,msinfo32.exe,files
+FIL110,myGens,files
+FIL111,NewGends,files
+FIL112,nigpal,files
+FIL113,oauth2-paypal,files
+FIL114,password_grabber.py,files
+FIL115,PDF,files
+FIL116,PDF file,files
+FIL117,!PENTING_LIST OF OFFICERS.rar,files
+FIL118,PID of msinfo32.exe,files
+FIL119,pid.8200.vad.0x1c3eefb0000-0x1c3ef029fff.dmp,files
+FIL120,PowerShell.exe,files
+FIL121,publicly available file scanning service,files
+FIL122,Purchase-Order.7z,files
+FIL123,Purchase-Order.exe,files
+FIL124,Reader_Install_Setup.exe,files
+FIL125,require.exe,files
+FIL126,script.py,files
+FIL127,seGMM,files
+FIL128,sensapi,files
+FIL129,sGMM,files
+FIL130,swift copy.xls,files
+FIL131,sysinitd,files
+FIL132,sysinitd.ko,files
+FIL133,sysinitd.so,files
+FIL134,Syste,files
+FIL135,tax inspection,files
+FIL136,telerer,files
+FIL137,TEMP folder,files
+FIL138,temp.zip,files
+FIL139,test.vbs,files
+FIL140,TestLibs111,files
+FIL141,tgz,files
+FIL142,u.ps1,files
+FIL143,usysdiag.exe,files
+FIL144,VBS file,files
+FIL145,Windows Update.bat,files
+FIL146,Word document,files
+FIL147,XLAM document,files
+FIL148,XLS file,files
+FIL149,XLSX file,files
+FIL150,you.dll,files
+FIL151,ZIP,files
+FIL152,ZIP file,files
+FIL153,zlibxjson,files
+FIL154,Укрспецзв_Акт_30_05_25_ДР25_2313_13 від 26_02_2025.rar,files
+FIL155,校园政务,files
