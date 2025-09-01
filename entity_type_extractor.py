@@ -157,10 +157,18 @@ class EntityTypeExtractor:
                 # Extract entities from extraction.entities
                 entities = extraction.get('entities', [])
                 for entity in entities:
-                    entity_text = entity.get('text', '')
-                    entity_type = entity.get('type', '')
-                    if entity_text and entity_type:
-                        self._process_entity(entity_text, entity_type)
+                    if isinstance(entity, list) and len(entity) >= 2:
+                        # Format: ["EntityName", "EntityType"]
+                        entity_name = entity[0]
+                        entity_type = entity[1] if len(entity) > 1 else ''
+                        if entity_name:
+                            self._process_entity(entity_name, entity_type)
+                    elif isinstance(entity, dict):
+                        # Format: {"text": "...", "type": "..."}
+                        entity_text = entity.get('text', '')
+                        entity_type = entity.get('type', '')
+                        if entity_text and entity_type:
+                            self._process_entity(entity_text, entity_type)
                 
                 # Extract relationships from extraction.relationships
                 relationships = extraction.get('relationships', [])
