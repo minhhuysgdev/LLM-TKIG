@@ -1,0 +1,63 @@
+source_id,source_name,relation,target_id,target_name,id
+TOO34,FortiGuard Labs,detects,MAL46,XWorm,REL1
+TOO90,Rust,used_by,TOO21,Buer loader,REL2
+TOO90,Rust,used_by,ATT33,Hive,REL3
+TOO90,Rust,used_by,ATT52,RansomExx,REL4
+MAL21,LokiBot,drops,ATT41,Malware,REL5
+ATT18,Condi,spreads_via,VUL4,CVE-2023-1389,REL6
+TOO68,MOVEit Transfer,is_vulnerable_to,TOO99,SQL,REL7
+ATT17,Cl0p,exploits,VUL21,CVE-2023-34362,REL8
+TOO34,FortiGuard Labs,discovers,VUL21,CVE-2023-34362,REL9
+TOO25,CISA,releases_advisory_for,VUL21,CVE-2023-34362,REL10
+TOO34,FortiGuard Labs,reported,MAL35,RapperBot,REL11
+MAL3,AndoryuBot,targets,TOO87,Ruckus,REL12
+ATT27,EvilExtractor,targets,TOO115,Windows,REL13
+TOO51,Kodex,developed,ATT27,EvilExtractor,REL14
+TOO34,FortiGuard Labs,observes,ATT27,EvilExtractor,REL15
+TOO118,Windows Users,are impacted by,ATT65,Threat actor,REL16
+TOO34,FortiGuard Labs,researches,TOO46,Internet Macros,REL17
+TOO34,FortiGuard Labs,researches,ATT41,Malware,REL18
+TOO34,FortiGuard Labs,detects,ATT45,Moobot,REL19
+TOO88,Russia,uses,MAL44,wiper malware,REL20
+ATT1,8220 Gang,uses,TOO91,ScrubCrypt,REL21
+TOO34,FortiGuard Labs,comes_across,MAL28,MyDoom,REL22
+MAL28,MyDoom,uses,TOO115,Windows,REL23
+ATT67,Trexon,publishes,TOO114,web3-essential,REL24
+TOO83,PyPI,hosts,TOO27,colorslib,REL25
+TOO83,PyPI,hosts,TOO43,httpslib,REL26
+TOO83,PyPI,hosts,TOO55,libhttps,REL27
+ATT38,Lolip0p,publishes,TOO27,colorslib,REL28
+ATT38,Lolip0p,publishes,TOO43,httpslib,REL29
+ATT38,Lolip0p,publishes,TOO55,libhttps,REL30
+TOO34,FortiGuard Labs,monitors,ATT34,IoT botnet,REL31
+TOO34,FortiGuard Labs,uses,TOO42,honeypots,REL32
+TOO118,Windows Users,are affected by,ATT41,Malware,REL33
+TOO60,Microsoft,patches,TOO107,ToolShell,REL34
+TOO107,ToolShell,exploits,VUL24,CVE-2025-53770,REL35
+ATT48,Play,associated_with,ATT6,Balloonfly,REL36
+ATT6,Balloonfly,uses,TOO105,theGrixba,REL37
+ATT56,Shuckworm,targets,TOO110,Ukraine,REL38
+ATT56,Shuckworm,uses,TOO36,GammaSteel,REL39
+ATT53,RansomHub,uses,MAL5,Backdoor.Betruger,REL40
+ATT53,RansomHub,develops,MAL5,Backdoor.Betruger,REL41
+MAL5,Backdoor.Betruger,uses,TOO66,Mimikatz,REL42
+MAL5,Backdoor.Betruger,uses,TOO26,Cobalt Strike,REL43
+ATT60,Spearwing,operates,MAL24,Medusa,REL44
+ATT53,RansomHub,overtakes,TOO57,LockBit,REL45
+TOO101,Symantec,finds evidence of,ATT62,Stonefly,REL46
+TOO101,Symantec,attributes to,TOO73,North Korea,REL47
+ATT62,Stonefly,tries to deploy,MAL34,ransomware,REL48
+ATT64,Syrphid,operates,TOO57,LockBit,REL49
+TOO101,Symantec,names,MAL14,GoGra,REL50
+ATT21,Daggerfly,delivers,MAL25,MgBot,REL51
+ATT21,Daggerfly,updates,MAL22,Macma,REL52
+MAL10,Coolclient:A,associated with,ATT30,Fireant group,REL53
+ATT9,Black Basta,may_have_been_exploiting,VUL22,CVE-2024-26169,REL54
+ATT13,Cardinal,operates,ATT9,Black Basta,REL55
+ATT63,Storm-1811,is_alias_for,ATT13,Cardinal,REL56
+ATT69,UNC4393,is_alias_for,ATT13,Cardinal,REL57
+TOO101,Symantec,uncovered,MAL19,Linux.Gomir,REL58
+ATT61,Springtail,developed,MAL19,Linux.Gomir,REL59
+ATT61,Springtail,used,ATT41,Malware,REL60
+ATT41,Malware,uses,TOO61,Microsoft Graph API,REL61
+MAL7,BirdyClient,communicates_with,TOO74,OneDrive,REL62

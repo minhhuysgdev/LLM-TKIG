@@ -1,0 +1,37 @@
+source_id,source_name,relation,target_id,target_name,id,source_is_attacker,target_is_attacker
+MAL96,RolandSkimmer,associated with,ATT1,2025 Global Threat Landscape Report,REL46,False,True
+TOO192,phishing,associated with,ATT1,2025 Global Threat Landscape Report,REL55,False,True
+ATT16,Iranian state-sponsored threat group,targets,TOO61,critical national infrastructure,REL94,True,False
+ATT16,Iranian state-sponsored threat group,uses,TOO122,Havoc,REL95,True,False
+ATT16,Iranian state-sponsored threat group,uses,MAL44,HanifNet,REL96,True,False
+ATT16,Iranian state-sponsored threat group,uses,MAL50,HXLibrary,REL97,True,False
+ATT16,Iranian state-sponsored threat group,uses,MAL74,NeoExpressRAT,REL98,True,False
+ATT16,Iranian state-sponsored threat group,uses,TOO195,plink,REL99,True,False
+ATT16,Iranian state-sponsored threat group,uses,TOO182,Ngrok,REL100,True,False
+ATT16,Iranian state-sponsored threat group,uses,TOO115,glider proxy,REL101,True,False
+ATT16,Iranian state-sponsored threat group,uses,TOO213,ReverseSocks5,REL102,True,False
+ATT13,FortiGuard Labs Threat Research,targets,TOO41,CentOS Linux,REL159,True,False
+ATT13,FortiGuard Labs Threat Research,affects,TOO42,CentOS Users,REL160,True,False
+ATT13,FortiGuard Labs Threat Research,has severity level,TOO60,Critical,REL161,True,False
+ATT13,FortiGuard Labs Threat Research,related to,VUL1,azero day exploit,REL162,True,False
+ATT11,EC2 Grouper,uses,TOO24,AWS tools,REL167,True,False
+ATT11,EC2 Grouper,uses,TOO201,PowerShell,REL168,True,False
+ATT13,FortiGuard Labs Threat Research,detect,MAL128,Zebo-0.1.0,REL169,True,False
+ATT13,FortiGuard Labs Threat Research,detect,MAL22,Cometlogger-0.1,REL170,True,False
+MAL128,Zebo-0.1.0,uses,ATT22,Screen Capturing,REL173,False,True
+TOO188,Operation Serengeti,associated with,ATT9,Cybercrime Atlas,REL178,False,True
+TOO188,Operation Serengeti,associated with,ATT26,World Economic Forum’s Partnership Against Cybercrime,REL179,False,True
+TOO101,Fortinet,associated with,ATT9,Cybercrime Atlas,REL180,False,True
+ATT23,Sina Kheirkhah,has handle,TOO228,SinSinology,REL193,True,False
+ATT21,RomCom group,aka,TOO237,Storm-0978,REL226,True,False
+ATT21,RomCom group,deploys,MAL114,Underground,REL227,True,False
+TOO19,Apple ID,uses,ATT2,Apple,REL269,False,True
+TOO223,ScrubCrypt,used by,ATT24,Threat Actor,REL344,False,True
+ATT24,Threat Actor,uses,TOO192,phishing,REL345,True,False
+ATT24,Threat Actor,downloads,FIL152,ZIP file,REL346,True,False
+ATT24,Threat Actor,uses,TOO223,ScrubCrypt,REL347,True,False
+MAL52,info-stealer,used by,ATT25,Vietnamese-based group,REL402,False,True
+TOO98,FortiGuard Labs,uses,ATT10,Cybercrime-as-a-Service,REL502,False,True
+TOO98,FortiGuard Labs,uses,ATT3,APT,REL505,False,True
+ATT6,CERT India,issues,TOO11,advisory,REL522,True,False
+TOO98,FortiGuard Labs,targets,ATT4,Azerbaijanian company,REL534,False,True

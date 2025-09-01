@@ -1,0 +1,555 @@
+source_id,source_name,relation,target_id,target_name,id
+TOO95,FortiCNAPP Composite Alerts,used by,MAL57,Lcrypt0rx,REL1
+MAL57,Lcrypt0rx,used by,TOO120,H2miner,REL2
+MAL26,Dark 101,target,TOO104,FortiSandbox 5.0,REL3
+TOO219,Rust,used by,MAL57,Lcrypt0rx,REL4
+MAL76,NordDragonScan,uses,TOO244,TBK DVRs,REL5
+MAL76,NordDragonScan,uses,TOO105,Four-Fa,REL6
+MAL72,NailaoLocker,is a,MAL84,Ransomware,REL7
+MAL72,NailaoLocker,targets,TOO168,Microsoft Windows,REL8
+MAL72,NailaoLocker,drop,FIL143,usysdiag.exe,REL9
+MAL72,NailaoLocker,drop,FIL128,sensapi,REL10
+TOO120,H2miner,uses,TOO145,KinSing,REL11
+TOO120,H2miner,uses,TOO284,Xmrig miners,REL12
+TOO120,H2miner,associated with,MAL57,Lcrypt0rx,REL13
+MAL58,Lcryx,is a,MAL84,Ransomware,REL14
+MAL57,Lcrypt0rx,is a,MAL58,Lcryx,REL15
+MAL58,Lcryx,uses,TOO159,Lumma Stealer,REL16
+MAL58,Lcryx,uses,TOO75,DCRAT,REL17
+MAL58,Lcryx,uses,TOO54,Cobalt Strike,REL18
+TOO120,H2miner,targets,TOO154,Linux,REL19
+TOO120,H2miner,targets,TOO275,Windows,REL20
+TOO120,H2miner,targets,TOO57,Containers,REL21
+TOO98,FortiGuard Labs,analyze,MAL26,Dark 101,REL22
+MAL26,Dark 101,is,MAL84,Ransomware,REL23
+MAL26,Dark 101,use,TOO29,Bitcoin,REL24
+TOO103,FortiSandbox,used by,TOO98,FortiGuard Labs,REL25
+MAL76,NordDragonScan,drop,MAL76,NordDragonScan,REL26
+FIL91,hxxps://secfileshare[.]com,download,FIL154,Укрспецзв_Акт_30_05_25_ДР25_2313_13 від 26_02_2025.rar,REL27
+TOO217,RondoDox,exploits,VUL21,CVE-2024-3721,REL28
+TOO217,RondoDox,exploits,VUL18,CVE-2024-12856,REL29
+TOO217,RondoDox,uses,FIL68,ELF binary,REL30
+TOO100,FortiMail IR team,uses,FIL82,file drops,REL31
+TOO75,DCRAT,is,MAL93,Remote Access Trojan,REL32
+TOO122,Havoc,deploy,FIL53,cmd.exe,REL33
+TOO122,Havoc,communicate with,TOO38,C2 server,REL34
+TOO243,Task Scheduler,launch,FIL55,conhost.exe,REL35
+FIL55,conhost.exe,execute,FIL54,conhost.dll,REL36
+TOO98,FortiGuard Labs,targets,TOO168,Microsoft Windows,REL37
+TOO98,FortiGuard Labs,uses,MAL125,winos 4.0,REL38
+TOO98,FortiGuard Labs,targets,TOO241,Taiwan,REL39
+MAL48,HoldingHands RAT,aka,MAL38,Gh0stBins,REL40
+MAL96,RolandSkimmer,targets,TOO36,Bulgaria,REL41
+MAL96,RolandSkimmer,uses,FIL100,LNK file,REL42
+MAL96,RolandSkimmer,uses,FIL78,faktura_1065170.lnk,REL43
+FIL78,faktura_1065170.lnk,execute,FIL60,C:\WiNDOws\SYsTEM32\MShTA.exe,REL44
+MAL96,RolandSkimmer,target,TOO168,Microsoft Windows,REL45
+MAL96,RolandSkimmer,associated with,ATT1,2025 Global Threat Landscape Report,REL46
+TOO192,phishing,targets,TOO277,Windows Users,REL47
+TOO192,phishing,exploits,VUL6,CVE-2017-0199,REL48
+TOO192,phishing,delivers,TOO89,Excel,REL49
+TOO89,Excel,exploits,VUL6,CVE-2017-0199,REL50
+TOO192,phishing,uses,MAL37,FormBook,REL51
+MAL37,FormBook,collects,TOO157,login credentials,REL52
+MAL37,FormBook,collects,TOO144,keystrokes,REL53
+MAL37,FormBook,collects,TOO53,clipboard information,REL54
+TOO192,phishing,associated with,ATT1,2025 Global Threat Landscape Report,REL55
+TOO192,phishing,has subject,TOO221,sales order,REL56
+TOO99,FortiMail,detects,TOO192,phishing,REL57
+TOO97,FortiGuard Incident Response Team,execute,FIL47,batch of scripts,REL58
+TOO97,FortiGuard Incident Response Team,execute,TOO201,PowerShell,REL59
+TOO97,FortiGuard Incident Response Team,drop,FIL88,fullout,REL60
+TOO97,FortiGuard Incident Response Team,deploy,FIL88,fullout,REL61
+TOO97,FortiGuard Incident Response Team,use,FIL62,dllhost.exe,REL62
+TOO97,FortiGuard Incident Response Team,drop,FIL119,pid.8200.vad.0x1c3eefb0000-0x1c3ef029fff.dmp,REL63
+TOO97,FortiGuard Incident Response Team,deploy,FIL119,pid.8200.vad.0x1c3eefb0000-0x1c3ef029fff.dmp,REL64
+MAL37,FormBook,exploits,VUL7,CVE-2017-11882,REL65
+MAL37,FormBook,uses,FIL92,ImagingDevices.exe,REL66
+MAL37,FormBook,communicatesWith,TOO38,C2 server,REL67
+MAL118,VanHelsing,is,MAL84,Ransomware,REL68
+MAL118,VanHelsing,targets,TOO168,Microsoft Windows,REL69
+MAL118,VanHelsing,hash,HAS4,SHA2: 99959C5141F62D4FBB60EFDC05260B6E956651963D29C36845F435815062FD98,REL70
+MAL49,Horabot,uses,TOO192,phishing,REL71
+MAL49,Horabot,uses,TOO267,VBScript,REL72
+MAL49,Horabot,uses,TOO22,AutoIt,REL73
+MAL49,Horabot,uses,TOO201,PowerShell,REL74
+MAL49,Horabot,steals,FIL69,email credentials,REL75
+MAL49,Horabot,harvests,FIL56,contact lists,REL76
+MAL49,Horabot,installs,MAL16,banking trojans,REL77
+MAL49,Horabot,targets,TOO151,Latin America,REL78
+MAL49,Horabot,targets,TOO165,Mexico,REL79
+MAL49,Horabot,targets,TOO119,Guatemala,REL80
+MAL49,Horabot,targets,TOO55,Colombia,REL81
+MAL49,Horabot,targets,TOO191,Peru,REL82
+MAL49,Horabot,targets,TOO47,Chile,REL83
+MAL49,Horabot,targets,TOO20,Argentina,REL84
+MAL49,Horabot,uses,FIL76,Factura Adjunta,REL85
+MAL93,Remote Access Trojan,is,TOO212,RAT,REL86
+TOO212,RAT,is,MAL87,RATty,REL87
+TOO98,FortiGuard Labs,targets,TOO234,Spain,REL88
+TOO98,FortiGuard Labs,targets,TOO137,Italy,REL89
+TOO98,FortiGuard Labs,targets,TOO198,Portugal,REL90
+MAL87,RATty,uses,FIL83,file-sharing platforms,REL91
+MAL87,RATty,uses,TOO182,Ngrok,REL92
+TOO96,FortiGuard Incident Response,investigates,TOO61,critical national infrastructure,REL93
+ATT16,Iranian state-sponsored threat group,targets,TOO61,critical national infrastructure,REL94
+ATT16,Iranian state-sponsored threat group,uses,TOO122,Havoc,REL95
+ATT16,Iranian state-sponsored threat group,uses,MAL44,HanifNet,REL96
+ATT16,Iranian state-sponsored threat group,uses,MAL50,HXLibrary,REL97
+ATT16,Iranian state-sponsored threat group,uses,MAL74,NeoExpressRAT,REL98
+ATT16,Iranian state-sponsored threat group,uses,TOO195,plink,REL99
+ATT16,Iranian state-sponsored threat group,uses,TOO182,Ngrok,REL100
+ATT16,Iranian state-sponsored threat group,uses,TOO115,glider proxy,REL101
+ATT16,Iranian state-sponsored threat group,uses,TOO213,ReverseSocks5,REL102
+TOO133,Ingress-NGINX,exploit,VUL23,CVE‑2025‑1974,REL103
+TOO150,Lacework FortiCNAPP,provide coverage for,TOO133,Ingress-NGINX,REL104
+TOO102,Fortinet Security Fabric,provide coverage for,TOO133,Ingress-NGINX,REL105
+TOO192,phishing,used by,FIL105,malicious Word document,REL106
+FIL105,malicious Word document,exploit,VUL7,CVE-2017-11882,REL107
+FIL105,malicious Word document,download,MAL37,FormBook,REL108
+TOO192,phishing,target,TOO275,Windows,REL109
+MAL37,FormBook,steal,TOO144,keystrokes,REL110
+TOO192,phishing,deliver,FIL105,malicious Word document,REL111
+TOO192,phishing,deploy,MAL64,malware,REL112
+TOO122,Havoc,uses,TOO54,Cobalt Strike,REL113
+TOO122,Havoc,uses,TOO226,Silver,REL114
+TOO122,Havoc,uses,TOO278,Winos4.0,REL115
+MAL46,Havoc Demon Agent,uses,TOO225,SharePoint,REL116
+MAL46,Havoc Demon Agent,uses,TOO166,Microsoft Graph API,REL117
+TOO192,phishing,uses,TOO52,ClickFix,REL118
+FIL64,Documents.html,uses,TOO201,PowerShell,REL119
+TOO278,Winos4.0,targets,TOO168,Microsoft Windows,REL120
+TOO278,Winos4.0,targets,TOO241,Taiwan,REL121
+TOO278,Winos4.0,download,TOO38,C2 server,REL122
+TOO98,FortiGuard Labs,detects,MAL13,AutoIt/Injector.GTY!tr,REL123
+MAL13,AutoIt/Injector.GTY!tr,aka,TOO7,404 Keylogger,REL124
+MAL13,AutoIt/Injector.GTY!tr,targets,TOO277,Windows Users,REL125
+MAL13,AutoIt/Injector.GTY!tr,uses,TOO231,SMTP,REL126
+MAL13,AutoIt/Injector.GTY!tr,uses,TOO245,Telegram,REL127
+MAL13,AutoIt/Injector.GTY!tr,uses,TOO50,Chrome,REL128
+MAL13,AutoIt/Injector.GTY!tr,uses,TOO85,Edge,REL129
+MAL13,AutoIt/Injector.GTY!tr,uses,TOO94,Firefox,REL130
+MAL13,AutoIt/Injector.GTY!tr,communicatesWith,TOO38,C2 server,REL131
+MAL63,Lynx,is a,MAL84,Ransomware,REL132
+MAL51,INC,is a,MAL84,Ransomware,REL133
+MAL63,Lynx,is a predecessor of,MAL51,INC,REL134
+MAL63,Lynx,targets,TOO168,Microsoft Windows,REL135
+MAL51,INC,targets,TOO168,Microsoft Windows,REL136
+MAL51,INC,targets,TOO88,ESXi,REL137
+MAL63,Lynx,is a predecessor of,MAL51,INC,REL138
+MAL51,INC,is a predecessor of,MAL63,Lynx,REL139
+MAL63,Lynx,is a,MAL84,Ransomware,REL140
+MAL51,INC,is a,MAL84,Ransomware,REL141
+MAL51,INC,is a predecessor of,MAL63,Lynx,REL142
+MAL63,Lynx,targets,TOO168,Microsoft Windows,REL143
+MAL51,INC,targets,TOO168,Microsoft Windows,REL144
+MAL51,INC,targets,TOO88,ESXi,REL145
+MAL31,ELF/Sshdinjector.A!tris,attributed to,TOO71,DaggerFly,REL146
+MAL31,ELF/Sshdinjector.A!tris,targets,TOO154,Linux,REL147
+MAL31,ELF/Sshdinjector.A!tris,contains,FIL99,libsshd.so,REL148
+FIL99,libsshd.so,contains,TOO121,haha,REL149
+FIL99,libsshd.so,contains,TOO123,heihei,REL150
+FIL99,libsshd.so,contains,TOO283,xixi,REL151
+MAL31,ELF/Sshdinjector.A!tris,uses,TOO158,ls,REL152
+MAL31,ELF/Sshdinjector.A!tris,uses,TOO181,netstat,REL153
+MAL31,ELF/Sshdinjector.A!tris,uses,TOO62,crond,REL154
+MAL31,ELF/Sshdinjector.A!tris,contains,TOO272,WATERDROP,REL155
+MAL23,Coyote Banking Trojan,uses,TOO201,PowerShell,REL156
+FIL100,LNK file,contains,FIL101,Machine ID,REL157
+MAL23,Coyote Banking Trojan,targets,TOO33,Brazil,REL158
+ATT13,FortiGuard Labs Threat Research,targets,TOO41,CentOS Linux,REL159
+ATT13,FortiGuard Labs Threat Research,affects,TOO42,CentOS Users,REL160
+ATT13,FortiGuard Labs Threat Research,has severity level,TOO60,Critical,REL161
+ATT13,FortiGuard Labs Threat Research,related to,VUL1,azero day exploit,REL162
+MAL98,rootkit,is,FIL132,sysinitd.ko,REL163
+MAL98,rootkit,is,FIL131,sysinitd,REL164
+FIL94,install.sh,executes,FIL132,sysinitd.ko,REL165
+TOO192,phishing,use,TOO190,PayPal,REL166
+ATT11,EC2 Grouper,uses,TOO24,AWS tools,REL167
+ATT11,EC2 Grouper,uses,TOO201,PowerShell,REL168
+ATT13,FortiGuard Labs Threat Research,detect,MAL128,Zebo-0.1.0,REL169
+ATT13,FortiGuard Labs Threat Research,detect,MAL22,Cometlogger-0.1,REL170
+MAL128,Zebo-0.1.0,uses,TOO205,pynput,REL171
+MAL128,Zebo-0.1.0,uses,TOO130,ImageGrab,REL172
+MAL128,Zebo-0.1.0,uses,ATT22,Screen Capturing,REL173
+MAL128,Zebo-0.1.0,uses,TOO73,Data Exfiltration,REL174
+TOO134,INTERPOL,associated with,TOO188,Operation Serengeti,REL175
+TOO12,AFRIPOL,associated with,TOO188,Operation Serengeti,REL176
+TOO188,Operation Serengeti,associated with,TOO101,Fortinet,REL177
+TOO188,Operation Serengeti,associated with,ATT9,Cybercrime Atlas,REL178
+TOO188,Operation Serengeti,associated with,ATT26,World Economic Forum’s Partnership Against Cybercrime,REL179
+TOO101,Fortinet,associated with,ATT9,Cybercrime Atlas,REL180
+TOO188,Operation Serengeti,target,TOO4,19 participating countries,REL181
+TOO188,Operation Serengeti,target,TOO1,1,REL182
+TOO188,Operation Serengeti,target,TOO3,135,REL183
+MAL104,SmokeLoader,targets,TOO168,Microsoft Windows,REL184
+MAL104,SmokeLoader,targets,TOO241,Taiwan,REL185
+MAL104,SmokeLoader,uses,TOO192,phishing,REL186
+MAL104,SmokeLoader,communicatesWith,TOO38,C2 server,REL187
+MAL104,SmokeLoader,drop,FIL144,VBS file,REL188
+MAL104,SmokeLoader,uses,MAL10,AndeLoader,REL189
+MAL53,Interlock,is,MAL84,Ransomware,REL190
+MAL53,Interlock,targets,TOO168,Microsoft Windows,REL191
+MAL53,Interlock,targets,TOO107,FreeBSD,REL192
+ATT23,Sina Kheirkhah,has handle,TOO228,SinSinology,REL193
+TOO98,FortiGuard Labs,highlight,TOO72,darknet,REL194
+TOO98,FortiGuard Labs,highlight,TOO233,sophisticated website cloning tools,REL195
+TOO98,FortiGuard Labs,highlight,TOO232,Sniffing tools,REL196
+TOO98,FortiGuard Labs,uses,TOO192,phishing,REL197
+TOO192,phishing,exploit,VUL6,CVE-2017-0199,REL198
+TOO192,phishing,deliver,MAL91,Remcos RAT,REL199
+MAL91,Remcos RAT,target,TOO277,Windows Users,REL200
+MAL91,Remcos RAT,use,TOO89,Excel,REL201
+MAL91,Remcos RAT,use,TOO175,MS Excel,REL202
+TOO278,Winos4.0,derived from,MAL39,Gh0strat,REL203
+TOO278,Winos4.0,used in,TOO227,Silver Fox,REL204
+TOO278,Winos4.0,targets,TOO168,Microsoft Windows,REL205
+FIL150,you.dll,part of,TOO278,Winos4.0,REL206
+FIL150,you.dll,contains,FIL155,校园政务,REL207
+TOO98,FortiGuard Labs,exploit,TOO138,Ivanti Cloud Services Appliance,REL208
+TOO98,FortiGuard Labs,exploit,VUL22,CVE-2024-8190,REL209
+TOO98,FortiGuard Labs,exploit,TOO138,Ivanti Cloud Services Appliance,REL210
+TOO98,FortiGuard Labs,exploit,VUL22,CVE-2024-8190,REL211
+TOO110,GeoServer,exploit,VUL20,CVE-2024-36401,REL212
+TOO51,CISA,add,VUL20,CVE-2024-36401,REL213
+TOO98,FortiGuard Labs,use,TOO135,IPS,REL214
+TOO32,botnet,target,VUL20,CVE-2024-36401,REL215
+MAL40,GOREVERSE,exploit,VUL20,CVE-2024-36401,REL216
+MAL32,Emansrepo,uses,TOO192,phishing,REL217
+MAL32,Emansrepo,download,FIL122,Purchase-Order.7z,REL218
+FIL122,Purchase-Order.7z,contains,FIL123,Purchase-Order.exe,REL219
+MAL32,Emansrepo,uses,TOO204,PyInstaller,REL220
+MAL32,Emansrepo,uses,TOO207,Python,REL221
+MAL114,Underground,is a,MAL84,Ransomware,REL222
+MAL114,Underground,targets,TOO168,Microsoft Windows,REL223
+MAL114,Underground,exploits,VUL16,CVE-2023-36884,REL224
+MAL114,Underground,uses,TOO167,Microsoft Office,REL225
+ATT21,RomCom group,aka,TOO237,Storm-0978,REL226
+ATT21,RomCom group,deploys,MAL114,Underground,REL227
+TOO98,FortiGuard Labs,published,TOO189,Outbreak Alert,REL228
+MAL105,Snake Keylogger,aka,TOO7,404 Keylogger,REL229
+MAL105,Snake Keylogger,aka,TOO148,KrakenKeylogger,REL230
+TOO192,phishing,targets,TOO277,Windows Users,REL231
+TOO192,phishing,uses,TOO89,Excel,REL232
+TOO192,phishing,delivers,MAL105,Snake Keylogger,REL233
+FIL130,swift copy.xls,contains,MAL105,Snake Keylogger,REL234
+MAL117,ValleyRAT,targets,TOO49,Chinese speakers,REL235
+MAL117,ValleyRAT,targets,TOO84,e-commerce,REL236
+MAL117,ValleyRAT,targets,TOO93,finance,REL237
+MAL117,ValleyRAT,targets,TOO220,sales,REL238
+MAL117,ValleyRAT,targets,TOO161,management enterprises,REL239
+MAL117,ValleyRAT,uses,TOO167,Microsoft Office,REL240
+MAL117,ValleyRAT,drop,FIL65,dome.doc,REL241
+MAL117,ValleyRAT,execute,FIL65,dome.doc,REL242
+MAL117,ValleyRAT,create,TOO246,TEST,REL243
+MAL117,ValleyRAT,delete,VUL27,registry entries,REL244
+TOO98,FortiGuard Labs,uses,TOO192,phishing,REL245
+TOO98,FortiGuard Labs,uses,MAL121,VenomRAT,REL246
+TOO98,FortiGuard Labs,uses,TOO223,ScrubCrypt,REL247
+TOO192,phishing,deploy,MAL127,XWorm,REL248
+TOO192,phishing,deploy,MAL12,AsyncRAT,REL249
+TOO192,phishing,deploy,MAL80,PureHVNC,REL250
+MAL127,XWorm,uses,TOO149,Kramer,REL251
+MAL127,XWorm,uses,TOO82,donut,REL252
+MAL127,XWorm,uses,TOO152,laZzzy,REL253
+MAL12,AsyncRAT,uses,TOO149,Kramer,REL254
+MAL12,AsyncRAT,uses,TOO82,donut,REL255
+MAL12,AsyncRAT,uses,TOO152,laZzzy,REL256
+MAL80,PureHVNC,uses,TOO149,Kramer,REL257
+MAL80,PureHVNC,uses,TOO82,donut,REL258
+MAL80,PureHVNC,uses,TOO152,laZzzy,REL259
+TOO98,FortiGuard Labs,detect,FIL153,zlibxjson,REL260
+FIL61,Discord_token_grabber.py,steal,TOO81,Discord tokens,REL261
+FIL89,get_cookies.py,steal,TOO34,browser cookies,REL262
+FIL114,password_grabber.py,steal,TOO236,stored passwords,REL263
+TOO230,Smishing Triad,uses,TOO131,iMessage,REL264
+TOO230,Smishing Triad,uses,TOO127,Hotmail,REL265
+TOO230,Smishing Triad,uses,TOO116,Gmail,REL266
+TOO230,Smishing Triad,uses,TOO285,Yahoo,REL267
+TOO131,iMessage,uses,TOO19,Apple ID,REL268
+TOO19,Apple ID,uses,ATT2,Apple,REL269
+TOO235,Spyware,exploit,VUL12,CVE-2021-40444,REL270
+MAL67,MerkSpy,exploit,VUL12,CVE-2021-40444,REL271
+MAL67,MerkSpy,use,TOO235,Spyware,REL272
+FIL106,Microsoft Word,exploit,VUL12,CVE-2021-40444,REL273
+TOO177,MSHTML,part of,TOO167,Microsoft Office,REL274
+MAL67,MerkSpy,exploit,VUL12,CVE-2021-40444,REL275
+MAL67,MerkSpy,target,TOO168,Microsoft Windows,REL276
+FIL106,Microsoft Word,exploit,VUL12,CVE-2021-40444,REL277
+VUL12,CVE-2021-40444,part of,TOO167,Microsoft Office,REL278
+TOO260,UNSTABLE,uses,MAL119,VCRUMS,REL279
+TOO260,UNSTABLE,uses,MAL111,SYK Crypto,REL280
+TOO260,UNSTABLE,exploits,VUL25,JAWS Webserver RCE vulnerability,REL281
+TOO260,UNSTABLE,exploits,VUL2,CV,REL282
+TOO56,Condi,uses,TOO23,AWS,REL283
+TOO56,Condi,uses,TOO83,DriveHQ,REL284
+MAL36,Fickle Stealer,use,TOO219,Rust,REL285
+MAL36,Fickle Stealer,use,TOO264,VBA dropper,REL286
+MAL36,Fickle Stealer,use,TOO263,VBA downloader,REL287
+MAL36,Fickle Stealer,use,TOO153,link downloader,REL288
+MAL36,Fickle Stealer,use,TOO90,executable downloader,REL289
+MAL36,Fickle Stealer,use,TOO201,PowerShell,REL290
+MAL36,Fickle Stealer,drop,FIL137,TEMP folder,REL291
+FIL142,u.ps1,same as,FIL48,bypass.ps1,REL292
+TOO263,VBA downloader,use,FIL87,forfiles.exe,REL293
+MAL103,Shinra,is a,MAL84,Ransomware,REL294
+MAL60,Limpopo,is a,MAL84,Ransomware,REL295
+MAL103,Shinra,targets,TOO168,Microsoft Windows,REL296
+MAL103,Shinra,targets,TOO271,VMWare ESXi,REL297
+MAL103,Shinra,submitted by,TOO196,Poland,REL298
+MAL103,Shinra,submitted by,TOO218,Russia,REL299
+MAL103,Shinra,submitted by,TOO258,United Kingdom,REL300
+MAL103,Shinra,submitted by,TOO259,United States,REL301
+MAL5,Agent Tesla,uses,TOO192,phishing,REL302
+MAL5,Agent Tesla,uses,TOO176,MS Office,REL303
+MAL5,Agent Tesla,uses,TOO141,JavaScript,REL304
+MAL5,Agent Tesla,uses,TOO201,PowerShell,REL305
+MAL5,Agent Tesla,uses,FIL85,fileless modules,REL306
+TOO98,FortiGuard Labs,uses,FIL103,malicious Excel document,REL307
+FIL103,malicious Excel document,contains,TOO265,VBA macro,REL308
+TOO265,VBA macro,deploy,TOO54,Cobalt Strike,REL309
+TOO257,Ukraine,target,TOO98,FortiGuard Labs,REL310
+TOO256,UAC-0057,deploy,FIL148,XLS file,REL311
+FIL148,XLS file,deploy,MAL78,PicassoLoader,REL312
+FIL148,XLS file,deploy,MAL20,Cobalt Strike Beacon,REL313
+MAL129,zEus,distributed via,TOO171,Minecraft,REL314
+MAL129,zEus,distributed via,TOO287,YouTube,REL315
+MAL129,zEus,uses,TOO279,WinRAR,REL316
+MAL129,zEus,communicatesWith,TOO80,Discord,REL317
+MAL129,zEus,saves,TOO58,C:\ProgramData,REL318
+TOO117,Goldoon,exploit,VUL4,CVE-2015-2051,REL319
+TOO117,Goldoon,download,FIL67,dropper,REL320
+MAL55,KageNoHitobito,targets,TOO168,Microsoft Windows,REL321
+MAL55,KageNoHitobito,targets,TOO169,Microsoft Windows Users,REL322
+MAL55,KageNoHitobito,is,MAL84,Ransomware,REL323
+MAL55,KageNoHitobito,uses,TOO251,TOR,REL324
+MAL55,KageNoHitobito,submitted from,TOO47,Chile,REL325
+MAL55,KageNoHitobito,submitted from,TOO48,China,REL326
+MAL55,KageNoHitobito,submitted from,TOO65,Cuba,REL327
+MAL55,KageNoHitobito,submitted from,TOO111,Germany,REL328
+MAL55,KageNoHitobito,submitted from,TOO136,Iran,REL329
+MAL55,KageNoHitobito,submitted from,TOO155,Lithuania,REL330
+MAL55,KageNoHitobito,submitted from,TOO191,Peru,REL331
+MAL55,KageNoHitobito,submitted from,TOO216,Romania,REL332
+TOO98,FortiGuard Labs,detect,MAL28,discordpy_bypass-1.7,REL333
+TOO247,theaos,author,MAL28,discordpy_bypass-1.7,REL334
+TOO247,theaos,author,MAL116,upgrade-colored_0.0.1,REL335
+MAL28,discordpy_bypass-1.7,published,TOO162,March 10,REL336
+MAL28,discordpy_bypass-1.7,detected,TOO163,March 12,REL337
+TOO174,Moobot,associated with,VUL15,CVE-2023-1389,REL338
+TOO172,Miori,associated with,VUL15,CVE-2023-1389,REL339
+MAL7,AGoent,associated with,VUL15,CVE-2023-1389,REL340
+TOO108,Gafgyt Variant,associated with,VUL15,CVE-2023-1389,REL341
+MAL7,AGoent,drop,FIL75,exec.sh,REL342
+TOO98,FortiGuard Labs,targets,VUL26,Oracle WebLogic Servers,REL343
+TOO223,ScrubCrypt,used by,ATT24,Threat Actor,REL344
+ATT24,Threat Actor,uses,TOO192,phishing,REL345
+ATT24,Threat Actor,downloads,FIL152,ZIP file,REL346
+ATT24,Threat Actor,uses,TOO223,ScrubCrypt,REL347
+TOO223,ScrubCrypt,loads,MAL121,VenomRAT,REL348
+MAL17,Byakugan,drop,FIL125,require.exe,REL349
+MAL17,Byakugan,download,FIL52,chrome.exe,REL350
+FIL125,require.exe,execute,FIL52,chrome.exe,REL351
+MAL82,RA World,is a,MAL84,Ransomware,REL352
+MAL82,RA World,targets,TOO168,Microsoft Windows,REL353
+MAL82,RA World,affects,TOO169,Microsoft Windows Users,REL354
+MAL82,RA World,severity level,TOO124,High,REL355
+MAL82,RA World,first seen,TOO77,December 2023,REL356
+MAL82,RA World,submitted from,TOO179,Netherlands,REL357
+MAL82,RA World,submitted from,TOO106,France,REL358
+MAL82,RA World,submitted from,TOO258,United Kingdom,REL359
+MAL82,RA World,submitted from,TOO69,Czech Republic,REL360
+MAL82,RA World,submitted from,TOO196,Poland,REL361
+MAL82,RA World,submitted from,TOO55,Colombia,REL362
+MAL82,RA World,submitted from,TOO139,Japan,REL363
+TOO98,FortiGuard Labs,uses,TOO192,phishing,REL364
+TOO98,FortiGuard Labs,uses,MAL120,VCURMS,REL365
+TOO98,FortiGuard Labs,uses,MAL110,STRRAT,REL366
+TOO98,FortiGuard Labs,uses,TOO14,Amazon Web Services,REL367
+TOO98,FortiGuard Labs,uses,TOO114,GitHub,REL368
+TOO98,FortiGuard Labs,uses,TOO202,Proton Mail,REL369
+TOO98,FortiGuard Labs,download,FIL97,JAR,REL370
+TOO98,FortiGuard Labs,uses,FIL115,PDF,REL371
+FIL115,PDF,download,FIL151,ZIP,REL372
+FIL151,ZIP,execute,MAL19,CHAVECLOAK,REL373
+MAL19,CHAVECLOAK,target,TOO33,Brazil,REL374
+MAL18,Casbaneiro,aka,MAL68,Metamorfo/Ponteiro,REL375
+MAL3,Abyss Locker,aka,MAL4,AbyssLocker,REL376
+MAL3,Abyss Locker,targets,TOO168,Microsoft Windows,REL377
+MAL3,Abyss Locker,targets,TOO154,Linux,REL378
+MAL3,Abyss Locker,severity,TOO124,High,REL379
+MAL3,Abyss Locker,based on,MAL47,HelloKitty,REL380
+MAL107,Spynote,is a,MAL93,Remote Access Trojan,REL381
+MAL107,Spynote,targets,TOO15,Android,REL382
+MAL107,Spynote,integrates,MAL25,CypherRat,REL383
+MAL108,SpyNote RAT,uses,TOO10,Accessibility API,REL384
+MAL108,SpyNote RAT,uses,TOO274,WebView,REL385
+MAL108,SpyNote RAT,uses,TOO128,HTML,REL386
+MAL108,SpyNote RAT,uses,TOO27,Base64,REL387
+MAL108,SpyNote RAT,contains,FIL77,fake wallets,REL388
+MAL113,TicTacToe dropper,uses,MAL59,Leonem,REL389
+MAL113,TicTacToe dropper,uses,MAL6,AgentTesla,REL390
+MAL113,TicTacToe dropper,uses,MAL106,SnakeLogger,REL391
+MAL113,TicTacToe dropper,uses,MAL92,RemLoader,REL392
+MAL113,TicTacToe dropper,uses,MAL101,Sabsik,REL393
+MAL113,TicTacToe dropper,uses,MAL61,LokiBot,REL394
+MAL113,TicTacToe dropper,uses,MAL112,Taskun,REL395
+MAL113,TicTacToe dropper,uses,MAL11,Androm,REL396
+MAL113,TicTacToe dropper,uses,MAL115,Upatre,REL397
+MAL113,TicTacToe dropper,uses,MAL90,Remcos,REL398
+MAL113,TicTacToe dropper,associated with,FIL98,Kolko_i_krzyzyk,REL399
+MAL113,TicTacToe dropper,uses,TOO192,phishing,REL400
+TOO98,FortiGuard Labs,targets,TOO168,Microsoft Windows,REL401
+MAL52,info-stealer,used by,ATT25,Vietnamese-based group,REL402
+FIL74,Excel document,contains,TOO266,VBA script,REL403
+TOO266,VBA script,execute,TOO201,PowerShell,REL404
+TOO201,PowerShell,download,FIL145,Windows Update.bat,REL405
+FIL145,Windows Update.bat,protected by,TOO9,Abobus,REL406
+FIL145,Windows Update.bat,contains,FIL139,test.vbs,REL407
+FIL139,test.vbs,download,FIL126,script.py,REL408
+FIL139,test.vbs,download,FIL63,Document.zip,REL409
+FIL139,test.vbs,download,FIL49,bypass.vbs,REL410
+FIL49,bypass.vbs,execute,FIL126,script.py,REL411
+TOO13,Albabat,aka,MAL124,White Bat,REL412
+TOO13,Albabat,is a,MAL84,Ransomware,REL413
+TOO13,Albabat,written in,TOO219,Rust,REL414
+TOO13,Albabat,distributed as,TOO215,rogue software,REL415
+TOO13,Albabat,distributed as,TOO91,fake Windows 10 digital activation tool,REL416
+TOO13,Albabat,distributed as,TOO44,cheat program for the Counter-Strike 2 game,REL417
+TOO13,Albabat,targets,TOO168,Microsoft Windows,REL418
+TOO193,Phobos,contains,MAL30,EKING,REL419
+TOO193,Phobos,contains,MAL2,8base,REL420
+TOO193,Phobos,contains,MAL35,FAUST,REL421
+FIL147,XLAM document,contains,TOO266,VBA script,REL422
+TOO266,VBA script,triggers,TOO201,PowerShell,REL423
+FIL149,XLSX file,saved in,FIL137,TEMP folder,REL424
+TOO98,FortiGuard Labs,uses,TOO206,PyPI,REL425
+TOO282,WS,drop,FIL112,nigpal,REL426
+TOO282,WS,drop,FIL81,figflix,REL427
+TOO282,WS,drop,FIL136,telerer,REL428
+TOO282,WS,drop,FIL127,seGMM,REL429
+TOO282,WS,drop,FIL80,fbdebug,REL430
+TOO282,WS,drop,FIL129,sGMM,REL431
+TOO282,WS,drop,FIL110,myGens,REL432
+TOO282,WS,drop,FIL111,NewGends,REL433
+TOO282,WS,drop,FIL140,TestLibs111,REL434
+TOO282,WS,associated with,TOO45,Checkmarxblog,REL435
+TOO98,FortiGuard Labs,uses,TOO287,YouTube,REL436
+TOO98,FortiGuard Labs,uses,TOO248,TinyURL,REL437
+TOO98,FortiGuard Labs,uses,TOO67,Cuttly,REL438
+TOO98,FortiGuard Labs,uses,TOO114,GitHub,REL439
+TOO98,FortiGuard Labs,uses,TOO164,MediaFire,REL440
+TOO159,Lumma Stealer,communicatesWith,TOO38,C2 server,REL441
+TOO98,FortiGuard Labs,detect,MAL21,CoinMiner,REL442
+FIL107,modularseven-1.0,deploy,MAL21,CoinMiner,REL443
+FIL66,driftme-1.0,deploy,MAL21,CoinMiner,REL444
+FIL50,catme-1.0,deploy,MAL21,CoinMiner,REL445
+FIL107,modularseven-1.0,originate from,TOO222,sastra,REL446
+FIL66,driftme-1.0,originate from,TOO222,sastra,REL447
+FIL50,catme-1.0,originate from,TOO222,sastra,REL448
+FIL107,modularseven-1.0,similar to,FIL58,culturestreak,REL449
+FIL66,driftme-1.0,similar to,FIL58,culturestreak,REL450
+FIL50,catme-1.0,similar to,FIL58,culturestreak,REL451
+FIL107,modularseven-1.0,use,TOO206,PyPI,REL452
+FIL66,driftme-1.0,use,TOO206,PyPI,REL453
+FIL50,catme-1.0,use,TOO206,PyPI,REL454
+FIL107,modularseven-1.0,target,TOO154,Linux,REL455
+MAL2,8base,is a,MAL84,Ransomware,REL456
+MAL2,8base,based on,TOO193,Phobos,REL457
+MAL104,SmokeLoader,delivers,MAL2,8base,REL458
+MAL2,8base,targets,TOO259,United States,REL459
+MAL15,Bandook,targets,TOO168,Microsoft Windows,REL460
+MAL15,Bandook,drop,FIL116,PDF file,REL461
+MAL15,Bandook,inject,FIL109,msinfo32.exe,REL462
+MAL15,Bandook,use,FIL118,PID of msinfo32.exe,REL463
+TOO98,FortiGuard Labs,detects,TOO86,email phishing,REL464
+TOO86,email phishing,targets,TOO168,Microsoft Windows,REL465
+TOO86,email phishing,uses,FIL104,malicious PDF file,REL466
+FIL104,malicious PDF file,downloads,FIL18,.NET executable file,REL467
+FIL18,.NET executable file,created with,TOO200,PowerGUI,REL468
+FIL18,.NET executable file,runs,TOO201,PowerShell,REL469
+TOO201,PowerShell,fetches,MAL71,MrAnon Stealer,REL470
+MAL71,MrAnon Stealer,is,TOO207,Python,REL471
+MAL71,MrAnon Stealer,compressed with,TOO68,cx-Freeze,REL472
+MAL71,MrAnon Stealer,steals,TOO59,credentials,REL473
+MAL71,MrAnon Stealer,steals,TOO35,browser sessions,REL474
+MAL71,MrAnon Stealer,steals,TOO64,cryptocurrency extensions,REL475
+TOO17,Apache Active MQ,contains,VUL17,CVE-2023-46604,REL476
+TOO98,FortiGuard Labs,released,TOO189,Outbreak Alert,REL477
+TOO98,FortiGuard Labs,detected,MAL41,GoTitan,REL478
+TOO98,FortiGuard Labs,detected,MAL79,PrCtrl Rat,REL479
+TOO98,FortiGuard Labs,identified,TOO229,Sliver,REL480
+TOO146,Konni,uses,TOO212,RAT,REL481
+TOO146,Konni,targets,TOO168,Microsoft Windows,REL482
+TOO266,VBA script,uses,TOO186,OLEFormat.IconLabel,REL483
+TOO266,VBA script,drop,FIL138,temp.zip,REL484
+TOO266,VBA script,execute,FIL51,check.bat,REL485
+TOO214,Rhysida,uses,TOO201,PowerShell,REL486
+TOO214,Rhysida,uses,TOO203,PSExec,REL487
+TOO214,Rhysida,uses,TOO16,AnyDesk,REL488
+TOO214,Rhysida,uses,TOO280,WinSCP,REL489
+TOO214,Rhysida,deploy,MAL95,Rhysida ransomware,REL490
+TOO214,Rhysida,offer,TOO210,RaaS,REL491
+TOO214,Rhysida,use,MAL33,ESXi-based ransomware,REL492
+MAL75,NoEscape,is,MAL85,Ransomware-as-a-Service,REL493
+MAL75,NoEscape,related to,MAL14,Avaddon,REL494
+MAL75,NoEscape,targets,TOO168,Microsoft Windows,REL495
+MAL75,NoEscape,targets,TOO154,Linux,REL496
+MAL75,NoEscape,targets,TOO88,ESXi,REL497
+MAL75,NoEscape,affects,TOO118,government,REL498
+MAL75,NoEscape,affects,TOO87,energy,REL499
+MAL75,NoEscape,affects,TOO126,hospitals,REL500
+MAL75,NoEscape,affects,TOO194,physicians’ clinics,REL501
+TOO98,FortiGuard Labs,uses,ATT10,Cybercrime-as-a-Service,REL502
+TOO98,FortiGuard Labs,uses,TOO109,generative AI,REL503
+TOO98,FortiGuard Labs,uses,TOO39,CaaS,REL504
+TOO98,FortiGuard Labs,uses,ATT3,APT,REL505
+MAL56,Knight,is a,MAL84,Ransomware,REL506
+MAL56,Knight,targets,TOO168,Microsoft Windows,REL507
+MAL56,Knight,uses,TOO192,phishing,REL508
+MAL56,Knight,uses,MAL90,Remcos,REL509
+MAL56,Knight,uses,MAL81,Qakbot,REL510
+MAL24,Cyclops,is a,MAL84,Ransomware,REL511
+MAL56,Knight,successor of,MAL24,Cyclops,REL512
+TOO11,advisory,issued by,TOO43,CERT Italy,REL513
+MAL34,ExelaStealer,uses,TOO207,Python,REL514
+MAL34,ExelaStealer,uses,TOO141,JavaScript,REL515
+MAL34,ExelaStealer,targets,TOO275,Windows,REL516
+MAL34,ExelaStealer,sold by,TOO209,quicaxd,REL517
+MAL34,ExelaStealer,advertised on,TOO245,Telegram,REL518
+MAL8,Akira,is a,MAL84,Ransomware,REL519
+MAL8,Akira,targets,TOO168,Microsoft Windows,REL520
+MAL8,Akira,targets,TOO154,Linux,REL521
+ATT6,CERT India,issues,TOO11,advisory,REL522
+TOO98,FortiGuard Labs,protects against,MAL8,Akira,REL523
+TOO101,Fortinet,partners with,TOO98,FortiGuard Labs,REL524
+MAL54,IZ1H9,uses,TOO173,Mirai,REL525
+MAL54,IZ1H9,exploits,VUL3,CVE-2015-1187,REL526
+MAL54,IZ1H9,exploits,VUL5,CVE-2016-20017,REL527
+MAL54,IZ1H9,exploits,VUL11,CVE-2020-25506,REL528
+MAL54,IZ1H9,exploits,VUL13,CVE-2021-45382,REL529
+TOO98,FortiGuard Labs,uses,TOO184,NPM,REL530
+TOO98,FortiGuard Labs,uses,TOO141,JavaScript,REL531
+TOO98,FortiGuard Labs,uses,TOO206,PyPI,REL532
+TOO98,FortiGuard Labs,uses,FIL93,index.js,REL533
+TOO98,FortiGuard Labs,targets,ATT4,Azerbaijanian company,REL534
+TOO98,FortiGuard Labs,targets,TOO25,Azerbaijan,REL535
+TOO98,FortiGuard Labs,targets,TOO21,Armenia,REL536
+MAL69,MidgeDropper,uses,TOO211,RAR,REL537
+MAL69,MidgeDropper,drop,FIL42,062023_PENTING_LIST OF SUPERVISORY OFFICERS WHO STILL HAVE NOT REPORT.pdf.exe,REL538
+TOO98,FortiGuard Labs,targets,TOO275,Windows,REL539
+TOO98,FortiGuard Labs,uses,FIL146,Word document,REL540
+TOO98,FortiGuard Labs,uses,MAL77,OriginBotnet,REL541
+TOO98,FortiGuard Labs,uses,MAL89,RedLine Clipper,REL542
+TOO98,FortiGuard Labs,uses,MAL6,AgentTesla,REL543
+TOO18,Aphishingemail,uses,FIL146,Word document,REL544
+MAL5,Agent Tesla,uses,MAL93,Remote Access Trojan,REL545
+MAL5,Agent Tesla,uses,TOO74,data stealer,REL546
+MAL5,Agent Tesla,is a,MAL65,Malware-as-a-Service,REL547
+TOO192,phishing,used by,MAL5,Agent Tesla,REL548
+MAL5,Agent Tesla,exploits,VUL7,CVE-2017-11882,REL549
+MAL5,Agent Tesla,exploits,VUL8,CVE-2018-0802,REL550
+TOO192,phishing,targets,TOO277,Windows Users,REL551
+TOO98,FortiGuard Labs,detects,MAL5,Agent Tesla,REL552
+TOO98,FortiGuard Labs,mitigates,TOO6,3000,REL553
+TOO98,FortiGuard Labs,observes,TOO2,1300,REL554

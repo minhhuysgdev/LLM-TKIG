@@ -1,0 +1,8 @@
+id,name,type
+IPS1,0x1c3eefb0000,ips
+IPS2,0x1c3ef029fff,ips
+IPS3,185[.]191[.]126[.]213,ips
+IPS4,185[.]191[.]126[.]248,ips
+IPS5,206[.]189[.]156[.]69,ips
+IPS6,94[.]228[.]168[.]60,ips
+IPS7,Columbia,ips

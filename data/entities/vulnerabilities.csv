@@ -1,0 +1,28 @@
+id,name,type
+VUL1,azero day exploit,vulnerabilities
+VUL2,CV,vulnerabilities
+VUL3,CVE-2015-1187,vulnerabilities
+VUL4,CVE-2015-2051,vulnerabilities
+VUL5,CVE-2016-20017,vulnerabilities
+VUL6,CVE-2017-0199,vulnerabilities
+VUL7,CVE-2017-11882,vulnerabilities
+VUL8,CVE-2018-0802,vulnerabilities
+VUL9,CVE-2019-10891,vulnerabilities
+VUL10,CVE-2019-19356,vulnerabilities
+VUL11,CVE-2020-25506,vulnerabilities
+VUL12,CVE-2021-40444,vulnerabilities
+VUL13,CVE-2021-45382,vulnerabilities
+VUL14,CVE-2022-37056,vulnerabilities
+VUL15,CVE-2023-1389,vulnerabilities
+VUL16,CVE-2023-36884,vulnerabilities
+VUL17,CVE-2023-46604,vulnerabilities
+VUL18,CVE-2024-12856,vulnerabilities
+VUL19,CVE-2024-33112,vulnerabilities
+VUL20,CVE-2024-36401,vulnerabilities
+VUL21,CVE-2024-3721,vulnerabilities
+VUL22,CVE-2024-8190,vulnerabilities
+VUL23,CVE‑2025‑1974,vulnerabilities
+VUL24,Ivanti Cloud Services Appliance,vulnerabilities
+VUL25,JAWS Webserver RCE vulnerability,vulnerabilities
+VUL26,Oracle WebLogic Servers,vulnerabilities
+VUL27,registry entries,vulnerabilities

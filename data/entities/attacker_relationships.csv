@@ -1,0 +1,40 @@
+source_id,source_name,relation,target_id,target_name,id,source_is_attacker,target_is_attacker
+TOO90,Rust,used_by,ATT33,Hive,REL3,False,True
+TOO90,Rust,used_by,ATT52,RansomExx,REL4,False,True
+MAL21,LokiBot,drops,ATT41,Malware,REL5,False,True
+ATT18,Condi,spreads_via,VUL4,CVE-2023-1389,REL6,True,False
+ATT17,Cl0p,exploits,VUL21,CVE-2023-34362,REL8,True,False
+ATT27,EvilExtractor,targets,TOO115,Windows,REL13,True,False
+TOO51,Kodex,developed,ATT27,EvilExtractor,REL14,False,True
+TOO34,FortiGuard Labs,observes,ATT27,EvilExtractor,REL15,False,True
+TOO118,Windows Users,are impacted by,ATT65,Threat actor,REL16,False,True
+TOO34,FortiGuard Labs,researches,ATT41,Malware,REL18,False,True
+TOO34,FortiGuard Labs,detects,ATT45,Moobot,REL19,False,True
+ATT1,8220 Gang,uses,TOO91,ScrubCrypt,REL21,True,False
+ATT67,Trexon,publishes,TOO114,web3-essential,REL24,True,False
+ATT38,Lolip0p,publishes,TOO27,colorslib,REL28,True,False
+ATT38,Lolip0p,publishes,TOO43,httpslib,REL29,True,False
+ATT38,Lolip0p,publishes,TOO55,libhttps,REL30,True,False
+TOO34,FortiGuard Labs,monitors,ATT34,IoT botnet,REL31,False,True
+TOO118,Windows Users,are affected by,ATT41,Malware,REL33,False,True
+ATT48,Play,associated_with,ATT6,Balloonfly,REL36,True,True
+ATT6,Balloonfly,uses,TOO105,theGrixba,REL37,True,False
+ATT56,Shuckworm,targets,TOO110,Ukraine,REL38,True,False
+ATT56,Shuckworm,uses,TOO36,GammaSteel,REL39,True,False
+ATT53,RansomHub,uses,MAL5,Backdoor.Betruger,REL40,True,False
+ATT53,RansomHub,develops,MAL5,Backdoor.Betruger,REL41,True,False
+ATT60,Spearwing,operates,MAL24,Medusa,REL44,True,False
+ATT53,RansomHub,overtakes,TOO57,LockBit,REL45,True,False
+TOO101,Symantec,finds evidence of,ATT62,Stonefly,REL46,False,True
+ATT62,Stonefly,tries to deploy,MAL34,ransomware,REL48,True,False
+ATT64,Syrphid,operates,TOO57,LockBit,REL49,True,False
+ATT21,Daggerfly,delivers,MAL25,MgBot,REL51,True,False
+ATT21,Daggerfly,updates,MAL22,Macma,REL52,True,False
+MAL10,Coolclient:A,associated with,ATT30,Fireant group,REL53,False,True
+ATT9,Black Basta,may_have_been_exploiting,VUL22,CVE-2024-26169,REL54,True,False
+ATT13,Cardinal,operates,ATT9,Black Basta,REL55,True,True
+ATT63,Storm-1811,is_alias_for,ATT13,Cardinal,REL56,True,True
+ATT69,UNC4393,is_alias_for,ATT13,Cardinal,REL57,True,True
+ATT61,Springtail,developed,MAL19,Linux.Gomir,REL59,True,False
+ATT61,Springtail,used,ATT41,Malware,REL60,True,True
+ATT41,Malware,uses,TOO61,Microsoft Graph API,REL61,True,False
